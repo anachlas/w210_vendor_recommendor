@@ -10,6 +10,14 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 # [END create_app]
 
+@app.route('/')
+@app.route('/index')
+def index():
+    user = {'nickname': 'Bob'}
+    return render_template('index.html',
+                           title='Home',
+                           user=user)
+
 # [START form]
 @app.route('/form')
 def form():
