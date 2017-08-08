@@ -6,8 +6,6 @@ skip_files:
 
 # [START handlers]
 handlers:
-- url: /static
-  static_dir: static
-- url: /.*
+- url: .*  # This regex directs all routes to main.app
   script: main.app
 # [END handlers]

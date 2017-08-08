@@ -14,7 +14,6 @@ app = Flask(__name__, static_url_path='')
 @app.route('/')
 def main():
     return current_app.send_static_file('index.html')
-# [END form]
 
 
 @app.errorhandler(500)
