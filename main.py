@@ -19,7 +19,7 @@ def main():
 def hello():
     req=request.form['req']
     agency=request.form['agency']
-    return render_template('results.html', name=req, email=agency)
+    return render_template('results.html', agency=agency, requirement=req)
 
 
 @app.errorhandler(500)
