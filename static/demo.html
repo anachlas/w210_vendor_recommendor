@@ -49,19 +49,34 @@
 				</div>
 			<div>
 		</section>
+		<datalist id="languages">
+  <option value="HTML">
+  <option value="CSS">
+  <option value="JavaScript">
+  <option value="Java">
+  <option value="Ruby">
+  <option value="PHP">
+  <option value="Go">
+  <option value="Erlang">
+  <option value="Python">
+  <option value="C">
+  <option value="C#">
+  <option value="C++">
+</datalist>
+
 
 		<main id="main">
 			<div class="container">
 				<div class="col-md-8 col-md-offset-2 animate-box">
-					<form action="#">
+					<form method="post" action="hello">
 						<div class="form-group row">
 							<div class="col-md-6 field">
-								<label for="requirement">Requirement</label>
-								<input type="text" name="req" id="req" class="form-control" placeholder="search by NAICS, PSC or keyword">
+								<label for="req">Requirement</label>
+								<input type="text" name="req" id="req" list="languages" class="form-control" placeholder="search by NAICS, PSC or keyword">
 							</div>
 							<div class="col-md-6 field">
-								<label for="location">Location</label>
-								<input type="text" name="loc" id="loc" class="form-control" placeholder="search by city, state, zip or congressional district">
+								<label for="agency">Agency</label>
+								<input type="text" name="agency" id="agency" class="form-control" placeholder="Select your agency">
 							</div>
 						</div>
 						<div class="form-group row">
@@ -73,6 +88,7 @@
 				</div>
 			</div>
 		</main>
+
 
 
 		<footer id="footer" role="contentinfo">
