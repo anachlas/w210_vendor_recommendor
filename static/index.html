@@ -37,8 +37,6 @@
 	.section {
 		height: 100vh;
 	}
-
-
     </style>
 </head>
 
@@ -62,8 +60,8 @@
 	                    <a href="index.html">
 	                    <!--<i class="material-icons">apps</i>-->Home
 	                    </a></li>
-	                <li><a href="index#5">About us</a></li>
-	                <li><a href="demo">Demo</a></li>
+	                <li><a href="#about">About us</a></li>
+	                <li><a href="demo" target="_blank">Demo</a></li>
 	            </ul>
 			</div>
 
@@ -93,13 +91,46 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="title">The Problem</h2>
+                    
+                    <h3>Imagine that you are a buyer for a federal government agency.</h3>
+                    
+                    <img src="assets/img/theproblem.png" height="230" align="right"><br>
+                    <h4 class="description" align="left"> A purchase request shows up on your desk &mdash; someone needs you to buy them <u>500 lbs of meat</u>. (Humor us.) Where do you start? How do you find a vendor that can supply meat in bulk? And assuming you do find one, how do you know you've found the <b><i>best</i></b> possible vendor, in terms of quality? (After all, you don't want to be the guy or gal who bought the bad meat.)</h4>
+                </div>
 
-                    <h3 class="description">Imagine that you are a buyer for a federal government agency.</h3>
-                    <br>
-                    <h4 class="description"> A purchase request shows up on your desk &mdash; someone needs you to buy them 500 lbs of meat. (Humor us.) Where do you start? How do you find a vendor that can supply meat in bulk? And assuming you do find one, how do you know you've found the <i>best</i> possible vendor, in terms of quality? (After all, you don't want to be the guy or gal who bought the bad meat.)</h4>
-                    <br>
-                    <h4 class="description">We know what you’re thinking: <i>wait a sec, this is silly. Why would I need to buy so much meat?</i> We’re so glad you asked. Do you know how much money the United States government spent on meat in 2016?</h4>
+                <div class="col-md-8 col-md-offset-2">
+                    <h4 class="description" align="left">As private citizens, we are inundated with online tools and resources that help us find the best stuff: <a href="https://www.yelp.com" target="_blank">Yelp</a>. <a href="https://www.amazon.com" target="_blank">Amazon</a>. <a href="https://www.angieslist.com" target="_blank">Angie’s List</a>. <a href="http://www.tripadvisor.com" target="_blank">TripAdvisor</a>. <a href="http://www.zillow.com" target="_blank">Zillow</a>. <a href="http://www.carmax.com" target="_blank">CarMax</a>. The list goes on! But unfortunately government buyers don’t have the same luxury of options. There is no “government Yelp”. <sup><span style="color:black" title="Federal agencies do use the Past Performance Information Retrieval System (PPIRS) to share and reivew past performance information for contracts above a certain dollar threshold; however, vendors can only be considered one at a time, and there is no feature that sorts or compares vendors by rating.">[1]</span></sup></h4>
+                </div>
+            </div>
+        </div>
 
+
+        <div class="section text-center">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="title">The Solution</h2>
+                    
+                    <h3>That's where Federal Vendor Recommender comes in.</h3>
+                    <a href="demo" target="_blank"><img src="assets/img/thesolution.png" height="200" align="right"></a><br>
+                    <h4 class="description" align="left">Our mission is to address this gap by leveraging <a href="#how">data science and machine learning</a> to recommend vendors to government buyers based on quality performance, business size and socioeconomic status, and other relevant factors. </h4>
+                <br>
+                    <h4 class="description" align="left">To the extent possible, our algorithm favors small and disadvantaged businesses over large businesses in accordance with <a href="https://www.sba.gov/sites/default/files/aboutsbaarticle/Small_Business_Act.pdf" target="_blank">legal</a> and <a href="https://www.acquisition.gov/sites/default/files/current/far/html/FARTOCP19.html" target="_blank">regulatory</a> requirements for the government to maximize contracting opportunities for such vendors. We also respect the competitive process and strive to assist government buyers in providing for <a href="https://www.acquisition.gov/far/html/Subpart%206_1.html#wp1087648" target="_blank">full and open competition</a> in soliciting offers and awarding contracts.</h4>
+                </div>
+            </div>
+        </div>
+    
+
+
+
+        <div class="section text-center">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="title">So what?</h2>
+                    
+                    <h3>We know what you're thinking.</h3>
+                    <img src="assets/img/sowhat.png" height="220" align="right"><br>
+                    <h4 class="description" align="left"><i>That’s great, but so what? Does the government even buy that much meat anyway?</i> &nbsp; We are so glad you asked! Guess how much money the federal government spent on meat last year.</h4>
+                    
                     <button class="btn btn-info btn-round" id="showStatsBtn">
                         <i class="material-icons">mouse</i> Click to find out
                         <div class="ripple-container"></div>
@@ -108,25 +139,12 @@
                         <h2 class="title">$ <span class="title counter">861,332,427.07</span></h2>
                     </div>
 
-                    <h3 class="description">But that's just the tip of the iceberg...</h3>
-
+                    <h4 class="description" align="left">Staggering, right? But that's just the tip of the iceberg...</h4>
                 </div>
             </div>
         </div>
 
-
-
-        <div class="section text-center">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <h2 class="title">
-                        But how can they find a suitable vendor without a single comprehensive tool?
-                    </h2>
-                    <h5 class="description">As a private citizen, we have many choices that offer market research, but
-                        not contracting officers. These are some for starters
-                    </h5>
-                </div>
-            </div>
+            <div class="section text-center">
             <div class="">
                 <div class="row features">
                     <div class="col-md-4 col-sm-4">
@@ -168,9 +186,9 @@
         </div>
 
 
-        <div class="section text-center">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
+        <div class="section text-center" >
+            <div class="row" id="how">
+                <div class="col-md-8 col-md-offset-2" >
                     <h2 class="title">
                         The answer is machine learning!
                     </h2>
@@ -281,7 +299,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-3">
+                    <div class="col-md-3" id="about">
                         <div class="card card-profile card-plain">
                             <div class="card-avatar">
                                 <a href="sections.html#pablo">
@@ -374,7 +392,7 @@
                             Some text here. Some text here.Some text here.Some text here.Some text here.Some text
                             here.Some text here.Some text here.Some text here.Some text here.
                         </p>
-                        <a href="demo" class="btn btn-danger btn-round">
+                        <a href="demo.html" class="btn btn-danger btn-round">
                             <i class="fa fa-laptop"> Take me to Demo</i>
                         </a>
                     </div>
