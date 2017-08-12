@@ -10,17 +10,46 @@ from flask import Flask, current_app, request, render_template
 app = Flask(__name__, static_url_path='')
 # [END create_app]
 
+vendors = {
+    "meat": [
+        {"name": "PUEBLO TRADING CO., INC", "duns": 174473280, "score": 1.0},
+        {"name": "US FOODS, INC.", "duns": 795140433, "score": 1.0},
+        {"name": "V3", "duns": 12345, "score": 1.0},
+        {"name": "V4", "duns": 12345, "score": 1.0},
+        {"name": "V5", "duns": 12345, "score": 1.0}
+    ],
+    "printers": [
+        {"name": "V1", "duns": 12345, "score": 1.0},
+        {"name": "V2", "duns": 12346, "score": 1.0},
+        {"name": "V3", "duns": 12345, "score": 1.0},
+        {"name": "V4", "duns": 12345, "score": 1.0},
+        {"name": "V5", "duns": 12345, "score": 1.0},
+        {"name": "V6", "duns": 12345, "score": 0.827123123},
+        {"name": "V1", "duns": 12345, "score": 1.0},
+        {"name": "V2", "duns": 12346, "score": 1.0},
+        {"name": "V3", "duns": 12345, "score": 1.0},
+        {"name": "V4", "duns": 12345, "score": 1.0},
+        {"name": "V5", "duns": 12345, "score": 1.0},
+        {"name": "V6", "duns": 12345, "score": 0.827123123}
+    ],
+    "foo": [
+        {"name": "V1", "duns": 12345, "score": 1.0},
+        {"name": "V2", "duns": 12346, "score": 1.0},
+        {"name": "V3", "duns": 12345, "score": 1.0}
+    ],
+    "bar": [
+        {"name": "There can be only one", "duns": 12345, "score": 0.827123123}
+    ]
+}
 
 @app.route('/')
 def main():
     return current_app.send_static_file('index.html')
 
-@app.route('/search', methods=['POST'])
-def hello():
+@app.route('/results', methods=['POST'])
+def search():
     req=request.form['req']
-    agency=request.form['agency']
-    return render_template('results.html', agency=agency, requirement=req)
-
+    return render_template('results.html', requirement=req, vendors=vendors[req], count=len(vendors[req]))
 
 @app.errorhandler(500)
 def server_error(e):
