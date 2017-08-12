@@ -3,53 +3,33 @@
 import logging
 
 # [START imports]
+import json
+
 from flask import Flask, current_app, request, render_template
+from os import listdir
 # [END imports]
 
 # [START create_app]
 app = Flask(__name__, static_url_path='')
 # [END create_app]
 
-vendors = {
-    "meat": [
-        {"name": "PUEBLO TRADING CO., INC", "duns": 174473280, "score": 1.0},
-        {"name": "US FOODS, INC.", "duns": 795140433, "score": 1.0},
-        {"name": "V3", "duns": 12345, "score": 1.0},
-        {"name": "V4", "duns": 12345, "score": 1.0},
-        {"name": "V5", "duns": 12345, "score": 1.0}
-    ],
-    "printers": [
-        {"name": "V1", "duns": 12345, "score": 1.0},
-        {"name": "V2", "duns": 12346, "score": 1.0},
-        {"name": "V3", "duns": 12345, "score": 1.0},
-        {"name": "V4", "duns": 12345, "score": 1.0},
-        {"name": "V5", "duns": 12345, "score": 1.0},
-        {"name": "V6", "duns": 12345, "score": 0.827123123},
-        {"name": "V1", "duns": 12345, "score": 1.0},
-        {"name": "V2", "duns": 12346, "score": 1.0},
-        {"name": "V3", "duns": 12345, "score": 1.0},
-        {"name": "V4", "duns": 12345, "score": 1.0},
-        {"name": "V5", "duns": 12345, "score": 1.0},
-        {"name": "V6", "duns": 12345, "score": 0.827123123}
-    ],
-    "foo": [
-        {"name": "V1", "duns": 12345, "score": 1.0},
-        {"name": "V2", "duns": 12346, "score": 1.0},
-        {"name": "V3", "duns": 12345, "score": 1.0}
-    ],
-    "bar": [
-        {"name": "There can be only one", "duns": 12345, "score": 0.827123123}
-    ]
-}
+demo_results = [filename.split('.')[0] for filename in listdir('demo_results')]
 
 @app.route('/')
 def main():
     return current_app.send_static_file('index.html')
 
+@app.route('/demo')
+def demo():
+    return render_template('demo.html', options=demo_results)
+
 @app.route('/results', methods=['POST'])
 def search():
     req=request.form['req']
-    return render_template('results.html', requirement=req, vendors=vendors[req], count=len(vendors[req]))
+    with open('demo_results/'+ req + '.json') as data_file:
+        vendors = json.load(data_file)
+
+    return render_template('results.html', requirement=req, vendors=vendors, count=len(vendors))
 
 @app.errorhandler(500)
 def server_error(e):

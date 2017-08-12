@@ -46,11 +46,10 @@
 							<div class="col-md-12 field">
 								<label for="req">Select Requirement</label>
 								  <select name="req" id="req" class="form-control">
-									<option value="meat">Meat</option>
-									<option value="printers">Printers</option>
-									<option value="foo">Foo</option>
-									<option value="bar">Bar</option>
-  								</select>
+									  {% for option in options %}
+									  <option value= "{{ option }}"> {{option}} </option>
+									  {% endfor %}
+								  </select>
 							</div>
 						</div>
 						<div class="form-group row">
