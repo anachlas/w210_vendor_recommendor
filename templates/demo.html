@@ -47,7 +47,7 @@
 								<label for="req">Select Requirement</label>
 								  <select name="req" id="req" class="form-control">
 									  {% for option in options %}
-									  <option value= "{{ option }}"> {{option}} </option>
+									  <option value= {{ loop.index0 }}> {{option}} </option>
 									  {% endfor %}
 								  </select>
 							</div>

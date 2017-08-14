@@ -49,9 +49,9 @@
                     </tr>
                     {% for vendor in vendors %}
                     <tr>
-                        <td> {{ vendor.name }}</td>
-                        <td> {{ vendor.duns }}</td>
-                        <td> {{ vendor.score }}</td>
+                        <td> {{ vendor.f0_ }}</td>
+                        <td> {{ vendor.dunsnumber }}</td>
+                        <td> {{ vendor.f1_|float|round(1) }}</td>
                     </tr>
                     {% endfor %}
                 </table>

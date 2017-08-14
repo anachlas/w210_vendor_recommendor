@@ -21,15 +21,16 @@ def main():
 
 @app.route('/demo')
 def demo():
-    return render_template('demo.html', options=demo_results)
+    return render_template('demo.html', options=[x.replace("_"," ").capitalize() for x in demo_results])
 
 @app.route('/results', methods=['POST'])
 def search():
-    req=request.form['req']
-    with open('demo_results/'+ req + '.json') as data_file:
+    req_id=int(request.form['req'])
+    print(request.form)
+    with open('demo_results/'+ demo_results[req_id] + '.json') as data_file:
         vendors = json.load(data_file)
 
-    return render_template('results.html', requirement=req, vendors=vendors, count=len(vendors))
+    return render_template('results.html', requirement=demo_results[req_id].replace("_"," "), vendors=vendors, count=len(vendors))
 
 @app.errorhandler(500)
 def server_error(e):
