@@ -13,7 +13,7 @@ from os import listdir
 app = Flask(__name__, static_url_path='')
 # [END create_app]
 
-demo_results = [filename.split('.')[0] for filename in listdir('demo_results')]
+demo_results = [filename.split('.')[0] for filename in listdir('demo_results') if filename != ""]
 
 @app.route('/')
 def main():
