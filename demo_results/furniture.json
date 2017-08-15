@@ -1,100 +1,602 @@
-[{"vendorname":"ALPHA OFFICE SUPPLIES INCORPORATED","dunsnumber":"155415078","pred":"7809.6422766666665","smb":"S: SMALL BUSINESS"},
-{"vendorname":"AARCO PRODUCTS, INC.","dunsnumber":"10018737","pred":"6244.443573333334","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"SOURCEAMERICA","dunsnumber":"74809377","pred":"5870.689596124999","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"CONFIGURATION INCORPORATED","dunsnumber":"804514602","pred":"5337.040484928334","smb":"S: SMALL BUSINESS"},
-{"vendorname":"NORTH AMERICAN RESCUE, LLC","dunsnumber":"832426782","pred":"3924.9575","smb":"S: SMALL BUSINESS"},
-{"vendorname":"NATIONAL INDUSTRIES FOR THE BLIND","dunsnumber":"1672120","pred":"3621.7063372222215","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"AIR PRODUCTS AND CHEMICALS INCORPORATED","dunsnumber":"99109766","pred":"3384.5632","smb":"S: SMALL BUSINESS"},
-{"vendorname":"ABBOTT LABORATORIES INC","dunsnumber":"967474896","pred":"2784.0176","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"INVACARE CORPORATION","dunsnumber":"76916246","pred":"2726.6083716666667","smb":"S: SMALL BUSINESS"},
-{"vendorname":"SUPPLYCORE, INC","dunsnumber":"116057019","pred":"2627.928428","smb":"S: SMALL BUSINESS"},
-{"vendorname":"ARTHREX, INC","dunsnumber":"131747628","pred":"2052.2928072500004","smb":"S: SMALL BUSINESS"},
-{"vendorname":"SUNRISE MEDICAL HHG INC.","dunsnumber":"19666098","pred":"1780.9564714285714","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"PRIDE MOBILITY PRODUCTS CORPORATION","dunsnumber":"41477449","pred":"1667.8596","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"JORDAN RESES SUPPLY COMPANY, LLC","dunsnumber":"142440150","pred":"1646.6114666666665","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"IMPLANT INNOVATIONS INCORPORATED","dunsnumber":"186127825","pred":"1331.3710575","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"CLARKE HEALTH CARE PRODUCTS, INC.","dunsnumber":"174205013","pred":"1202.4493133333333","smb":"S: SMALL BUSINESS"},
-{"vendorname":"PROAIM AMERICAS, LLC","dunsnumber":"962568338","pred":"1129.15933","smb":"S: SMALL BUSINESS"},
-{"vendorname":"TULSA DENTAL PRODUCTS, INC","dunsnumber":"197425523","pred":"1094.9030885","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"HOLLISTER INCORPORATED","dunsnumber":"5527098","pred":"1092.67","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"ELECTRIC MOBILITY CORPORATION","dunsnumber":"73680126","pred":"1065.69038","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"ROHO GROUP INCORPORATED THE","dunsnumber":"71985816","pred":"1061.6755","smb":"S: SMALL BUSINESS"},
-{"vendorname":"TIMM MEDICAL TECHNOLOGIES, INC.","dunsnumber":"31693195","pred":"904.00916","smb":"S: SMALL BUSINESS"},
-{"vendorname":"MECO CORPORATION","dunsnumber":"3391661","pred":"878.9882156666667","smb":"S: SMALL BUSINESS"},
-{"vendorname":"MARATHON, INC.","dunsnumber":"119312671","pred":"773.727712","smb":"S: SMALL BUSINESS"},
-{"vendorname":"KALMAR RT CENTER LLC","dunsnumber":"123343027","pred":"771.9795","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"CUSTOM PRODUCTION MFG., INC.","dunsnumber":"187635792","pred":"766.9073875","smb":"S: SMALL BUSINESS"},
-{"vendorname":"HERMAN MILLER INC","dunsnumber":"53618807","pred":"721.7685561249999","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"CATERPILLAR INC.","dunsnumber":"944204924","pred":"719.84645","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"BOSTON SCIENTIFIC CORPORATION","dunsnumber":"21717889","pred":"707.583195075","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"OSHKOSH DEFENSE, LLC","dunsnumber":"79467211","pred":"699.44293","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"ATLANTIC DIVING SUPPLY, INC.","dunsnumber":"27079776","pred":"697.3392046249999","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"SOFTCHOICE CORPORATION","dunsnumber":"929022028","pred":"692.19262","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"MEDLINE INDUSTRIES INC.","dunsnumber":"25460908","pred":"677.0292113333331","smb":"S: SMALL BUSINESS"},
-{"vendorname":"HERMAN MILLER INCORPORATED","dunsnumber":"6012801","pred":"663.8832689108697","smb":"S: SMALL BUSINESS"},
-{"vendorname":"BIOMEDICAL LIFE SYSTEMS INCORPORATED","dunsnumber":"118289172","pred":"654.9447","smb":"S: SMALL BUSINESS"},
-{"vendorname":"BENTCO OFFICE SOLUTIONS","dunsnumber":"962900288","pred":"646.5204055666667","smb":"S: SMALL BUSINESS"},
-{"vendorname":"GOLDEN BROTHERS, INC.","dunsnumber":"150742401","pred":"631.5215871428571","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"FLA ORTHOPEDICS INCORPORATED","dunsnumber":"30764260","pred":"630.9891","smb":"S: SMALL BUSINESS"},
-{"vendorname":"JOFCO INC","dunsnumber":"6366116","pred":"630.9694052","smb":"S: SMALL BUSINESS"},
-{"vendorname":"ARACENT HEALTHCARE, LLC","dunsnumber":"143635477","pred":"614.5985360000001","smb":"S: SMALL BUSINESS"},
-{"vendorname":"DIEBOLD INCORPORATED","dunsnumber":"939061057","pred":"602.1150866666666","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"LSL INDUSTRIES INCORPORATED","dunsnumber":"46703096","pred":"600.2716","smb":"S: SMALL BUSINESS"},
-{"vendorname":"CROWN THERAPEUTICS INCORPORATED","dunsnumber":"807175559","pred":"569.3756","smb":"S: SMALL BUSINESS"},
-{"vendorname":"GRAYBAR ELECTRIC COMPANY INCORPORATED (4380)","dunsnumber":"1903137","pred":"556.73064","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"ALCON LABORATORIES INC","dunsnumber":"8018525","pred":"550.1017199999999","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"HAWORTH, INC.","dunsnumber":"72595457","pred":"547.7187833759259","smb":"S: SMALL BUSINESS"},
-{"vendorname":"MERCER COUNTY REHAB SUPPLY INC","dunsnumber":"603822693","pred":"544.1543668","smb":"S: SMALL BUSINESS"},
-{"vendorname":"CARDINAL HEALTH 200, INC","dunsnumber":"961027315","pred":"538.7862320000002","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"NORTH COAST MEDICAL, INC.","dunsnumber":"60121928","pred":"530.884845","smb":"S: SMALL BUSINESS"},
-{"vendorname":"XEROX CORPORATION","dunsnumber":"39860122","pred":"507.1045778333333","smb":"S: SMALL BUSINESS"},
-{"vendorname":"DELL FEDERAL SYSTEMS LIMITED PARTNERSHIP","dunsnumber":"149530219","pred":"499.5413922000001","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"BIRD & CRONIN, INC","dunsnumber":"45975349","pred":"498.28235","smb":"S: SMALL BUSINESS"},
-{"vendorname":"STAR MORNING INDUSTRIES INC","dunsnumber":"25189338","pred":"485.98804","smb":"S: SMALL BUSINESS"},
-{"vendorname":"SAMMONS PRESTON","dunsnumber":"791006828","pred":"475.21641600000004","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"STERIS CORPORATION","dunsnumber":"177360039","pred":"458.5651522","smb":"S: SMALL BUSINESS"},
-{"vendorname":"MEGHAN BLAKE INDUSTRIES, INC.","dunsnumber":"3062380","pred":"435.75845","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"KNOLL INC","dunsnumber":"781316096","pred":"432.8811684156096","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"APPTIS TECHNOLOGY SOLUTIONS, LLC","dunsnumber":"827714507","pred":"429.930747","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"MARK V OFFICE FURNITURE CO","dunsnumber":"91639047","pred":"417.8243779333333","smb":"S: SMALL BUSINESS"},
-{"vendorname":"HUMANSCALE CO","dunsnumber":"808198196","pred":"405.24106","smb":"S: SMALL BUSINESS"},
-{"vendorname":"INDIANA CHAIR FRAME COMPANY","dunsnumber":"138096602","pred":"404.55853","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"JOHNSON & JOHNSON HEALTH CARE SYSTEMS INC.","dunsnumber":"782053516","pred":"401.50647527692314","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"TRENDWAY CORPORATION","dunsnumber":"43683515","pred":"400.6982050000001","smb":"S: SMALL BUSINESS"},
-{"vendorname":"MILLER DESK INC","dunsnumber":"3215621","pred":"399.08488151666666","smb":"S: SMALL BUSINESS"},
-{"vendorname":"SCIENCE APPLICATIONS INTERNATIONAL CORPORATION","dunsnumber":"148983229","pred":"388.8513","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"DENTAL HEALTH PRODUCTS INCORPORATED","dunsnumber":"623191194","pred":"387.7479825","smb":"S: SMALL BUSINESS"},
-{"vendorname":"ALLIED 100 LIMITED LIABILITY COMPANY","dunsnumber":"121306984","pred":"385.16231999999997","smb":"S: SMALL BUSINESS"},
-{"vendorname":"PRECISION DYNAMICS CORPORATION","dunsnumber":"8486367","pred":"373.6845","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"CINCINNATI ASSOCIATION FOR THE BLIND","dunsnumber":"74705559","pred":"372.9676143333333","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"VARIDESK, LLC","dunsnumber":"79464963","pred":"368.82553","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"KIMBERLY-CLARK CORPORATION","dunsnumber":"6072136","pred":"366.92764","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"MEDICAL PLACE","dunsnumber":"112651336","pred":"364.113505","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"AMERICAN PURCHASING SERVICE IN","dunsnumber":"62722038","pred":"363.7934552307692","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"HAMILTON PRODUCTS GROUP INCORPORATED","dunsnumber":"175296391","pred":"345.1920315","smb":"S: SMALL BUSINESS"},
-{"vendorname":"AT&T CORP.","dunsnumber":"621599893","pred":"344.61725","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"GLOBAL DISTRIBUTORS, INC","dunsnumber":"969270065","pred":"343.4880102909091","smb":"S: SMALL BUSINESS"},
-{"vendorname":"CARAHSOFT TECHNOLOGY CORPORATION","dunsnumber":"88365767","pred":"337.45211","smb":"S: SMALL BUSINESS"},
-{"vendorname":"COOK MEDICAL INC","dunsnumber":"169601999","pred":"332.928575","smb":"S: SMALL BUSINESS"},
-{"vendorname":"IMAGINATIVE CONCEPTS INC.","dunsnumber":"121823640","pred":"332.5916","smb":"S: SMALL BUSINESS"},
-{"vendorname":"RUTA SUPPLIES, INC","dunsnumber":"56410640","pred":"325.3423","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"INTERNATIONAL PROMOTIONAL IDEAS INC","dunsnumber":"842296782","pred":"324.76562","smb":"S: SMALL BUSINESS"},
-{"vendorname":"PAIN MANAGEMENT TECHNOLOGIES INC","dunsnumber":"788689797","pred":"324.2099","smb":"S: SMALL BUSINESS"},
-{"vendorname":"BALLARD MEDICAL PRODUCTS","dunsnumber":"93115632","pred":"322.3481","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"DLT SOLUTIONS INCORPORATED","dunsnumber":"786468199","pred":"319.7439253333334","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"HEALTHMARK INDUSTRIES COMPANY INCORPORATED","dunsnumber":"57680480","pred":"315.007388","smb":"S: SMALL BUSINESS"},
-{"vendorname":"GOVERNMENT SCIENTIFIC SOURCE, INC.","dunsnumber":"785807611","pred":"313.29884672699984","smb":"S: SMALL BUSINESS"},
-{"vendorname":"S S MEDICAL INCORPORATED","dunsnumber":"796962876","pred":"311.9098425","smb":"S: SMALL BUSINESS"},
-{"vendorname":"HOMECARE PRODUCTS, INC","dunsnumber":"144405214","pred":"308.68873679999996","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"INTERNATIONAL BUSINESS MACHINES CORPORATION","dunsnumber":"835130485","pred":"301.98825","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"DJO, LLC","dunsnumber":"81840873","pred":"297.93426733333337","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"CDW GOVERNMENT INCORPORATED","dunsnumber":"26157235","pred":"296.7304694999999","smb":"S: SMALL BUSINESS"},
-{"vendorname":"AQUA-CHEM, INC.","dunsnumber":"621088843","pred":"296.4935","smb":"S: SMALL BUSINESS"},
-{"vendorname":"TUFFCARE, INC","dunsnumber":"943489062","pred":"295.7024","smb":"S: SMALL BUSINESS"},
-{"vendorname":"KRUEGER INTERNATIONAL INCORPORATED","dunsnumber":"32672651","pred":"294.4166531","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"FORCE PROTECTION INDUSTRIES (INC)","dunsnumber":"3268989","pred":"293.93506","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"JORDAN RESES","dunsnumber":"118075878","pred":"291.3121","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"TRI-ANIM HEALTH SERVICES, INC.","dunsnumber":"10712461","pred":"289.5644052","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"CORDIS CORPORATION","dunsnumber":"4121059","pred":"281.75096","smb":"O: OTHER THAN SMALL BUSINESS"},
-{"vendorname":"VETERANS IMAGING PRODUCTS, INC","dunsnumber":"938054723","pred":"275.16187971428565","smb":"S: SMALL BUSINESS"},
-{"vendorname":"INTERNATIONAL MILITARY AND GOVERMENT LIMITED LIABILITY COMPANY","dunsnumber":"170944768","pred":"272.876","smb":"O: OTHER THAN SMALL BUSINESS"}]
+[
+{
+"vendorname": "ALPHA OFFICE SUPPLIES INCORPORATED",
+"dunsnumber": "155415078",
+"pred": "7809.6422766666665",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "AARCO PRODUCTS, INC.",
+"dunsnumber": "010018737",
+"pred": "6244.443573333334",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "SOURCEAMERICA",
+"dunsnumber": "074809377",
+"pred": "5870.689596124999",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "CONFIGURATION INCORPORATED",
+"dunsnumber": "804514602",
+"pred": "5337.040484928334",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "NORTH AMERICAN RESCUE, LLC",
+"dunsnumber": "832426782",
+"pred": "3924.9575",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "NATIONAL INDUSTRIES FOR THE BLIND",
+"dunsnumber": "001672120",
+"pred": "3621.7063372222215",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "AIR PRODUCTS AND CHEMICALS INCORPORATED",
+"dunsnumber": "099109766",
+"pred": "3384.5632",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "ABBOTT LABORATORIES INC",
+"dunsnumber": "967474896",
+"pred": "2784.0176",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "INVACARE CORPORATION",
+"dunsnumber": "076916246",
+"pred": "2726.6083716666667",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "SUPPLYCORE, INC",
+"dunsnumber": "116057019",
+"pred": "2627.928428",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "ARTHREX, INC",
+"dunsnumber": "131747628",
+"pred": "2052.2928072500004",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "SUNRISE MEDICAL HHG INC.",
+"dunsnumber": "019666098",
+"pred": "1780.9564714285714",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "PRIDE MOBILITY PRODUCTS CORPORATION",
+"dunsnumber": "041477449",
+"pred": "1667.8596",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "JORDAN RESES SUPPLY COMPANY, LLC",
+"dunsnumber": "142440150",
+"pred": "1646.6114666666665",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "IMPLANT INNOVATIONS INCORPORATED",
+"dunsnumber": "186127825",
+"pred": "1331.3710575",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "CLARKE HEALTH CARE PRODUCTS, INC.",
+"dunsnumber": "174205013",
+"pred": "1202.4493133333333",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "PROAIM AMERICAS, LLC",
+"dunsnumber": "962568338",
+"pred": "1129.15933",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "TULSA DENTAL PRODUCTS, INC",
+"dunsnumber": "197425523",
+"pred": "1094.9030885",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "HOLLISTER INCORPORATED",
+"dunsnumber": "005527098",
+"pred": "1092.67",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "ELECTRIC MOBILITY CORPORATION",
+"dunsnumber": "073680126",
+"pred": "1065.69038",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "ROHO GROUP INCORPORATED THE",
+"dunsnumber": "071985816",
+"pred": "1061.6755",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "TIMM MEDICAL TECHNOLOGIES, INC.",
+"dunsnumber": "031693195",
+"pred": "904.00916",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "MECO CORPORATION",
+"dunsnumber": "003391661",
+"pred": "878.9882156666667",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "MARATHON, INC.",
+"dunsnumber": "119312671",
+"pred": "773.727712",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "KALMAR RT CENTER LLC",
+"dunsnumber": "123343027",
+"pred": "771.9795",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "CUSTOM PRODUCTION MFG., INC.",
+"dunsnumber": "187635792",
+"pred": "766.9073875",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "HERMAN MILLER INC",
+"dunsnumber": "053618807",
+"pred": "721.7685561249999",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "CATERPILLAR INC.",
+"dunsnumber": "944204924",
+"pred": "719.84645",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "BOSTON SCIENTIFIC CORPORATION",
+"dunsnumber": "021717889",
+"pred": "707.583195075",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "OSHKOSH DEFENSE, LLC",
+"dunsnumber": "079467211",
+"pred": "699.44293",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "ATLANTIC DIVING SUPPLY, INC.",
+"dunsnumber": "027079776",
+"pred": "697.3392046249999",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "SOFTCHOICE CORPORATION",
+"dunsnumber": "929022028",
+"pred": "692.19262",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "MEDLINE INDUSTRIES INC.",
+"dunsnumber": "025460908",
+"pred": "677.0292113333331",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "HERMAN MILLER INCORPORATED",
+"dunsnumber": "006012801",
+"pred": "663.8832689108697",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "BIOMEDICAL LIFE SYSTEMS INCORPORATED",
+"dunsnumber": "118289172",
+"pred": "654.9447",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "BENTCO OFFICE SOLUTIONS",
+"dunsnumber": "962900288",
+"pred": "646.5204055666667",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "GOLDEN BROTHERS, INC.",
+"dunsnumber": "150742401",
+"pred": "631.5215871428571",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "FLA ORTHOPEDICS INCORPORATED",
+"dunsnumber": "030764260",
+"pred": "630.9891",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "JOFCO INC",
+"dunsnumber": "006366116",
+"pred": "630.9694052",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "ARACENT HEALTHCARE, LLC",
+"dunsnumber": "143635477",
+"pred": "614.5985360000001",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "DIEBOLD INCORPORATED",
+"dunsnumber": "939061057",
+"pred": "602.1150866666666",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "LSL INDUSTRIES INCORPORATED",
+"dunsnumber": "046703096",
+"pred": "600.2716",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "CROWN THERAPEUTICS INCORPORATED",
+"dunsnumber": "807175559",
+"pred": "569.3756",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "GRAYBAR ELECTRIC COMPANY INCORPORATED (4380)",
+"dunsnumber": "001903137",
+"pred": "556.73064",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "ALCON LABORATORIES INC",
+"dunsnumber": "008018525",
+"pred": "550.1017199999999",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "HAWORTH, INC.",
+"dunsnumber": "072595457",
+"pred": "547.7187833759259",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "MERCER COUNTY REHAB SUPPLY INC",
+"dunsnumber": "603822693",
+"pred": "544.1543668",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "CARDINAL HEALTH 200, INC",
+"dunsnumber": "961027315",
+"pred": "538.7862320000002",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "NORTH COAST MEDICAL, INC.",
+"dunsnumber": "060121928",
+"pred": "530.884845",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "XEROX CORPORATION",
+"dunsnumber": "039860122",
+"pred": "507.1045778333333",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "DELL FEDERAL SYSTEMS LIMITED PARTNERSHIP",
+"dunsnumber": "149530219",
+"pred": "499.5413922000001",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "BIRD & CRONIN, INC",
+"dunsnumber": "045975349",
+"pred": "498.28235",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "STAR MORNING INDUSTRIES INC",
+"dunsnumber": "025189338",
+"pred": "485.98804",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "SAMMONS PRESTON",
+"dunsnumber": "791006828",
+"pred": "475.21641600000004",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "STERIS CORPORATION",
+"dunsnumber": "177360039",
+"pred": "458.5651522",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "MEGHAN BLAKE INDUSTRIES, INC.",
+"dunsnumber": "003062380",
+"pred": "435.75845",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "KNOLL INC",
+"dunsnumber": "781316096",
+"pred": "432.8811684156096",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "APPTIS TECHNOLOGY SOLUTIONS, LLC",
+"dunsnumber": "827714507",
+"pred": "429.930747",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "MARK V OFFICE FURNITURE CO",
+"dunsnumber": "091639047",
+"pred": "417.8243779333333",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "HUMANSCALE CO",
+"dunsnumber": "808198196",
+"pred": "405.24106",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "INDIANA CHAIR FRAME COMPANY",
+"dunsnumber": "138096602",
+"pred": "404.55853",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "JOHNSON & JOHNSON HEALTH CARE SYSTEMS INC.",
+"dunsnumber": "782053516",
+"pred": "401.50647527692314",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "TRENDWAY CORPORATION",
+"dunsnumber": "043683515",
+"pred": "400.6982050000001",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "MILLER DESK INC",
+"dunsnumber": "003215621",
+"pred": "399.08488151666666",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+"dunsnumber": "148983229",
+"pred": "388.8513",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "DENTAL HEALTH PRODUCTS INCORPORATED",
+"dunsnumber": "623191194",
+"pred": "387.7479825",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "ALLIED 100 LIMITED LIABILITY COMPANY",
+"dunsnumber": "121306984",
+"pred": "385.16231999999997",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "PRECISION DYNAMICS CORPORATION",
+"dunsnumber": "008486367",
+"pred": "373.6845",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "CINCINNATI ASSOCIATION FOR THE BLIND",
+"dunsnumber": "074705559",
+"pred": "372.9676143333333",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "VARIDESK, LLC",
+"dunsnumber": "079464963",
+"pred": "368.82553",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "KIMBERLY-CLARK CORPORATION",
+"dunsnumber": "006072136",
+"pred": "366.92764",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "MEDICAL PLACE",
+"dunsnumber": "112651336",
+"pred": "364.113505",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "AMERICAN PURCHASING SERVICE IN",
+"dunsnumber": "062722038",
+"pred": "363.7934552307692",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "HAMILTON PRODUCTS GROUP INCORPORATED",
+"dunsnumber": "175296391",
+"pred": "345.1920315",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "AT&T CORP.",
+"dunsnumber": "621599893",
+"pred": "344.61725",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "GLOBAL DISTRIBUTORS, INC",
+"dunsnumber": "969270065",
+"pred": "343.4880102909091",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "CARAHSOFT TECHNOLOGY CORPORATION",
+"dunsnumber": "088365767",
+"pred": "337.45211",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "COOK MEDICAL INC",
+"dunsnumber": "169601999",
+"pred": "332.928575",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "IMAGINATIVE CONCEPTS INC.",
+"dunsnumber": "121823640",
+"pred": "332.5916",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "RUTA SUPPLIES, INC",
+"dunsnumber": "056410640",
+"pred": "325.3423",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "INTERNATIONAL PROMOTIONAL IDEAS INC",
+"dunsnumber": "842296782",
+"pred": "324.76562",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "PAIN MANAGEMENT TECHNOLOGIES INC",
+"dunsnumber": "788689797",
+"pred": "324.2099",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "BALLARD MEDICAL PRODUCTS",
+"dunsnumber": "093115632",
+"pred": "322.3481",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "DLT SOLUTIONS INCORPORATED",
+"dunsnumber": "786468199",
+"pred": "319.7439253333334",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "HEALTHMARK INDUSTRIES COMPANY INCORPORATED",
+"dunsnumber": "057680480",
+"pred": "315.007388",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "GOVERNMENT SCIENTIFIC SOURCE, INC.",
+"dunsnumber": "785807611",
+"pred": "313.29884672699984",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "S S MEDICAL INCORPORATED",
+"dunsnumber": "796962876",
+"pred": "311.9098425",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "HOMECARE PRODUCTS, INC",
+"dunsnumber": "144405214",
+"pred": "308.68873679999996",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+"dunsnumber": "835130485",
+"pred": "301.98825",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "DJO, LLC",
+"dunsnumber": "081840873",
+"pred": "297.93426733333337",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "CDW GOVERNMENT INCORPORATED",
+"dunsnumber": "026157235",
+"pred": "296.7304694999999",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "AQUA-CHEM, INC.",
+"dunsnumber": "621088843",
+"pred": "296.4935",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "TUFFCARE, INC",
+"dunsnumber": "943489062",
+"pred": "295.7024",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "KRUEGER INTERNATIONAL INCORPORATED",
+"dunsnumber": "032672651",
+"pred": "294.4166531",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "FORCE PROTECTION INDUSTRIES (INC)",
+"dunsnumber": "003268989",
+"pred": "293.93506",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "JORDAN RESES",
+"dunsnumber": "118075878",
+"pred": "291.3121",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "TRI-ANIM HEALTH SERVICES, INC.",
+"dunsnumber": "010712461",
+"pred": "289.5644052",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "CORDIS CORPORATION",
+"dunsnumber": "004121059",
+"pred": "281.75096",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+},
+{
+"vendorname": "VETERANS IMAGING PRODUCTS, INC",
+"dunsnumber": "938054723",
+"pred": "275.16187971428565",
+"smb": "S: SMALL BUSINESS"
+},
+{
+"vendorname": "INTERNATIONAL MILITARY AND GOVERMENT LIMITED LIABILITY COMPANY",
+"dunsnumber": "170944768",
+"pred": "272.876",
+"smb": "O: OTHER THAN SMALL BUSINESS"
+}
+]
