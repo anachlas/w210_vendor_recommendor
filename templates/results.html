@@ -44,15 +44,15 @@
             <div class="col-md-8 col-md-offset-2 animate-box">
                 <table class="table">
                     <tr>
+                        <th>Rank</th>
                         <th>Name</th>
                         <th>DUNS</th>
-                        <th>Score</th>
                     </tr>
                     {% for vendor in vendors %}
                     <tr {% if vendor.smb == "S: SMALL BUSINESS" %} class="success" {% endif %}>
+                        <td> {{ loop.index }}</td>
                         <td> {{ vendor.vendorname }}</td>
                         <td> {{ vendor.dunsnumber }}</td>
-                        <td> {{ vendor.pred|float|round(1) }}</td>
                     </tr>
                     {% endfor %}
                 </table>
