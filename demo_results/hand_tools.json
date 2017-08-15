@@ -1,602 +1,802 @@
 [
 {
-"vendorname": "KAUFMAN COMPANY INC",
-"dunsnumber": "003856143",
-"pred": "38548.259512745455",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "008106627",
+"vendorname": "TIFCO INDUSTRIES INCORPORATED",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3072171211242676",
+"rank": "1"
 },
 {
-"vendorname": "J & L AMERICA INC",
-"dunsnumber": "053324711",
-"pred": "25389.267335",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "608879755",
+"vendorname": "S & K PRODUCTS COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2011688947677612",
+"rank": "2"
 },
 {
-"vendorname": "FASTENAL COMPANY (8415) 3928",
-"dunsnumber": "145452244",
-"pred": "14501.883",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "093738722",
+"vendorname": "POWERS INDUSTRIAL EQUIPMENT, LTD.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1997907161712646",
+"rank": "3"
 },
 {
-"vendorname": "URENDA TOOL COMPANY",
-"dunsnumber": "556537355",
-"pred": "10029.24",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "KIPPER TOOL COMPANY INCORPORATED",
-"dunsnumber": "828953166",
-"pred": "7048.5620507692311",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MSC INDUSTRIAL DIRECT COMPANY INCORPORATED",
-"dunsnumber": "932619265",
-"pred": "6858.3792162352938",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WRIGHT TOOL COMPANY",
-"dunsnumber": "057007189",
-"pred": "6142.275865",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "E AND R INDUSTRIAL SALES INCORPORATED",
-"dunsnumber": "049281702",
-"pred": "5508.865575",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "GROS MANUFACTURING, LLC",
-"dunsnumber": "825266575",
-"pred": "5387.313",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SUNLIGHT SUPPLY CO",
-"dunsnumber": "361542434",
-"pred": "5134.6176376666663",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "FORREST TOOL COMPANY INCORPORATED",
-"dunsnumber": "625684469",
-"pred": "4621.5991499999991",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "W W GRAINGER, INC",
-"dunsnumber": "005103494",
-"pred": "4093.1233394314304",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "IDSC HOLDING LLC",
-"dunsnumber": "806095217",
-"pred": "4080.8609429230778",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "K TOOL CORPORATION MICHIGAN",
-"dunsnumber": "098679632",
-"pred": "3741.6473266",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "GRANCO INDUSTRIES, INC",
-"dunsnumber": "084886795",
-"pred": "3372.4683749090909",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "TIMBER EDGE MACHINE INC",
-"dunsnumber": "182043083",
-"pred": "2882.6685626000003",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CONTINENTAL TOOL & MFG , INC",
-"dunsnumber": "039413299",
-"pred": "2459.3538477142856",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "GIGA INC.",
-"dunsnumber": "096628409",
-"pred": "2297.1952905263156",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "AICONICS INC",
-"dunsnumber": "194304036",
-"pred": "2191.9392",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DANAHER TOOL GROUP, EASCO HAND",
-"dunsnumber": "101667459",
-"pred": "2097.7870451199997",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "STATE INDUSTRIAL PRODUCTS CORPORATION (2740)",
-"dunsnumber": "004520987",
-"pred": "2096.6743",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CLEAN TEAM ORIGINALS INCORPORATED",
-"dunsnumber": "627767262",
-"pred": "2062.8713",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DIXIE WHOLESALERS INCORPORATED",
-"dunsnumber": "121976872",
-"pred": "1767.5913064000001",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MIDLAND SUPPLY INCORPORATED",
-"dunsnumber": "118336403",
-"pred": "1737.1225621428571",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "BLACK & COMPANY",
-"dunsnumber": "879400992",
-"pred": "1531.6066497900003",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "TOOLS & METALS INC",
-"dunsnumber": "004964862",
-"pred": "1288.7916",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "HAGEMEYER NORTH AMERICA INCORPORATED",
-"dunsnumber": "012072356",
-"pred": "1279.791812",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "DANIELS MFG. CORP",
-"dunsnumber": "056971781",
-"pred": "1156.3329067833338",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "NOBLE SALES CO., INC.",
-"dunsnumber": "107910259",
-"pred": "1125.8660377599997",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WARWOOD TOOL COMPANY",
-"dunsnumber": "004500591",
-"pred": "1116.9194",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "AIRCRAFT DYNAMICS CORPORATION",
-"dunsnumber": "097234835",
-"pred": "1092.3283765",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "RYESON CORPORATION",
-"dunsnumber": "106944689",
-"pred": "1048.0542",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WILDE TOOL CO INC",
-"dunsnumber": "006871669",
-"pred": "965.67087750000007",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "LOCKHEED MARTIN CORPORATION",
-"dunsnumber": "848028494",
-"pred": "961.2394",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ELF MACHINE WORKS, INC",
-"dunsnumber": "030653901",
-"pred": "946.99559999999985",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DK ENTERPRISE",
-"dunsnumber": "868850264",
-"pred": "946.535432375",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "JOHNSTON INDUSTRIAL SUPPLY",
-"dunsnumber": "045097789",
-"pred": "868.023911111111",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SNAP-ON INCORPORATED",
-"dunsnumber": "861214950",
-"pred": "857.59770508",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "NKI LEASING INCORPORATED",
-"dunsnumber": "026531595",
-"pred": "850.6137",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MAC MOTORS",
-"dunsnumber": "013783147",
-"pred": "849.719",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "FISKARS BRANDS, INC",
-"dunsnumber": "803836345",
-"pred": "823.99380838461536",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "GRAINTEX, INC.",
-"dunsnumber": "784375615",
-"pred": "796.83374",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "LAWSON PRODUCTS INC.",
-"dunsnumber": "005438890",
-"pred": "757.33037633333322",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "FASTENAL COMPANY",
-"dunsnumber": "042653634",
-"pred": "749.7603736384616",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "BRENCO TOOL DIVISION",
-"dunsnumber": "612607788",
-"pred": "745.2955",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "JAMARCO, INC",
-"dunsnumber": "175287309",
-"pred": "734.25915114285715",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "AMERICAN KAL ENTERPRISES INCORPORATED",
-"dunsnumber": "050785898",
-"pred": "692.54677500000014",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "EVANS TOOLS, INCORPORATED",
-"dunsnumber": "146921692",
-"pred": "691.8689385",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "BBMC INC",
-"dunsnumber": "933683542",
-"pred": "690.414208",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "BOISE CASCADE OFFICE PRODUCTS",
-"dunsnumber": "879436640",
-"pred": "660.0574",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "READY WELDER CORPORATION",
-"dunsnumber": "129960332",
-"pred": "615.4942",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "N. H. BRAGG & SONS",
-"dunsnumber": "007995319",
-"pred": "614.03851055555549",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DLM ENTERPRISES",
-"dunsnumber": "826492295",
-"pred": "605.54978466666671",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ABC DIVISION, LLC",
-"dunsnumber": "827830436",
-"pred": "575.7077",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SIKORSKY AIRCRAFT CORPORATION",
-"dunsnumber": "835551474",
-"pred": "567.6967447",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CENTRAL DETROIT DIESEL-ALLISON",
-"dunsnumber": "007246630",
-"pred": "560.25660577777762",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "JAMAICA BEARINGS CO INC",
-"dunsnumber": "001826627",
-"pred": "545.75155",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "INGERSOLL-RAND COMPANY",
-"dunsnumber": "066437005",
-"pred": "519.431281",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "GLOBAL INDUSTRIAL SUPPLIES INCORPORATED",
-"dunsnumber": "829100775",
-"pred": "508.70285000000007",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "WYLIE-ESTILL, LTD.",
-"dunsnumber": "157608464",
-"pred": "483.76475287",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "LAMSON AND GOODNOW MANUFACTURING COMPANY",
-"dunsnumber": "001123314",
-"pred": "482.75006",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "IRON BOW TECHNOLOGIES, LLC",
-"dunsnumber": "827714507",
-"pred": "469.8733",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "INDUSTRIAL SUPPLY COMPANY INC.",
-"dunsnumber": "008954661",
-"pred": "448.69168270000006",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "VSE CORPORATION",
-"dunsnumber": "049997380",
-"pred": "447.8201276",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "R.S. HUGHES COMPANY, INC.",
-"dunsnumber": "009690538",
-"pred": "447.30168100000003",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "GOVERNMENT SCIENTIFIC SOURCE INCORPORATED",
-"dunsnumber": "785807611",
-"pred": "437.14102",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "RICOH AMERICAS CORPORATION",
-"dunsnumber": "061079273",
-"pred": "433.31651",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "IRWIN INDUSTRIAL TOOL COMPANY",
-"dunsnumber": "178043766",
-"pred": "412.31381",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "AMERICAN MILITARY SUPPLY INCORPORATED",
-"dunsnumber": "048918643",
-"pred": "404.110792",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CHARRON WOOD PRODUCTS INC.",
-"dunsnumber": "005826370",
-"pred": "398.5381",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WESTFALL GMC TRUCK INCORPORATED",
-"dunsnumber": "029936002",
-"pred": "395.03882",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ELECTRIC BOAT CORPORATION",
-"dunsnumber": "963737366",
-"pred": "394.47944333333334",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CONFIGURATION INCORPORATED",
-"dunsnumber": "804514602",
-"pred": "393.06885",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MCDONNELL DOUGLAS CORPORATION",
-"dunsnumber": "149879157",
-"pred": "382.6278",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PRIME INDUSTRIAL PRODUCTS, INC",
-"dunsnumber": "073070765",
-"pred": "374.69522",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "B A C ASSOCIATES INC",
-"dunsnumber": "847041373",
-"pred": "364.76121",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MACHINED PRODUCTS COMPANY",
-"dunsnumber": "611756941",
-"pred": "363.3365",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DIETARY EQUIPMENT COMPANY INC",
-"dunsnumber": "197617756",
-"pred": "354.90555",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "APEX TOOL GROUP, LLC",
-"dunsnumber": "963348037",
-"pred": "354.66895046666656",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "NEWMAN INDUSTRIAL SUPPLY, INC.",
 "dunsnumber": "037482122",
-"pred": "347.48125426666661",
-"smb": "S: SMALL BUSINESS"
+"vendorname": "NEWMAN INDUSTRIAL SUPPLY, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.185322642326355",
+"rank": "4"
 },
 {
-"vendorname": "APPLIED INDUSTRIAL TECHNOLOGIES, INC.",
-"dunsnumber": "007900129",
-"pred": "341.71126702000004",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "101667459",
+"vendorname": "DANAHER TOOL GROUP EASCO HAND TOOLS INCORPORATED",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1734427213668823",
+"rank": "5"
 },
 {
-"vendorname": "GEORGIA FASTENER SUPPLY, LLC",
-"dunsnumber": "830239872",
-"pred": "341.3287675",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "929297463",
+"vendorname": "MINTON SUPPLY COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1681504249572754",
+"rank": "6"
 },
 {
-"vendorname": "GRAYBAR ELECTRIC COMPANY INCORPORATED (4380)",
-"dunsnumber": "001903137",
-"pred": "338.58842466666664",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "085866580",
+"vendorname": "TW METALS, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.165415644645691",
+"rank": "7"
 },
 {
-"vendorname": "HERITAGE CUTLERY INCORPORATED",
-"dunsnumber": "085684033",
-"pred": "338.0107",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "011115466",
+"vendorname": "HERMAN W YECIES INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1599512100219727",
+"rank": "8"
 },
 {
-"vendorname": "OHIO TOOL SYSTEMS INC",
-"dunsnumber": "071132336",
-"pred": "337.99065833333333",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "003258043",
+"vendorname": "PHILLIPS CORPORATION",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1578365564346313",
+"rank": "9"
 },
 {
-"vendorname": "LEATHERMAN TOOL GROUP",
-"dunsnumber": "144978772",
-"pred": "330.69849448",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "041929378",
+"vendorname": "ACCUSOURCE OPERATIONS, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.155682921409607",
+"rank": "10"
 },
 {
-"vendorname": "KELTEK SPECIALTY TOOL DESIGN AND MANUFACTURE INCORPORATED",
-"dunsnumber": "153645288",
-"pred": "326.83523714285712",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "053324711",
+"vendorname": "J & L AMERICA INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1541749238967896",
+"rank": "11"
 },
 {
-"vendorname": "VETERAN EMPLOYMENT ENTERPISE INCORPORATED",
-"dunsnumber": "608540964",
-"pred": "317.96045",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "809919038",
+"vendorname": "STAG ENTERPRISE, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1471153497695923",
+"rank": "12"
 },
 {
-"vendorname": "THE SHERWIN-WILLIAMS COMPANY",
-"dunsnumber": "004206397",
-"pred": "301.43167833333337",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "048918643",
+"vendorname": "AMERICAN MILITARY SUPPLY INCORPORATED",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1455156803131104",
+"rank": "13"
 },
 {
-"vendorname": "HENRY SCHEIN, INC.",
-"dunsnumber": "012430880",
-"pred": "298.60922",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "147372960",
+"vendorname": "SZY HOLDINGS, LLC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.125240445137024",
+"rank": "14"
 },
 {
-"vendorname": "B3 ENTERPRISES LLC",
-"dunsnumber": "610940632",
-"pred": "298.5604",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "804443349",
+"vendorname": "GOVERNMENT & INDUSTRIAL SUPPLY, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.124450922012329",
+"rank": "15"
 },
 {
-"vendorname": "KLAWHORN INDUSTRIES INCORPORATED",
-"dunsnumber": "112252973",
-"pred": "295.23262686666664",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "124139937",
+"vendorname": "AVIATION DIRECT INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1214467287063599",
+"rank": "16"
 },
 {
-"vendorname": "VAUGHAN & BUSHNELL MFG CO",
-"dunsnumber": "005129184",
-"pred": "287.049102",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "042256222",
+"vendorname": "TECHNI-TOOL INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1167455911636353",
+"rank": "17"
 },
 {
-"vendorname": "DELL MARKETING LIMITED PARTNERSHIP",
-"dunsnumber": "877936518",
-"pred": "281.26727200000005",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "001713437",
+"vendorname": "TURTLE AND HUGHES INCORPORATED",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1139676570892334",
+"rank": "18"
 },
 {
-"vendorname": "GRS SOUTH, INC",
-"dunsnumber": "557144776",
-"pred": "278.09143",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "008810780",
+"vendorname": "QUALITY DISCOUNT SUPPLIES & SERVICES",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.104185700416565",
+"rank": "19"
 },
 {
-"vendorname": "EASTERN TOOL WAREHOUSE CORP",
-"dunsnumber": "001666593",
-"pred": "276.29266079999996",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "011788002",
+"vendorname": "B & P CONSORT, INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1031461954116821",
+"rank": "20"
 },
 {
-"vendorname": "MACK A W MANUFACTURING COMPANY INCORPORATED",
-"dunsnumber": "001539543",
-"pred": "270.2058",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "151918125",
+"vendorname": "KENNAMETAL, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.098297119140625",
+"rank": "21"
 },
 {
-"vendorname": "BIC SUPPLY, LLC",
-"dunsnumber": "018326830",
-"pred": "270.19001364999997",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "051731214",
+"vendorname": "LIGHTHOUSE FOR THE BLIND, THE",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.093601942062378",
+"rank": "22"
 },
 {
-"vendorname": "AMES TRUE TEMPER INCORPORATED",
-"dunsnumber": "621297563",
-"pred": "264.940007",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "006173082",
+"vendorname": "3M COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0918054580688477",
+"rank": "23"
 },
 {
-"vendorname": "AMCO PRODUCTS INCORPORATED",
-"dunsnumber": "087440939",
-"pred": "262.30055999999996",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "034049957",
+"vendorname": "L. & M. WELDING SUPPLY, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0876550674438477",
+"rank": "24"
+},
+{
+"dunsnumber": "143331135",
+"vendorname": "KLB ENTERPRISES",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0868479013442993",
+"rank": "25"
+},
+{
+"dunsnumber": "626882609",
+"vendorname": "APEX PINNACLE CORP.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0812915563583374",
+"rank": "26"
+},
+{
+"dunsnumber": "073203820",
+"vendorname": "R.M. WAITE CO., LLC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0807316303253174",
+"rank": "27"
+},
+{
+"dunsnumber": "003197803",
+"vendorname": "L C IND INCORPORATED (6307)",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.075493335723877",
+"rank": "28"
+},
+{
+"dunsnumber": "049281702",
+"vendorname": "E & R INDUSTRIAL SALES, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0744893550872803",
+"rank": "29"
+},
+{
+"dunsnumber": "085505951",
+"vendorname": "BRIGHTON CROMWELL LLC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0690333843231201",
+"rank": "30"
+},
+{
+"dunsnumber": "029404068",
+"vendorname": "MCMASTER CARR SUPPLY COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0636811256408691",
+"rank": "31"
+},
+{
+"dunsnumber": "123720455",
+"vendorname": "EHB SUPPLY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0622493028640747",
+"rank": "32"
+},
+{
+"dunsnumber": "804788545",
+"vendorname": "BB&G ENTERRPRISES, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0613703727722168",
+"rank": "33"
+},
+{
+"dunsnumber": "118336403",
+"vendorname": "MIDLAND SUPPLY, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0571526288986206",
+"rank": "34"
+},
+{
+"dunsnumber": "014742014",
+"vendorname": "STEINER INDUSTRIAL, INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0548343658447266",
+"rank": "35"
+},
+{
+"dunsnumber": "013184957",
+"vendorname": "ADIRONDACK ELECTRONICS, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.053836464881897",
+"rank": "36"
+},
+{
+"dunsnumber": "013326038",
+"vendorname": "MIDWAY INDUSTRIAL SUPPLY INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.050983190536499",
+"rank": "37"
+},
+{
+"dunsnumber": "801880709",
+"vendorname": "NORTHEAST PLASTIC SUPPLY CO., INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.049831509590149",
+"rank": "38"
+},
+{
+"dunsnumber": "879400992",
+"vendorname": "BLACK & COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0472509860992432",
+"rank": "39"
+},
+{
+"dunsnumber": "804615438",
+"vendorname": "HORIZON SOLUTIONS LLC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0453782081604004",
+"rank": "40"
+},
+{
+"dunsnumber": "002275782",
+"vendorname": "HAAS GROUP INTERNATIONAL INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0451360940933228",
+"rank": "41"
+},
+{
+"dunsnumber": "003067816",
+"vendorname": "MURRAY CORPORATION",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0432013273239136",
+"rank": "42"
+},
+{
+"dunsnumber": "783266950",
+"vendorname": "HOME DEPOT U.S.A., INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0404127836227417",
+"rank": "43"
+},
+{
+"dunsnumber": "003856143",
+"vendorname": "KAUFMAN COMPANY INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.036718487739563",
+"rank": "44"
+},
+{
+"dunsnumber": "182043083",
+"vendorname": "TIMBER EDGE MACHINE",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.036452054977417",
+"rank": "45"
+},
+{
+"dunsnumber": "628036345",
+"vendorname": "UNITED PROCUREMENT, L.P.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.033420443534851",
+"rank": "46"
+},
+{
+"dunsnumber": "177667227",
+"vendorname": "MCKESSON CORPORATION",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0319764614105225",
+"rank": "47"
+},
+{
+"dunsnumber": "006931349",
+"vendorname": "MC MASTER CARR SUPPLY COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0311288833618164",
+"rank": "48"
+},
+{
+"dunsnumber": "082994328",
+"vendorname": "CRONATRON WELDING SYSTEMS INCORPORATED",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0287516117095947",
+"rank": "49"
+},
+{
+"dunsnumber": "002430593",
+"vendorname": "BLANCHARD INDUSTRIAL SUPPLIES, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.028150200843811",
+"rank": "50"
+},
+{
+"dunsnumber": "932619265",
+"vendorname": "MSC INDUSTRIAL DIRECT CO INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0266612768173218",
+"rank": "51"
+},
+{
+"dunsnumber": "056543879",
+"vendorname": "A.G.H. INDUSTRIES, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0245447158813477",
+"rank": "52"
+},
+{
+"dunsnumber": "179041439",
+"vendorname": "CLAYTON ASSOCIATES INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.023335337638855",
+"rank": "53"
+},
+{
+"dunsnumber": "096628409",
+"vendorname": "GIGA, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0219017267227173",
+"rank": "54"
+},
+{
+"dunsnumber": "043075282",
+"vendorname": "ABRASIVE-TOOL CORP.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.021897315979004",
+"rank": "55"
+},
+{
+"dunsnumber": "057007189",
+"vendorname": "WRIGHT TOOL COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0195984840393066",
+"rank": "56"
+},
+{
+"dunsnumber": "830850447",
+"vendorname": "INTEGRITY TOOL & FASTENER, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.018296241760254",
+"rank": "57"
+},
+{
+"dunsnumber": "024249146",
+"vendorname": "JENKS, INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0179247856140137",
+"rank": "58"
+},
+{
+"dunsnumber": "792251084",
+"vendorname": "H & M INDUSTRIAL SALES CO., INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0152724981307983",
+"rank": "59"
+},
+{
+"dunsnumber": "790889711",
+"vendorname": "COMPLETE PACKAGING & SHIPPING",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.014472246170044",
+"rank": "60"
+},
+{
+"dunsnumber": "007995319",
+"vendorname": "N. H. BRAGG & SONS",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0103403329849243",
+"rank": "61"
+},
+{
+"dunsnumber": "116057019",
+"vendorname": "SUPPLYCORE INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0103293657302856",
+"rank": "62"
+},
+{
+"dunsnumber": "005103494",
+"vendorname": "W W GRAINGER, INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0096592903137207",
+"rank": "63"
+},
+{
+"dunsnumber": "025280400",
+"vendorname": "S F INDUSTRIAL INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0094401836395264",
+"rank": "64"
+},
+{
+"dunsnumber": "798069175",
+"vendorname": "AM-MAC INCORPORATED",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0089702606201172",
+"rank": "65"
+},
+{
+"dunsnumber": "041694431",
+"vendorname": "PIERCE ALUMINUM COMPANY, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0080026388168335",
+"rank": "66"
+},
+{
+"dunsnumber": "085172005",
+"vendorname": "J.G.B. ENTERPRISES, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.006621241569519",
+"rank": "67"
+},
+{
+"dunsnumber": "075665877",
+"vendorname": "SIGMA SUPPLY INCORPORATED",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0063254833221436",
+"rank": "68"
+},
+{
+"dunsnumber": "112768408",
+"vendorname": "HCI GOVERNMENT ISSUE, LLC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0050135850906372",
+"rank": "69"
+},
+{
+"dunsnumber": "944204924",
+"vendorname": "CATERPILLAR INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.000826358795166",
+"rank": "70"
+},
+{
+"dunsnumber": "107910259",
+"vendorname": "NOBLE SALES CO INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.000719666481018",
+"rank": "71"
+},
+{
+"dunsnumber": "806095217",
+"vendorname": "IDSC HOLDINGS LLC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9995257258415222",
+"rank": "72"
+},
+{
+"dunsnumber": "042653634",
+"vendorname": "FASTENAL COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9992291927337646",
+"rank": "73"
+},
+{
+"dunsnumber": "807379201",
+"vendorname": "TAPESOUTH INCORPORATED",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9989149570465088",
+"rank": "74"
+},
+{
+"dunsnumber": "153899919",
+"vendorname": "MC MASTER-CARR SUPPLY COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9986661076545715",
+"rank": "75"
+},
+{
+"dunsnumber": "122679228",
+"vendorname": "KAMPI COMPONENTS CO., INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9971899390220642",
+"rank": "76"
+},
+{
+"dunsnumber": "001672120",
+"vendorname": "NATIONAL INDUSTRIES FOR THE BLIND",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9948030114173889",
+"rank": "77"
+},
+{
+"dunsnumber": "828953166",
+"vendorname": "KIPPER TOOL COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9942683577537537",
+"rank": "78"
+},
+{
+"dunsnumber": "131343605",
+"vendorname": "AMAFHA ENTERPRISE INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9940510392189026",
+"rank": "79"
+},
+{
+"dunsnumber": "004031493",
+"vendorname": "CHARLESTON ALUMINUM, LLC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9934598207473755",
+"rank": "80"
+},
+{
+"dunsnumber": "627168110",
+"vendorname": "UNITED COMMERCIAL SUPPLY LLC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9908915758132935",
+"rank": "81"
+},
+{
+"dunsnumber": "072388986",
+"vendorname": "INDEPENDENT METAL STRAP CO INC",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9902895092964172",
+"rank": "82"
+},
+{
+"dunsnumber": "179462742",
+"vendorname": "D H WILLIAMS COMPANY",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9888948798179626",
+"rank": "83"
+},
+{
+"dunsnumber": "092658152",
+"vendorname": "CAPRICE ELECTRONICS, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9876260161399841",
+"rank": "84"
+},
+{
+"dunsnumber": "089251227",
+"vendorname": "VES COMPANY, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9856658577919006",
+"rank": "85"
+},
+{
+"dunsnumber": "009690538",
+"vendorname": "R.S. HUGHES COMPANY, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9788888692855835",
+"rank": "86"
+},
+{
+"dunsnumber": "009832007",
+"vendorname": "H & C TOOL SUPPLY CORP.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9783079028129578",
+"rank": "87"
+},
+{
+"dunsnumber": "043019744",
+"vendorname": "CHAS D WEST CO",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9776629209518433",
+"rank": "88"
+},
+{
+"dunsnumber": "002387603",
+"vendorname": "LYNN ELECTRONICS CORP.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9776543974876404",
+"rank": "89"
+},
+{
+"dunsnumber": "961027315",
+"vendorname": "CARDINAL HEALTH 200 INCORPORATED THE MEDICAL PRODUCTS AND SERVICES GROUP OF CAR",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9766404032707214",
+"rank": "90"
+},
+{
+"dunsnumber": "803836345",
+"vendorname": "FISKARS BRANDS, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9762892723083496",
+"rank": "91"
+},
+{
+"dunsnumber": "008111320",
+"vendorname": "ALAMO IRON WORKS, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9758189916610718",
+"rank": "92"
+},
+{
+"dunsnumber": "003778297",
+"vendorname": "EUR-PAC CORPORATION",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9721071124076843",
+"rank": "93"
+},
+{
+"dunsnumber": "118005318",
+"vendorname": "STANLEY SUPPLY & SERVICES, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9720513820648193",
+"rank": "94"
+},
+{
+"dunsnumber": "784141384",
+"vendorname": "PREMIER & COMPANIES INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.971152126789093",
+"rank": "95"
+},
+{
+"dunsnumber": "621353924",
+"vendorname": "INSERTS & KITS, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9709033966064453",
+"rank": "96"
+},
+{
+"dunsnumber": "008476822",
+"vendorname": "PRODUCTS ENGINEERING CORP",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9698200821876526",
+"rank": "97"
+},
+{
+"dunsnumber": "009174293",
+"vendorname": "SPECIALTY PRODUCTS & INSULATION CO",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9688786268234253",
+"rank": "98"
+},
+{
+"dunsnumber": "800166969",
+"vendorname": "TL SERVICES, INC.",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.966957151889801",
+"rank": "99"
+},
+{
+"dunsnumber": "957209364",
+"vendorname": "HURLEN CORPORATION",
+"productorservicecode": "5130: HAND TOOLS, POWER DRIVEN",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9661850929260254",
+"rank": "100"
 }
 ]

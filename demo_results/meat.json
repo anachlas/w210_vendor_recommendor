@@ -1,602 +1,802 @@
 [
 {
-"vendorname": "NEW ENGLAND FOOD BROKERAGE, INC.",
-"dunsnumber": "067746313",
-"pred": "1528.5007",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "177667227",
+"vendorname": "MCKESSON CORPORATION",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.5655251741409302",
+"rank": "1"
 },
 {
-"vendorname": "U S F I INC",
-"dunsnumber": "040594561",
-"pred": "1510.0837",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "175702141",
+"vendorname": "MY OWN MEALS, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2905902862548828",
+"rank": "2"
 },
 {
-"vendorname": "LABATT INSTITUTIONAL SUPPLY COMPANY, INC",
-"dunsnumber": "046275301",
-"pred": "924.2851",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "052946894",
+"vendorname": "SOPAKCO, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2448780536651611",
+"rank": "3"
 },
 {
-"vendorname": "VALLEY FOODS INCORPORATED",
-"dunsnumber": "010848489",
-"pred": "918.8958",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "193567856",
+"vendorname": "SUMMIT TRAVELWARE INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.241559624671936",
+"rank": "4"
 },
 {
-"vendorname": "Y HATA & CO LIMITED",
-"dunsnumber": "007977770",
-"pred": "830.8195",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "005083209",
+"vendorname": "BAXTER HEALTHCARE CORPORATION",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2332346439361572",
+"rank": "5"
 },
 {
-"vendorname": "THE MERCHANTS COMPANY",
-"dunsnumber": "008184749",
-"pred": "815.623",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "090509626",
+"vendorname": "WEBCO DISTRIBUTION INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2021852731704712",
+"rank": "6"
 },
 {
-"vendorname": "US FOODSERVICE INCORPORATED (2294)",
-"dunsnumber": "088162420",
-"pred": "810.61066",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "004162038",
+"vendorname": "GOJO INDUSTRIES INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1970032453536987",
+"rank": "7"
 },
 {
-"vendorname": "US FOODS, INC.",
-"dunsnumber": "007919475",
-"pred": "757.10846",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "830389404",
+"vendorname": "CCI SOLUTIONS, LLC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1886160373687744",
+"rank": "8"
 },
 {
-"vendorname": "SYSCO FOOD SERVICES OF HAMPTON ROADS, INC",
-"dunsnumber": "003176880",
-"pred": "700.19995",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "006154611",
+"vendorname": "ECOLAB INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1644420623779297",
+"rank": "9"
 },
 {
-"vendorname": "NORTH STAR IMPORTS, LLC",
-"dunsnumber": "078359546",
-"pred": "616.39746",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "847436391",
+"vendorname": "COLOPLAST CORP.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.163870096206665",
+"rank": "10"
 },
 {
-"vendorname": "DYNAMIC VENTURES INC",
-"dunsnumber": "779913441",
-"pred": "587.78143",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "947803078",
+"vendorname": "PHAMATECH INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.146160364151001",
+"rank": "11"
 },
 {
-"vendorname": "US FOODS, INC.",
-"dunsnumber": "926581737",
-"pred": "528.93726",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "007941230",
+"vendorname": "OWENS & MINOR DISTRIBUTION, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.146024227142334",
+"rank": "12"
 },
 {
-"vendorname": "CLARKS TRADING COMPANY",
-"dunsnumber": "626516223",
-"pred": "454.28693000000015",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SYSCO FOOD SERVICES OF SEATTLE INCORPORATED",
-"dunsnumber": "835568965",
-"pred": "439.7002",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "JNS FOODS LIMITED LIABILITY COMPANY",
-"dunsnumber": "791133023",
-"pred": "436.70004",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "COASTAL PACIFIC FOOD DISTRIBUTORS, INC.",
-"dunsnumber": "155104938",
-"pred": "426.65915",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "FRAN SAN MEATS, LLC",
-"dunsnumber": "933397929",
-"pred": "400.0951",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "NOBLE SALES CO INC",
-"dunsnumber": "107910259",
-"pred": "366.76593",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SYSCO CORPORATION",
-"dunsnumber": "836057398",
-"pred": "343.85245",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "RAINMAKER, INC",
-"dunsnumber": "622377369",
-"pred": "326.0712",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SYSCO FOOD SERVICES OF CENTRAL ALABAMA, INC.",
-"dunsnumber": "035612345",
-"pred": "277.02505",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "OPPORTUNITY SALES, INC.",
-"dunsnumber": "041051587",
-"pred": "261.24603",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PILGRIM'S PRIDE CORPORATION",
-"dunsnumber": "007334170",
-"pred": "252.24721",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CENTRAL VALLEY MEAT CO INC",
-"dunsnumber": "612111831",
-"pred": "246.52547",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "US FOODS, INC.",
-"dunsnumber": "779921998",
-"pred": "239.72003000000004",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "EMA FOODS CO., LLC",
-"dunsnumber": "809514073",
-"pred": "230.4977",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MULLEN MARKETING, L.L.C.",
-"dunsnumber": "118765296",
-"pred": "221.31032",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "LANKFORD - SYSCO FOOD SERVICES, LLC",
-"dunsnumber": "053945259",
-"pred": "196.19153",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "GOLDEN WEST TRADING, INC.",
-"dunsnumber": "806059606",
-"pred": "194.48915",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CHERRY MEAT PACKERS, INC.",
-"dunsnumber": "005183074",
-"pred": "179.24458",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WHOLESALE LIQUIDATIONS LLC",
-"dunsnumber": "797016701",
-"pred": "176.03195000000002",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "AMERICAN BEEF PACKERS, INC.",
-"dunsnumber": "828494802",
-"pred": "175.7542",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "EMRA, LLC",
-"dunsnumber": "191886022",
-"pred": "173.56705",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "AMERIQUAL GROUP, LLC",
-"dunsnumber": "130027592",
-"pred": "173.33704",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "REINHART FOODSERVICE, L.L.C.",
-"dunsnumber": "118509772",
-"pred": "165.7531",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CJ FOODS INCORPORATED",
-"dunsnumber": "118243315",
-"pred": "163.5155",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SARA LEE CORPORATION",
-"dunsnumber": "039125570",
-"pred": "158.67812",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SHAVER FOODS, LLC",
-"dunsnumber": "139747026",
-"pred": "156.44270000000003",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "FIELDALE FARMS CORPORATION",
-"dunsnumber": "057265027",
-"pred": "155.14105",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "US FOODS, INC.",
-"dunsnumber": "034110689",
-"pred": "150.50505",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SENN BROS., INC.",
-"dunsnumber": "036121655",
-"pred": "147.85722",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ACTION MEAT DISTRIBUTORS, LTD.",
-"dunsnumber": "157470345",
-"pred": "138.24265",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "JOSEPH FOODSERVICE INC",
-"dunsnumber": "033907874",
-"pred": "136.81664",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SHAMROCK FOODS",
-"dunsnumber": "089310858",
-"pred": "135.39474",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "HARRIS RANCH BEEF COMPANY",
-"dunsnumber": "192266851",
-"pred": "132.35811",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "POCONO PRODUCE CO INC",
-"dunsnumber": "968507301",
-"pred": "129.50409",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "US FOOD SERVICE",
-"dunsnumber": "876626102",
-"pred": "129.1882",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "TYSON FOODS INC",
-"dunsnumber": "006903702",
-"pred": "128.13947",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SYSCO FOOD SERVICES OF NEW ORL",
-"dunsnumber": "007994361",
-"pred": "126.35183",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ADVANCED COMMODITIES",
-"dunsnumber": "059565163",
-"pred": "126.12874",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "KENOSHA BEEF INTERNATIONAL LTD",
-"dunsnumber": "023284516",
-"pred": "125.43734",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "WHOLESOME FOOD SUPPLY LLC",
-"dunsnumber": "079185678",
-"pred": "120.16523",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "FOSTER POULTRY FARMS",
-"dunsnumber": "009178856",
-"pred": "119.303444",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PUEBLO TRADING CO, INC",
-"dunsnumber": "174473280",
-"pred": "118.76986999999998",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "PEPSI AMERICAS",
-"dunsnumber": "006382188",
-"pred": "118.751305",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CANYON FOOD SALES, LLC",
-"dunsnumber": "155630127",
-"pred": "118.089745",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "AB FOODS LIMITED LIABILITY COMPANY",
-"dunsnumber": "617165738",
-"pred": "111.79901",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "IBP, INC",
-"dunsnumber": "007296056",
-"pred": "110.63581",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "WORNICK COMPANY THE",
 "dunsnumber": "149975554",
-"pred": "109.22572",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"vendorname": "WORNICK COMPANY, THE",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.142903208732605",
+"rank": "13"
 },
 {
-"vendorname": "NORTH ATLANTIC FISH CO., INC.",
-"dunsnumber": "001002229",
-"pred": "109.18428",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "010848489",
+"vendorname": "VALLEY FOODS INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1408579349517822",
+"rank": "14"
 },
 {
-"vendorname": "JENNIE O FOODS INCORPORATED",
-"dunsnumber": "006160766",
-"pred": "108.76148",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "012430880",
+"vendorname": "HENRY SCHEIN INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.133246898651123",
+"rank": "15"
 },
 {
-"vendorname": "INDIAN RIVER PROVISIONS",
-"dunsnumber": "015679579",
-"pred": "108.08726",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "933683542",
+"vendorname": "BBMC INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1274381875991821",
+"rank": "16"
 },
 {
-"vendorname": "GLOBAL FOODS, INC",
-"dunsnumber": "965492416",
-"pred": "107.77556",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "183505627",
+"vendorname": "ABBOTT LABORATORIES",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1240216493606567",
+"rank": "17"
 },
 {
-"vendorname": "SHAMROCK MEATS, INC.",
-"dunsnumber": "788624195",
-"pred": "105.998",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "001184480",
+"vendorname": "APPLERA CORPORATION",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.122441053390503",
+"rank": "18"
 },
 {
-"vendorname": "REINHART FOODSERVICE, INC",
-"dunsnumber": "061441556",
-"pred": "105.89373",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "062722038",
+"vendorname": "AMERICAN PURCHASING SERVICES, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1215184926986694",
+"rank": "19"
 },
 {
-"vendorname": "SYSTEMS 2000, INC.",
-"dunsnumber": "035543771",
-"pred": "105.713196",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "001307602",
+"vendorname": "ABBOTT LABORATORIES",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1205211877822876",
+"rank": "20"
 },
 {
-"vendorname": "ADW ENTERPRISES, LLC",
-"dunsnumber": "175103345",
-"pred": "104.947334",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "177360039",
+"vendorname": "STERIS CORPORATION",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1159833669662476",
+"rank": "21"
 },
 {
-"vendorname": "SEATTLE FISH COMPANY OF NEW MEXICO, INC.",
-"dunsnumber": "173239104",
-"pred": "103.57358",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "009158932",
+"vendorname": "NATIONAL STEEL AND SHIPBUILDING COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1149765253067017",
+"rank": "22"
 },
 {
-"vendorname": "VALS DISTRIBUTING COMPANY",
-"dunsnumber": "072403983",
-"pred": "102.87252",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "840655021",
+"vendorname": "THE WORNICK COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1089576482772827",
+"rank": "23"
 },
 {
-"vendorname": "UNITED FOOD SERVICE, INC",
-"dunsnumber": "050246404",
-"pred": "99.11692999999998",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "159868624",
+"vendorname": "SYSCO RALEIGH, LLC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1061772108078003",
+"rank": "24"
 },
 {
-"vendorname": "MIL-RAY FOOD COMPANY INC",
-"dunsnumber": "185910015",
-"pred": "98.94972",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "942868118",
+"vendorname": "INNOTECH PRODUCTS, LTD.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1015139818191528",
+"rank": "25"
 },
 {
-"vendorname": "GROSSMANS SEAFOOD INCORPORATED",
-"dunsnumber": "176012040",
-"pred": "98.72613",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "037403771",
+"vendorname": "SOPAKCO INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0978095531463623",
+"rank": "26"
 },
 {
-"vendorname": "SUPERIOR MANAGEMENT AND SALES",
-"dunsnumber": "808235126",
-"pred": "95.47142",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "025460908",
+"vendorname": "MEDLINE INDUSTRIES INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0955662727355957",
+"rank": "27"
 },
 {
-"vendorname": "SYSCO FOOD SERVICES OF SPOKANE, INC",
-"dunsnumber": "168466451",
-"pred": "91.51293",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "057799637",
+"vendorname": "HARTFORD PROVISION COMPANY THE",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0936121940612793",
+"rank": "28"
 },
 {
-"vendorname": "FARMLAND FOODS INCORPORATED",
-"dunsnumber": "050710854",
-"pred": "90.58936",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "961027315",
+"vendorname": "CARDINAL HEALTH 200 INCORPORATED THE MEDICAL PRODUCTS AND SERVICES GROUP OF CAR",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0896639823913574",
+"rank": "29"
 },
 {
-"vendorname": "U.S. FOODSERVICE, INC.",
-"dunsnumber": "795140433",
-"pred": "89.64808999999998",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "945377653",
+"vendorname": "US FOODS, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.080694317817688",
+"rank": "30"
 },
 {
-"vendorname": "E & H DISTRIBUTING COMPANY",
-"dunsnumber": "022459429",
-"pred": "86.43582",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "056150964",
+"vendorname": "PROFESSIONAL HOSPITAL SUPPLY INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0781792402267456",
+"rank": "31"
 },
 {
-"vendorname": "CLIPPER COMMODITIES INC.",
-"dunsnumber": "622557965",
-"pred": "84.290054",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "LIBERTY DISTRIBUTORS, INC.",
-"dunsnumber": "177829900",
-"pred": "84.160194",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "GALLIGAN WHOLESALE MEAT CO, INC",
-"dunsnumber": "020234993",
-"pred": "83.52355",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SYSCO FOOD SERVICES OF MONTANA",
-"dunsnumber": "825072960",
-"pred": "83.34661",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PACIFIC UNLIMITED INC",
 "dunsnumber": "779912526",
-"pred": "82.05504",
-"smb": "S: SMALL BUSINESS"
+"vendorname": "PACIFIC UNLIMITED INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0745933055877686",
+"rank": "32"
 },
 {
-"vendorname": "SWIFT & COMPANY",
-"dunsnumber": "036461333",
-"pred": "80.684746",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "007929748",
+"vendorname": "BEN E KEITH COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.066693663597107",
+"rank": "33"
 },
 {
-"vendorname": "DOUBLE D INTERNATIONAL FOOD CO INC",
-"dunsnumber": "605294792",
-"pred": "79.98282",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "075888297",
+"vendorname": "VETERANS HEALTH ADMINISTRATION",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0645670890808105",
+"rank": "34"
 },
 {
-"vendorname": "CRIDER, INC.",
-"dunsnumber": "101990703",
-"pred": "79.74033",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "008231672",
+"vendorname": "PEPSI COLA BOTTLING OF SAN DIE",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0617890357971191",
+"rank": "35"
 },
 {
-"vendorname": "CONAGRA POULTRY COMPANY",
-"dunsnumber": "086793361",
-"pred": "79.19788",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "782053516",
+"vendorname": "JOHNSON & JOHNSON HEALTH CARE SYSTEMS INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0617717504501343",
+"rank": "36"
 },
 {
-"vendorname": "GOOD SOURCE SOLUTIONS INC",
-"dunsnumber": "158110697",
-"pred": "79.04397",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "008256224",
+"vendorname": "NESTLE REFRIGERATED FOOD COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.059075117111206",
+"rank": "37"
 },
 {
-"vendorname": "COCHRANE SEAFOOD",
-"dunsnumber": "781815357",
-"pred": "79.00337",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "153910070",
+"vendorname": "BECKMAN COULTER, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0583796501159668",
+"rank": "38"
 },
 {
-"vendorname": "PALMETTO FOOD PURVEYORS LLC",
-"dunsnumber": "800741196",
-"pred": "77.60578",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "006908685",
+"vendorname": "U S  FOODSERVICE, INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0559872388839722",
+"rank": "39"
 },
 {
-"vendorname": "BARRIOS DISTRIBUTING",
-"dunsnumber": "126363456",
-"pred": "77.1963",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "139422950",
+"vendorname": "METRO MEDICAL EQUIPMENT & SUPPLY, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0523607730865479",
+"rank": "40"
 },
 {
-"vendorname": "STAUNTON FRUIT AND PRODUCE CO., INC.",
-"dunsnumber": "023967607",
-"pred": "76.5633",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "006966030",
+"vendorname": "SYSCO FOOD SERVICES OF KANSAS CITY INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.048515796661377",
+"rank": "41"
 },
 {
-"vendorname": "WHITE RIVER TRADING OF NORTHWEST ARKANSAS, INC.",
-"dunsnumber": "622776214",
-"pred": "75.73461",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "876626102",
+"vendorname": "US FOODSERVICE (2339)",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0459814071655273",
+"rank": "42"
 },
 {
-"vendorname": "FOOD SERVICES OF AMERICA",
-"dunsnumber": "035211069",
-"pred": "73.56611",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "035375757",
+"vendorname": "NICHOLAS & CO., INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0451740026474",
+"rank": "43"
 },
 {
-"vendorname": "MARCUS FOOD COMPANY INCORPORATED",
-"dunsnumber": "843641916",
-"pred": "73.40594",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "827853529",
+"vendorname": "HEALTHWAY GROUP, LLC, THE",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0438657999038696",
+"rank": "44"
 },
 {
-"vendorname": "U S  FOODSERVICE INC",
-"dunsnumber": "050735919",
-"pred": "73.24403",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "808576024",
+"vendorname": "ALLIED JOINT VENTURE",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0438514947891235",
+"rank": "45"
 },
 {
-"vendorname": "EASTERN POULTRY DISTRIBUTORS, INC.",
-"dunsnumber": "013839899",
-"pred": "72.74156",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "782980403",
+"vendorname": "U S  FOODSERVICE, INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0425671339035034",
+"rank": "46"
 },
 {
-"vendorname": "R & D MARKETING LLC",
-"dunsnumber": "044764129",
-"pred": "72.55529",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "609815618",
+"vendorname": "U.S. FOODSERVICE, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0403778553009033",
+"rank": "47"
 },
 {
-"vendorname": "NATIONAL BEEF PACKING CO , LLC",
-"dunsnumber": "147950794",
-"pred": "72.31716",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "826134140",
+"vendorname": "MARSH SUPERMARKETS, INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0396977663040161",
+"rank": "48"
 },
 {
-"vendorname": "WESTLAND MEAT COMPANY INCORPORATED",
-"dunsnumber": "617803812",
-"pred": "72.14602",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "182158873",
+"vendorname": "LIFE TECHNOLOGIES CORPORATION",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0389972925186157",
+"rank": "49"
 },
 {
-"vendorname": "SYSCO/LOUISVILLE FOODS SERVICE",
+"dunsnumber": "039674833",
+"vendorname": "BROTHERS PRODUCE, INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0370426177978516",
+"rank": "50"
+},
+{
+"dunsnumber": "965900483",
+"vendorname": "S & K SALES CO.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0363590717315674",
+"rank": "51"
+},
+{
+"dunsnumber": "031137391",
+"vendorname": "HILAND DAIRY FOODS COMPANY, LLC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0363235473632812",
+"rank": "52"
+},
+{
+"dunsnumber": "004283115",
+"vendorname": "ABBOTT LABORATORIES",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.035142183303833",
+"rank": "53"
+},
+{
+"dunsnumber": "053046025",
+"vendorname": "SYSCO FOOD SERVICES OF SAN FRA",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0345174074172974",
+"rank": "54"
+},
+{
+"dunsnumber": "159998632",
+"vendorname": "H. SCHRIER & CO., INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0333518981933594",
+"rank": "55"
+},
+{
+"dunsnumber": "008018525",
+"vendorname": "ALCON LABORATORIES, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0330100059509277",
+"rank": "56"
+},
+{
+"dunsnumber": "024042079",
+"vendorname": "MBA OFFICE SUPPLY INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0329400300979614",
+"rank": "57"
+},
+{
+"dunsnumber": "141883541",
+"vendorname": "SYSCO FOOD SERVICES OF VENTURA INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0327624082565308",
+"rank": "58"
+},
+{
+"dunsnumber": "001123314",
+"vendorname": "LAMSON & GOODNOW MFG CO",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.032382607460022",
+"rank": "59"
+},
+{
+"dunsnumber": "034110689",
+"vendorname": "U.S. FOODSERVICE, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0320956707000732",
+"rank": "60"
+},
+{
+"dunsnumber": "968507301",
+"vendorname": "POCONO PRODUCE CO INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0319161415100098",
+"rank": "61"
+},
+{
+"dunsnumber": "001704527",
+"vendorname": "ELLWOOD INTERNATIONAL, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0316152572631836",
+"rank": "62"
+},
+{
+"dunsnumber": "842296782",
+"vendorname": "INTERNATIONAL PROMOTIONAL IDEAS INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0314700603485107",
+"rank": "63"
+},
+{
+"dunsnumber": "161021597",
+"vendorname": "US FOODS, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0311195850372314",
+"rank": "64"
+},
+{
+"dunsnumber": "023821473",
+"vendorname": "MARYLAND & VIRGINIA MILK PRODU",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.03102707862854",
+"rank": "65"
+},
+{
+"dunsnumber": "617920475",
+"vendorname": "PYA/MONARCH, LLC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.03071928024292",
+"rank": "66"
+},
+{
+"dunsnumber": "806693974",
+"vendorname": "SOMERSET INDUSTRIES INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0297389030456543",
+"rank": "67"
+},
+{
+"dunsnumber": "050246404",
+"vendorname": "UNITED FOOD SERVICE INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0289251804351807",
+"rank": "68"
+},
+{
+"dunsnumber": "024230633",
+"vendorname": "BECTON DICKINSON AND COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.02765953540802",
+"rank": "69"
+},
+{
+"dunsnumber": "799126172",
+"vendorname": "SYSCO FOOD SERVICES OF CENTRAL FLORIDA INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.027491807937622",
+"rank": "70"
+},
+{
+"dunsnumber": "786892927",
+"vendorname": "RITE-KEM INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0270227193832397",
+"rank": "71"
+},
+{
+"dunsnumber": "077854560",
+"vendorname": "U.S. FOODSERVICE, INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0263656377792358",
+"rank": "72"
+},
+{
+"dunsnumber": "008184749",
+"vendorname": "THE MERCHANTS COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0262162685394287",
+"rank": "73"
+},
+{
+"dunsnumber": "007977770",
+"vendorname": "Y HATA & CO LTD",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.023823618888855",
+"rank": "74"
+},
+{
+"dunsnumber": "012478822",
+"vendorname": "ALLE PROCESSING CORPORATION",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0231817960739136",
+"rank": "75"
+},
+{
+"dunsnumber": "022459429",
+"vendorname": "U.S. FOODSERVICE, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0230220556259155",
+"rank": "76"
+},
+{
+"dunsnumber": "605839377",
+"vendorname": "SYSCO NEW MEXICO, LLC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0227365493774414",
+"rank": "77"
+},
+{
+"dunsnumber": "055212153",
+"vendorname": "LAND-O-SUN DAIRIES L.L.C.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0224604606628418",
+"rank": "78"
+},
+{
+"dunsnumber": "003296175",
+"vendorname": "THE COCA-COLA COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0221607685089111",
+"rank": "79"
+},
+{
+"dunsnumber": "139747026",
+"vendorname": "SHAVER FOODS LIMITED LIABILITY COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0221443176269531",
+"rank": "80"
+},
+{
+"dunsnumber": "028139517",
+"vendorname": "US FOODSERVICE, INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.021909236907959",
+"rank": "81"
+},
+{
+"dunsnumber": "088162420",
+"vendorname": "U.S. FOODSERVICE, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0217636823654175",
+"rank": "82"
+},
+{
+"dunsnumber": "006046945",
+"vendorname": "NORTH OAKLAND COMMODITIES INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.020504117012024",
+"rank": "83"
+},
+{
+"dunsnumber": "058614483",
+"vendorname": "TYCO HEALTHCARE GROUP LIMITED PARTNERSHIP",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0194523334503174",
+"rank": "84"
+},
+{
+"dunsnumber": "795140433",
+"vendorname": "US FOODSERVICE INCORPORATED (2294)",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0193426609039307",
+"rank": "85"
+},
+{
+"dunsnumber": "624860334",
+"vendorname": "L.A. FOODS, LLC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0191681385040283",
+"rank": "86"
+},
+{
+"dunsnumber": "130027592",
+"vendorname": "AMERIQUAL GROUP, LLC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0186073780059814",
+"rank": "87"
+},
+{
+"dunsnumber": "797016701",
+"vendorname": "WHOLESALE LIQUIDATIONS L.L.C.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0185662508010864",
+"rank": "88"
+},
+{
 "dunsnumber": "007992787",
-"pred": "70.1948",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"vendorname": "SYSCO/LOUISVILLE FOODS SERVICE",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0183231830596924",
+"rank": "89"
+},
+{
+"dunsnumber": "002206183",
+"vendorname": "EASTMAN KODAK COMPANY",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0176312923431396",
+"rank": "90"
+},
+{
+"dunsnumber": "809075575",
+"vendorname": "DLJ PRODUCE INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0163297653198242",
+"rank": "91"
+},
+{
+"dunsnumber": "063881353",
+"vendorname": "KARETAS FOODS INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0153498649597168",
+"rank": "92"
+},
+{
+"dunsnumber": "040594561",
+"vendorname": "U S F I INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0149339437484741",
+"rank": "93"
+},
+{
+"dunsnumber": "041051587",
+"vendorname": "OPPORTUNITY SALES, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0146794319152832",
+"rank": "94"
+},
+{
+"dunsnumber": "003176880",
+"vendorname": "SYSCO HAMPTON ROADS, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0144531726837158",
+"rank": "95"
+},
+{
+"dunsnumber": "779921998",
+"vendorname": "U S  FOODSERVICE, INC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0142743587493896",
+"rank": "96"
+},
+{
+"dunsnumber": "034757757",
+"vendorname": "CONSOLIDATED POULTRY AND EGG COMPANY INCORPORATED",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0140771865844727",
+"rank": "97"
+},
+{
+"dunsnumber": "050735919",
+"vendorname": "US FOODS, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0137012004852295",
+"rank": "98"
+},
+{
+"dunsnumber": "053945259",
+"vendorname": "SYSCO EASTERN MARYLAND, LLC",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0130653381347656",
+"rank": "99"
+},
+{
+"dunsnumber": "965492416",
+"vendorname": "GLOBAL FOODS, INC.",
+"productorservicecode": "8905: MEAT, POULTRY, AND FISH",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0128591060638428",
+"rank": "100"
 }
 ]

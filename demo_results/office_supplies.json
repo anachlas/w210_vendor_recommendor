@@ -1,602 +1,802 @@
 [
 {
-"vendorname": "NATIONAL INDUSTRIES FOR THE BL",
-"dunsnumber": "001672120",
-"pred": "157190.83",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "BOISE CASCADE OFFICE PRODUCTS",
-"dunsnumber": "879436640",
-"pred": "39483.45169274999",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "OFFICE DEPOT",
-"dunsnumber": "614345809",
-"pred": "21953.32033983333",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MBA OFFICE SUPPLY INCORPORATED",
-"dunsnumber": "024042079",
-"pred": "7253.1714",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "VETERANS IMAGING PRODUCTS, INC",
-"dunsnumber": "938054723",
-"pred": "5548.1115703333335",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SUPPLIES NOW, INC.",
-"dunsnumber": "147768563",
-"pred": "5526.3774",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "VALLEY INDUSTRIAL PRODUCTS, INC.",
-"dunsnumber": "002640084",
-"pred": "5306.2095",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WECSYS LIMITED LIABILITY COMPANY (6769)",
-"dunsnumber": "836284091",
-"pred": "5150.3574",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ELLISON SYSTEMS INCORPORATED",
-"dunsnumber": "942173550",
-"pred": "4788.0005",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "GEORGE W  ALLEN CO , INC",
-"dunsnumber": "024212375",
-"pred": "4227.148",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "NISH INC",
-"dunsnumber": "074809377",
-"pred": "3623.4468",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MMG TECHNOLOGY GROUP INC",
-"dunsnumber": "081722436",
-"pred": "3372.8032",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "UNICOR / FEDERAL PRISON INDUSTRIES (3594)",
-"dunsnumber": "626627459",
-"pred": "2942.252",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SUMMIT TRAVELWARE INC",
-"dunsnumber": "193567856",
-"pred": "2695.37981635",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CORPORATE EXPRESS OFFICE PRODUCTS INCORPORATED",
-"dunsnumber": "933457251",
-"pred": "1881.8291",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "STAPLES BUSINESS EXPO A DIVISION OF STAPLES INCORPORATED",
-"dunsnumber": "942603358",
-"pred": "1490.4991645555554",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ASSOCIATED INDUSTRIES FOR THE BLIND",
-"dunsnumber": "047157701",
-"pred": "1466.4924",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "NORTHEAST OFFICE SUPPLY CO  LL",
-"dunsnumber": "131876737",
-"pred": "1387.5112",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "OFFICE DEPOT, INC",
-"dunsnumber": "153531108",
-"pred": "1311.9758",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SUPPLY SAVER CORPORATION (INC)",
-"dunsnumber": "130484660",
-"pred": "1263.6141",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SKM INDUSTRIES INC",
-"dunsnumber": "809108459",
-"pred": "1236.1134",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MISCELLANEOUS FOREIGN AWARDEES",
-"dunsnumber": "123456787",
-"pred": "946.7998416769228",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "TRANSPARENT OFFICE PRODUCTS LIMITED LIABILITY COMPANY",
-"dunsnumber": "048042386",
-"pred": "868.1446",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ABM FEDERAL SALES INC",
-"dunsnumber": "064632888",
-"pred": "798.1525543272727",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ALLIANCE RUBBER COMPANY",
-"dunsnumber": "006561450",
-"pred": "752.905",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "APPLIED DATA RESOURCES INCORPORATED",
-"dunsnumber": "175002799",
-"pred": "752.09454",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "INTERIOR FACILITIES DESIGN LLC",
-"dunsnumber": "184200785",
-"pred": "737.68555",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "KIPPER TOOL COMPANY",
-"dunsnumber": "828953166",
-"pred": "704.82916",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "PREMIER AND COMPANIES INCORPORATED",
-"dunsnumber": "784141384",
-"pred": "680.2981646042857",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "UNITED OFFICE SOLUTIONS INCORPORATED",
-"dunsnumber": "137469768",
-"pred": "678.8481048",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "METRO OFFICE SOLUTIONS, INC.",
-"dunsnumber": "787411917",
-"pred": "647.3982854666667",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "NEW YORK INKJET LIMITED LIABILITY COMPANY",
-"dunsnumber": "610959467",
-"pred": "643.6073",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "S&B COMPUTER AND OFFICE PRODUCTS INCORPORATED",
-"dunsnumber": "803875343",
-"pred": "628.56085",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "B & D SUPPLIES, INC.",
-"dunsnumber": "052460821",
-"pred": "612.43",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "RIBBONS EXPRESS, INC",
-"dunsnumber": "783587751",
-"pred": "594.0681",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CAPP INCORPORATED",
-"dunsnumber": "014654966",
-"pred": "594.03235",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ANTEON CORPORATION",
-"dunsnumber": "067641597",
-"pred": "592.2349",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "LUCILLE MAUD CORPORATION",
-"dunsnumber": "193976974",
-"pred": "591.5706",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DELPHIN COMPUTER SUPPLY",
-"dunsnumber": "156967036",
-"pred": "566.92423775",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "A S E DIRECT LIMITED LIABILITY COMPANY",
-"dunsnumber": "616385667",
-"pred": "544.7560184666667",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PROGRESSIVE LASER INC",
-"dunsnumber": "958768343",
-"pred": "538.3357874249999",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MILLENNIUM SOLUTIONS INC",
-"dunsnumber": "048673698",
-"pred": "533.0717",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "AMERICAN BUSINESS FORMS",
-"dunsnumber": "016290632",
-"pred": "529.1614",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CAPITOL FURNITURE DISTRIBUTING COMPANY",
-"dunsnumber": "131781643",
-"pred": "525.1457",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ENVISION XPRESS, INC.",
-"dunsnumber": "118860779",
-"pred": "524.1461",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ARKANSAS LIGHTHOUSE FOR THE BLIND, THE",
-"dunsnumber": "075638171",
-"pred": "522.452",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "RECYCLED OFFICE PRODUCTS COMPANY",
-"dunsnumber": "809475692",
-"pred": "505.89374",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CADDO DESIGN INC",
-"dunsnumber": "781083662",
-"pred": "505.10782",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "BUHRMANN US INC",
-"dunsnumber": "164871878",
-"pred": "501.10413",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WESCO AIRCRAFT HARDWARE CORP.",
-"dunsnumber": "048485478",
-"pred": "477.64243",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ECONOFFICE PRODUCTS & SUPPLIES, INC.",
-"dunsnumber": "158147459",
-"pred": "422.52887",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "RELIANT BUSINESS PRODUCTS INCORPORATED",
-"dunsnumber": "008106684",
-"pred": "410.86554",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ALEXANDER SUPPLY CO., INC.",
-"dunsnumber": "005908413",
-"pred": "398.06375",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "INDEPENDENT STATIONERS, INC",
-"dunsnumber": "085625200",
-"pred": "393.24314159999994",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "IMPAC COMPUTER SUPPLIES INC.",
-"dunsnumber": "044332844",
-"pred": "390.5387",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "UNITED PARCEL SERVICE INCORPORATED (OH) (2075)",
-"dunsnumber": "128729373",
-"pred": "388.57617",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PELICAN PRODUCTS INCORPORATED",
 "dunsnumber": "082193277",
-"pred": "364.03696",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"vendorname": "PELICAN PRODUCTS INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.596792221069336",
+"rank": "1"
 },
 {
-"vendorname": "SPECIALTY LOOSELEAF INCORPORATED",
-"dunsnumber": "867167587",
-"pred": "350.0215799999999",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "842296782",
+"vendorname": "INTERNATIONAL PROMOTIONAL IDEAS INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.5615825653076172",
+"rank": "2"
 },
 {
-"vendorname": "CAPRICE ELECTRONICS, INC.",
-"dunsnumber": "092658152",
-"pred": "349.25104",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "049442473",
+"vendorname": "DOCUMENT AUTOMATION AND PRODUCTION SERVICE",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.5554404258728027",
+"rank": "3"
 },
 {
-"vendorname": "ACCESS PRODUCTS INC",
-"dunsnumber": "151045309",
-"pred": "343.9546",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "606673937",
+"vendorname": "PROMAXIMA MANUFACTURING, LTD",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.4626305103302002",
+"rank": "4"
 },
 {
-"vendorname": "ADVANCED DIGITAL SOLUTIONS INTERNATIONAL",
-"dunsnumber": "793965609",
-"pred": "337.58292",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "120852520",
+"vendorname": "LIFE FITNESS, A DIVISION OF BRUNSWICK",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.449941873550415",
+"rank": "5"
 },
 {
-"vendorname": "INDUSTRIES FOR THE BLIND, INC",
-"dunsnumber": "006096200",
-"pred": "330.958266275",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "004628657",
+"vendorname": "JOHN BRICE DBA/IRONCOMPANY COM",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.4129526615142822",
+"rank": "6"
 },
 {
-"vendorname": "CAROLINA MARKING DEVICES INC",
-"dunsnumber": "003150190",
-"pred": "326.74774",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "111615287",
+"vendorname": "PSI RECRUITING, INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.384359359741211",
+"rank": "7"
 },
 {
-"vendorname": "PACIFIC INK, INC.",
-"dunsnumber": "115419470",
-"pred": "325.69614",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "788075703",
+"vendorname": "OFUS INTERNATIONAL CORP",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3833646774291992",
+"rank": "8"
 },
 {
-"vendorname": "CELLCO PARTNERSHIP DBA VERIZON WIRELESS",
-"dunsnumber": "968904698",
-"pred": "318.27316",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "038544912",
+"vendorname": "EHI COMPANY",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3808271884918213",
+"rank": "9"
 },
 {
-"vendorname": "S & W MANUFACTURING",
-"dunsnumber": "613491653",
-"pred": "314.0553300000001",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "032672651",
+"vendorname": "KRUEGER INTERNATIONAL INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.3765597343444824",
+"rank": "10"
 },
 {
-"vendorname": "DIVINE IMAGING INCORPORATED",
-"dunsnumber": "132080123",
-"pred": "313.25075999999996",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "166665245",
+"vendorname": "TRIBALCO, LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3713154792785645",
+"rank": "11"
 },
 {
-"vendorname": "S & T OFFICE PRODUCTS INC",
-"dunsnumber": "057102238",
-"pred": "312.70105",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "024291544",
+"vendorname": "WASHINGTON MUSIC SALES CENTER INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.368079662322998",
+"rank": "12"
 },
 {
-"vendorname": "ATLANTIC DIVING SUPPLY, INC.",
-"dunsnumber": "027079776",
-"pred": "310.84285785",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "061931056",
+"vendorname": "NAUTILUS HUMAN PERFORMANCE SYSTEMS INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.364248275756836",
+"rank": "13"
 },
 {
-"vendorname": "TIMEMED LABELING SYSTEMS, INC",
-"dunsnumber": "003853488",
-"pred": "299.824",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "176332310",
+"vendorname": "SPORT SUPPLY GROUP, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.3611013889312744",
+"rank": "14"
 },
 {
-"vendorname": "BOISE CASCADE OFFICE PRODUCTS",
-"dunsnumber": "620497891",
-"pred": "296.69452",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "003165719",
+"vendorname": "CONRAD INDUSTRIES, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3571531772613525",
+"rank": "15"
 },
 {
-"vendorname": "COMPLETE PACKAGING AND SHIPPING SUPPLIES INCORPORATED",
-"dunsnumber": "790889711",
-"pred": "292.57572999750005",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "189158629",
+"vendorname": "Q-MATIC CORPORATION",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.3570679426193237",
+"rank": "16"
 },
 {
-"vendorname": "K PAUL PROPERTIES, LLC",
-"dunsnumber": "785308797",
-"pred": "286.44888",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "042279042",
+"vendorname": "CREATIVE SIGN SERVICE, INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3493313789367676",
+"rank": "17"
 },
 {
-"vendorname": "WEBER COMPUTER SUPPLY COMPANY",
-"dunsnumber": "613480586",
-"pred": "273.92117",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "083063032",
+"vendorname": "EXPORT TECHNICIANS INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.348153829574585",
+"rank": "18"
 },
 {
-"vendorname": "VETERAN CORPS OF AMERICA",
-"dunsnumber": "187409060",
-"pred": "272.67923",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "072136393",
+"vendorname": "MORSE WATCHMANS INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3469116687774658",
+"rank": "19"
 },
 {
-"vendorname": "THE ARBOR SCHOOL",
-"dunsnumber": "556359966",
-"pred": "270.81534",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "835887738",
+"vendorname": "ALLIED CONTRACT, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.345978021621704",
+"rank": "20"
 },
 {
-"vendorname": "AMERICAN OFFICE PRODUCTS DISTR",
-"dunsnumber": "039636337",
-"pred": "265.0007486566667",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "185930542",
+"vendorname": "UNICOR FEDERAL PRISON INDUSTRIES INCORPORATED (5705) 1182724",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.342484474182129",
+"rank": "21"
 },
 {
-"vendorname": "ALL CITI TONER INC.",
-"dunsnumber": "016792058",
-"pred": "264.49457",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "087403499",
+"vendorname": "ADORAMA INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.338862657546997",
+"rank": "22"
 },
 {
-"vendorname": "BERGAMO GROUP BUSINESS SOLUTIONS INCORPORATED",
-"dunsnumber": "131096211",
-"pred": "263.6869",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "097811384",
+"vendorname": "SYSTEM 2/90, INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.335832118988037",
+"rank": "23"
 },
 {
-"vendorname": "WATS INTERNATIONAL INC",
-"dunsnumber": "101284552",
-"pred": "260.3897",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "150777738",
+"vendorname": "HDT EXPEDITIONARY SYSTEMS, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.3314378261566162",
+"rank": "24"
 },
 {
-"vendorname": "B2B DIRECT",
-"dunsnumber": "013497342",
-"pred": "259.57153",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "067093435",
+"vendorname": "EDWARDS SYSTEMS TECHNOLOGY",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3290449380874634",
+"rank": "25"
 },
 {
-"vendorname": "EZ PRINT SUPPLIES",
-"dunsnumber": "141254842",
-"pred": "259.35886",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "867726374",
+"vendorname": "ADVANTAGE SUPPLIES, INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3287365436553955",
+"rank": "26"
 },
 {
-"vendorname": "SZY HOLDINGS, LLC",
-"dunsnumber": "147372960",
-"pred": "254.72868",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "001121912",
+"vendorname": "HARDIGG INDUSTRIES, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.3263789415359497",
+"rank": "27"
 },
 {
-"vendorname": "COMPUTER SCIENCES CORPORATION",
-"dunsnumber": "043991108",
-"pred": "253.47942",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "786094003",
+"vendorname": "17TH STREET PHOTO SUPPLY INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3232370615005493",
+"rank": "28"
 },
 {
-"vendorname": "WRIGHT TOOL COMPANY",
-"dunsnumber": "057007189",
-"pred": "253.41708",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "022983092",
+"vendorname": "THE PROPHET CORPORATION",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.3220447301864624",
+"rank": "29"
 },
 {
-"vendorname": "OFFICE PRODUCTS",
-"dunsnumber": "147043103",
-"pred": "252.53682",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "002555654",
+"vendorname": "REMSTAR INTERNATIONAL INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.3203136920928955",
+"rank": "30"
 },
 {
-"vendorname": "ST LOUIS CRAYON AND SOAPSTONE INCORPORATED",
-"dunsnumber": "007857766",
-"pred": "250.2964",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "160430757",
+"vendorname": "AMIGO MOBILITY INTERNATIONAL INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3158941268920898",
+"rank": "31"
 },
 {
-"vendorname": "METRO OFFICE PRODUCTS LLC",
-"dunsnumber": "791326312",
-"pred": "249.86915101249997",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "015698467",
+"vendorname": "IMPACT PARTNERS, L.P.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.313175916671753",
+"rank": "32"
 },
 {
-"vendorname": "ACORN OFFICE PRODUCTS LLC",
-"dunsnumber": "192770050",
-"pred": "247.94608",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "363655143",
+"vendorname": "SPORT SUPPLY GROUP INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3109723329544067",
+"rank": "33"
 },
 {
-"vendorname": "T & M COMPUTER SUPPLY CO",
-"dunsnumber": "095260410",
-"pred": "247.93575",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "188166664",
+"vendorname": "GERBER SCIENTIFIC PRODUCTS, IN",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.3096535205841064",
+"rank": "34"
 },
 {
-"vendorname": "XSE GROUP, INC.",
-"dunsnumber": "161854054",
-"pred": "247.81079",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "017259326",
+"vendorname": "MICHIGAN CHURCH SUPPLY COMPANY INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3083080053329468",
+"rank": "35"
 },
 {
-"vendorname": "SERCO INC.",
-"dunsnumber": "928859149",
-"pred": "242.52295",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "147684427",
+"vendorname": "THE WRITE CONNECTION INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.301025390625",
+"rank": "36"
 },
 {
-"vendorname": "FRANKLIN COVEY CO",
-"dunsnumber": "113402713",
-"pred": "242.45016",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "131658445",
+"vendorname": "YORK TELECOM CORPORATION",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2997465133666992",
+"rank": "37"
 },
 {
-"vendorname": "SUN SUPPLY INCORPORATED",
-"dunsnumber": "131067675",
-"pred": "239.96136",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "002036606",
+"vendorname": "CYBEX INTERNATIONAL INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.299421787261963",
+"rank": "38"
 },
 {
-"vendorname": "APRISA TECHNOLOGY,LLC",
-"dunsnumber": "129983776",
-"pred": "238.93695",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "001962976",
+"vendorname": "NIKON INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.298542857170105",
+"rank": "39"
 },
 {
-"vendorname": "LYNN ELECTRONICS CORP.",
-"dunsnumber": "002387603",
-"pred": "237.07826",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "021533653",
+"vendorname": "SEK SOLUTIONS LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2981511354446411",
+"rank": "40"
 },
 {
-"vendorname": "OFFICE GROUP, INC., THE",
-"dunsnumber": "119079903",
-"pred": "236.40851749500004",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "002776115",
+"vendorname": "THE CORPS GROUP, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2979919910430908",
+"rank": "41"
 },
 {
-"vendorname": "OFFICE ESSENTIALS COMPANY",
-"dunsnumber": "151263022",
-"pred": "234.18839",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "002067155",
+"vendorname": "CRANE & CO., INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2970349788665771",
+"rank": "42"
 },
 {
-"vendorname": "GENERAL ELECTRIC COMPANY",
-"dunsnumber": "073838534",
-"pred": "229.80011",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "197567659",
+"vendorname": "A I W, INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2939523458480835",
+"rank": "43"
 },
 {
-"vendorname": "FORD MOTOR COMPANY",
-"dunsnumber": "080241867",
-"pred": "229.1982",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "027366947",
+"vendorname": "PRECOR INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.286376714706421",
+"rank": "44"
+},
+{
+"dunsnumber": "131695629",
+"vendorname": "DHS SYSTEMS LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2842170000076294",
+"rank": "45"
+},
+{
+"dunsnumber": "001695568",
+"vendorname": "ARMY AND AIR FORCE EXCHANGE SERVICE (2789) 1497",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.28010892868042",
+"rank": "46"
+},
+{
+"dunsnumber": "969272905",
+"vendorname": "GOVERNMENT SUPPLY LINE, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2780147790908813",
+"rank": "47"
+},
+{
+"dunsnumber": "780851226",
+"vendorname": "SUPERCIRCUITS INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.277080774307251",
+"rank": "48"
+},
+{
+"dunsnumber": "938853769",
+"vendorname": "RICHARDS-WILCOX, INC (DEL)",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2764286994934082",
+"rank": "49"
+},
+{
+"dunsnumber": "040928496",
+"vendorname": "US 21, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2739810943603516",
+"rank": "50"
+},
+{
+"dunsnumber": "103041182",
+"vendorname": "FERBAK, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2731971740722656",
+"rank": "51"
+},
+{
+"dunsnumber": "174911131",
+"vendorname": "HAMILTON PRODUCTS GROUP, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.272959589958191",
+"rank": "52"
+},
+{
+"dunsnumber": "878566249",
+"vendorname": "NEW HERMES, INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2728049755096436",
+"rank": "53"
+},
+{
+"dunsnumber": "804036387",
+"vendorname": "Z-MATRIX SOLUTIONS CORP.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2696342468261719",
+"rank": "54"
+},
+{
+"dunsnumber": "124623039",
+"vendorname": "SAMPSON PARTNERS LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2695633172988892",
+"rank": "55"
+},
+{
+"dunsnumber": "616920104",
+"vendorname": "INTERNATIONAL COMMERCE & MARKETING CORP.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2691829204559326",
+"rank": "56"
+},
+{
+"dunsnumber": "037098043",
+"vendorname": "NATIONAL LAMINATING INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.268406629562378",
+"rank": "57"
+},
+{
+"dunsnumber": "151608916",
+"vendorname": "CANNON SPORTS, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2656078338623047",
+"rank": "58"
+},
+{
+"dunsnumber": "153630694",
+"vendorname": "LEVIN PROFESSIONAL SERVICES, I",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2656075954437256",
+"rank": "59"
+},
+{
+"dunsnumber": "099589970",
+"vendorname": "QUBICAAMF WORLDWIDE, LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2651643753051758",
+"rank": "60"
+},
+{
+"dunsnumber": "006432918",
+"vendorname": "SPACESAVER STORAGE SYSTEMS INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2643206119537354",
+"rank": "61"
+},
+{
+"dunsnumber": "130243884",
+"vendorname": "GRACO AWARDS MANUFACTURING, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2633497714996338",
+"rank": "62"
+},
+{
+"dunsnumber": "011670346",
+"vendorname": "DOUGLASS INDUSTRIES INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2611417770385742",
+"rank": "63"
+},
+{
+"dunsnumber": "016459591",
+"vendorname": "VANGUARD INDUSTRIES EAST, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2554292678833008",
+"rank": "64"
+},
+{
+"dunsnumber": "025248451",
+"vendorname": "ADM INTERNATIONAL, INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2550632953643799",
+"rank": "65"
+},
+{
+"dunsnumber": "073575755",
+"vendorname": "UNISEN INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2538220882415771",
+"rank": "66"
+},
+{
+"dunsnumber": "020960436",
+"vendorname": "MARSH SHIPPING SUPPLY CO, LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2523694038391113",
+"rank": "67"
+},
+{
+"dunsnumber": "001767763",
+"vendorname": "AMERICAN SCIENCE AND ENGINEERING, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.249396562576294",
+"rank": "68"
+},
+{
+"dunsnumber": "106954175",
+"vendorname": "ROOT INTERNATIONAL INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2490627765655518",
+"rank": "69"
+},
+{
+"dunsnumber": "603007092",
+"vendorname": "BEST BUY GOVERNMENT LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2489559650421143",
+"rank": "70"
+},
+{
+"dunsnumber": "032606642",
+"vendorname": "APOPKA BEAUTY & BARBER SUPPLY, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2469629049301147",
+"rank": "71"
+},
+{
+"dunsnumber": "007280647",
+"vendorname": "THOMAS, R J MANUFACTURING CO I",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2462866306304932",
+"rank": "72"
+},
+{
+"dunsnumber": "056435894",
+"vendorname": "FEDERAL PRISON INDUSTRIES INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2459816932678223",
+"rank": "73"
+},
+{
+"dunsnumber": "139121730",
+"vendorname": "NETBORED INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2432246208190918",
+"rank": "74"
+},
+{
+"dunsnumber": "093320232",
+"vendorname": "KARDEX SYSTEMS INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2395201921463013",
+"rank": "75"
+},
+{
+"dunsnumber": "043979665",
+"vendorname": "ALASKA INDUSTRIAL RESOURCES IN",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.237966537475586",
+"rank": "76"
+},
+{
+"dunsnumber": "628036345",
+"vendorname": "UNITED PROCUREMENT, L.P.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.237911343574524",
+"rank": "77"
+},
+{
+"dunsnumber": "009255191",
+"vendorname": "J.L. DARLING CORPORATION",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2361844778060913",
+"rank": "78"
+},
+{
+"dunsnumber": "001489491",
+"vendorname": "FLAGHOUSE, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2357940673828125",
+"rank": "79"
+},
+{
+"dunsnumber": "794034553",
+"vendorname": "FEDERAL PRISON INDUSTRIES INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2346863746643066",
+"rank": "80"
+},
+{
+"dunsnumber": "150634004",
+"vendorname": "RICOH AMERICAS CORPORATION",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2345902919769287",
+"rank": "81"
+},
+{
+"dunsnumber": "001356872",
+"vendorname": "IRA GREEN, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2304651737213135",
+"rank": "82"
+},
+{
+"dunsnumber": "049413248",
+"vendorname": "LISTA INTERNATIONAL CORPORATIO",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2300875186920166",
+"rank": "83"
+},
+{
+"dunsnumber": "076164771",
+"vendorname": "NATIONAL BUSINESS FURNITURE, LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2288618087768555",
+"rank": "84"
+},
+{
+"dunsnumber": "793958943",
+"vendorname": "ALLIED CONTAINER SYSTEMS, INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2280004024505615",
+"rank": "85"
+},
+{
+"dunsnumber": "131857331",
+"vendorname": "CORNERSTONE EQUIPMENT AND SUPPLY INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2275454998016357",
+"rank": "86"
+},
+{
+"dunsnumber": "047713581",
+"vendorname": "GERBER SCIENTIFIC INTERNATIONAL, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.225031852722168",
+"rank": "87"
+},
+{
+"dunsnumber": "153205307",
+"vendorname": "COMMERCIAL MARKETING ASSOCIATE",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2241945266723633",
+"rank": "88"
+},
+{
+"dunsnumber": "001992338",
+"vendorname": "ATD AMERICAN COMPANY",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2220059633255005",
+"rank": "89"
+},
+{
+"dunsnumber": "030771252",
+"vendorname": "HIGHLAND MARKETING GROUP, LLC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2216638326644897",
+"rank": "90"
+},
+{
+"dunsnumber": "027839211",
+"vendorname": "C FORBES INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2208714485168457",
+"rank": "91"
+},
+{
+"dunsnumber": "619822075",
+"vendorname": "UNIVERSAL SODEXHO",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.214740514755249",
+"rank": "92"
+},
+{
+"dunsnumber": "049118453",
+"vendorname": "ENVISION TECHNOLOGY PARTNERS,",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2143971920013428",
+"rank": "93"
+},
+{
+"dunsnumber": "017573259",
+"vendorname": "EC AMERICA, INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2125605344772339",
+"rank": "94"
+},
+{
+"dunsnumber": "002111896",
+"vendorname": "GRAPHIC CONTROLS LIMITED LIABILITY COMPANY",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2121965885162354",
+"rank": "95"
+},
+{
+"dunsnumber": "072645922",
+"vendorname": "PARAGRAM SALES CO, INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2117276191711426",
+"rank": "96"
+},
+{
+"dunsnumber": "001197789",
+"vendorname": "V.H. BLACKINTON & CO., INC.",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.211237907409668",
+"rank": "97"
+},
+{
+"dunsnumber": "032157125",
+"vendorname": "HOIST FITNESS SYSTEMS INC",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2099030017852783",
+"rank": "98"
+},
+{
+"dunsnumber": "804514602",
+"vendorname": "CONFIGURATION INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2098720073699951",
+"rank": "99"
+},
+{
+"dunsnumber": "046047874",
+"vendorname": "NATIONAL CAPITAL FLAG COMPANY, INCORPORATED",
+"productorservicecode": "7510: OFFICE SUPPLIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2098021507263184",
+"rank": "100"
 }
 ]

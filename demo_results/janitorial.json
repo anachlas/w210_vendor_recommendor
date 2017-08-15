@@ -1,944 +1,802 @@
 [
 {
-"dunsnumber": "801423062",
-"vendorname": "CARDINAL HEALTH, INC.",
+"dunsnumber": "002509420",
+"vendorname": "ORKIN EXTERMINATING CO",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "17467.9150390625"
+"prediction": "2.130244255065918",
+"rank": "1"
 },
 {
-"dunsnumber": "006906614",
-"vendorname": "BERGEN BRUNSWIG DRUG COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "11558.68017578125"
-},
-{
-"dunsnumber": "005201074",
-"vendorname": "AMERICAN LOCK COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "8579.26953125"
-},
-{
-"dunsnumber": "080241867",
-"vendorname": "FORD MOTOR COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "7267.810791015625"
-},
-{
-"dunsnumber": "007914906",
-"vendorname": "AMERISOURCEBERGEN DRUG CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "7139.26123046875"
-},
-{
-"dunsnumber": "095633152",
-"vendorname": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "6487.634765625"
-},
-{
-"dunsnumber": "831587949",
-"vendorname": "CHRYSLER GROUP, LLC, THE",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "6019.362548828125"
-},
-{
-"dunsnumber": "130368145",
-"vendorname": "FORESTWOOD FARM, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "5366.36474609375"
-},
-{
-"dunsnumber": "076916246",
-"vendorname": "INVACARE CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "5130.2163696289062"
-},
-{
-"dunsnumber": "067943220",
-"vendorname": "LOCKHEED MARTIN AERONAUTICS SERVICE-INTERNATIONAL",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "4514.3067626953125"
-},
-{
-"dunsnumber": "007941230",
-"vendorname": "OWENS & MINOR DISTRIBUTION, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "4178.8321228027344"
-},
-{
-"dunsnumber": "115534104",
-"vendorname": "GOVERNMENT MARKETING GROUP INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "4085.4248046875"
-},
-{
-"dunsnumber": "961027315",
-"vendorname": "CARDINAL HEALTH 200 INCORPORATED THE MEDICAL PRODUCTS AND SERVICES GROUP OF CAR",
-"smb": "S: SMALL BUSINESS",
-"pred": "3979.2047119140625"
-},
-{
-"dunsnumber": "174284315",
-"vendorname": "PRODUCE SOURCE PARTNERS, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "3813.0498046875"
-},
-{
-"dunsnumber": "155415078",
-"vendorname": "ALPHA OFFICE SUPPLIES, INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "3722.498779296875"
-},
-{
-"dunsnumber": "879436640",
-"vendorname": "BOISE CASCADE OFFICE PRODUCTS",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "3619.22802734375"
-},
-{
-"dunsnumber": "793477758",
-"vendorname": "TINKER SUPPORT SERVICES JV",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "3611.10986328125"
-},
-{
-"dunsnumber": "110483521",
-"vendorname": "JVYS",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "3269.94921875"
-},
-{
-"dunsnumber": "806840729",
-"vendorname": "LOCKHEED MARTIN INTEGRATED SYSTEMS, INC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "3114.5167236328125"
-},
-{
-"dunsnumber": "147795132",
-"vendorname": "ALLAN BAKER, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "3096.7699584960938"
-},
-{
-"dunsnumber": "835551474",
-"vendorname": "SIKORSKY AIRCRAFT CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "3054.29248046875"
-},
-{
-"dunsnumber": "148983229",
-"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "3025.607666015625"
-},
-{
-"dunsnumber": "044081388",
-"vendorname": "PROCURENET, INC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2999.479248046875"
-},
-{
-"dunsnumber": "105919864",
+"dunsnumber": "177667227",
 "vendorname": "MCKESSON CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2927.0538330078125"
-},
-{
-"dunsnumber": "012430880",
-"vendorname": "HENRY SCHEIN INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2801.352783203125"
-},
-{
-"dunsnumber": "009255191",
-"vendorname": "J.L. DARLING CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "2698.0146484375"
-},
-{
-"dunsnumber": "884194044",
-"vendorname": "S J GAJDOS INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "2607.21240234375"
-},
-{
-"dunsnumber": "828128475",
-"vendorname": "WILLOW ENVIRONMENTAL, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "2606.52490234375"
-},
-{
-"dunsnumber": "142440150",
-"vendorname": "JORDAN RESES SUPPLY COMPANY, LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2576.6948852539062"
-},
-{
-"dunsnumber": "005083209",
-"vendorname": "BAXTER HEALTHCARE CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2575.807861328125"
-},
-{
-"dunsnumber": "131747628",
-"vendorname": "ARTHREX, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2525.693359375"
-},
-{
-"dunsnumber": "019666098",
-"vendorname": "SUNRISE MEDICAL HHG INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2486.43408203125"
-},
-{
-"dunsnumber": "155104938",
-"vendorname": "COASTAL PACIFIC FOOD DISTRIBUT",
-"smb": "S: SMALL BUSINESS",
-"pred": "2480.951904296875"
-},
-{
-"dunsnumber": "025460908",
-"vendorname": "MEDLINE INDUSTRIES INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2393.3206176757812"
-},
-{
-"dunsnumber": "962972159",
-"vendorname": "LOCKHEED MARTIN CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2351.4086303710938"
-},
-{
-"dunsnumber": "147329176",
-"vendorname": "LOCKHEED MARTIN CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2316.6875"
-},
-{
-"dunsnumber": "189071368",
-"vendorname": "MORGAN RESEARCH CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "2314.892333984375"
-},
-{
-"dunsnumber": "362563843",
-"vendorname": "VALEO",
-"smb": "S: SMALL BUSINESS",
-"pred": "2240.51318359375"
-},
-{
-"dunsnumber": "099109766",
-"vendorname": "AIR PRODUCTS AND CHEMICALS INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "2151.90234375"
-},
-{
-"dunsnumber": "781457148",
-"vendorname": "TRI STATE GOVERNMENT SERVICES",
-"smb": "S: SMALL BUSINESS",
-"pred": "2150.703369140625"
-},
-{
-"dunsnumber": "623191194",
-"vendorname": "DENTAL HEALTH PRODUCTS INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "2118.533447265625"
-},
-{
-"dunsnumber": "079148128",
-"vendorname": "PEKIN MEMORIAL HOSPITAL",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2074.2578125"
-},
-{
-"dunsnumber": "614345809",
-"vendorname": "OFFICE DEPOT, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2045.22412109375"
-},
-{
-"dunsnumber": "804514602",
-"vendorname": "CONFIGURATION INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "1962.8140869140625"
-},
-{
-"dunsnumber": "602526360",
-"vendorname": "SPARTA, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1935.6678466796875"
-},
-{
-"dunsnumber": "198241895",
-"vendorname": "TRAVEL CONCEPTS, INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "1907.4686279296875"
-},
-{
-"dunsnumber": "001123314",
-"vendorname": "LAMSON AND GOODNOW MANUFACTURING COMPANY",
-"smb": "S: SMALL BUSINESS",
-"pred": "1885.102783203125"
-},
-{
-"dunsnumber": "077817617",
-"vendorname": "HP ENTERPRISE SERVICES, LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1882.6867370605469"
-},
-{
-"dunsnumber": "063375141",
-"vendorname": "FOOD SERVICES, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1840.61572265625"
-},
-{
-"dunsnumber": "040594561",
-"vendorname": "USFI, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1779.1837158203125"
-},
-{
-"dunsnumber": "137361572",
-"vendorname": "MCKESSON HBOC, INC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1755.5820922851562"
-},
-{
-"dunsnumber": "015108087",
-"vendorname": "BENCO DENTAL SUPPLY CO.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1737.2313232421875"
-},
-{
-"dunsnumber": "197286172",
-"vendorname": "MICHELIN AIRCRAFT TIRE CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1735.1585693359375"
-},
-{
-"dunsnumber": "071595540",
-"vendorname": "CONMED CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1721.727783203125"
-},
-{
-"dunsnumber": "079308359",
-"vendorname": "SEALED AIR CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "1720.9634399414062"
-},
-{
-"dunsnumber": "021717889",
-"vendorname": "BOSTON SCIENTIFIC CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "1708.0853271484375"
-},
-{
-"dunsnumber": "010018737",
-"vendorname": "AARCO PRODUCTS INC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1703.1357421875"
-},
-{
-"dunsnumber": "001903137",
-"vendorname": "GRAYBAR ELECTRIC COMPANY INCORPORATED (4380)",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1687.7681884765625"
-},
-{
-"dunsnumber": "001667161",
-"vendorname": "MICHELIN NORTH AMERICA, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1662.854736328125"
-},
-{
-"dunsnumber": "003408931",
-"vendorname": "BRAD HALL & ASSOCIATES, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1611.1787109375"
-},
-{
-"dunsnumber": "063931836",
-"vendorname": "ACCRABOND CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "1580.2181396484375"
-},
-{
-"dunsnumber": "169601999",
-"vendorname": "COOK MEDICAL INC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1577.4459533691406"
-},
-{
-"dunsnumber": "055189856",
-"vendorname": "P J K FOOD SERVICE CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1576.5367431640625"
-},
-{
-"dunsnumber": "090260089",
-"vendorname": "AVIATION & MISSILE SOLUTIONS, LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1556.02001953125"
-},
-{
-"dunsnumber": "155505485",
-"vendorname": "RAYTHEON TECHNICAL SERVICES COMPANY LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1555.7454833984375"
-},
-{
-"dunsnumber": "785807611",
-"vendorname": "GOVERNMENT SCIENTIFIC SOURCE INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1555.2518310546875"
-},
-{
-"dunsnumber": "062722038",
-"vendorname": "AMERICAN PURCHASING SERVICES, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1551.4940185546875"
-},
-{
-"dunsnumber": "859395428",
-"vendorname": "DEPUY ORTHOPAEDICS, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1529.9278564453125"
-},
-{
-"dunsnumber": "005527098",
-"vendorname": "HOLLISTER INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1524.821044921875"
-},
-{
-"dunsnumber": "005196613",
-"vendorname": "AMERICAN TAPE MEASURES INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "1516.095458984375"
-},
-{
-"dunsnumber": "791451180",
-"vendorname": "CARDINAL HEALTH 100, INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "1506.049072265625"
-},
-{
-"dunsnumber": "159868624",
-"vendorname": "SYSCO FOOD SERVICES OF RALEIGH, LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1496.5939331054688"
-},
-{
-"dunsnumber": "884462623",
-"vendorname": "TIDEWATER INDUSTRIAL EQUIPMENT",
-"smb": "S: SMALL BUSINESS",
-"pred": "1483.945556640625"
-},
-{
-"dunsnumber": "614369783",
-"vendorname": "CACI INC-COMMERCIAL",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1483.2666015625"
-},
-{
-"dunsnumber": "186729133",
-"vendorname": "L-3 COMMUNICATIONS CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1470.619384765625"
-},
-{
-"dunsnumber": "035858898",
-"vendorname": "COAST CITRUS DISTRIBUTORS",
-"smb": "S: SMALL BUSINESS",
-"pred": "1449.0001220703125"
-},
-{
-"dunsnumber": "053038584",
-"vendorname": "SIRVA RELOCATION LIMITED LIABILITY COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1445.12353515625"
-},
-{
-"dunsnumber": "883533879",
-"vendorname": "DMS PHARMACEUTICAL GROUP INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1433.0653076171875"
-},
-{
-"dunsnumber": "782053516",
-"vendorname": "JOHNSON & JOHNSON HEALTH CARE SYSTEMS INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1413.2403564453125"
-},
-{
-"dunsnumber": "002299725",
-"vendorname": "SULLIVAN CARSON INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "1412.51953125"
-},
-{
-"dunsnumber": "004678801",
-"vendorname": "PRIMACY RELOCATION, LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1396.15966796875"
-},
-{
-"dunsnumber": "016290632",
-"vendorname": "AMERICAN BUSINESS FORMS",
-"smb": "S: SMALL BUSINESS",
-"pred": "1383.7989501953125"
-},
-{
-"dunsnumber": "072581718",
-"vendorname": "AMSEC LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1377.62890625"
-},
-{
-"dunsnumber": "835568965",
-"vendorname": "SYSCO FOOD SERVICES OF SEATTLE",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1337.51708984375"
-},
-{
-"dunsnumber": "784641057",
-"vendorname": "BOH ENVIRONMENTAL",
-"smb": "S: SMALL BUSINESS",
-"pred": "1336.0120239257812"
-},
-{
-"dunsnumber": "174205013",
-"vendorname": "CLARKE HEALTH CARE PRODUCTS INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "1311.7353515625"
-},
-{
-"dunsnumber": "831024927",
-"vendorname": "CLARK-MCCARTHY HEALTHCARE PARTNERS, A JOINT VENTURE",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1301.314453125"
-},
-{
-"dunsnumber": "088162420",
-"vendorname": "U.S. FOODSERVICE, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1296.189208984375"
-},
-{
-"dunsnumber": "792207177",
-"vendorname": "DE KEYZER, GREGORY R OLIVIER ATTORNEY AT LAW",
-"smb": "S: SMALL BUSINESS",
-"pred": "1294.756103515625"
-},
-{
-"dunsnumber": "785347691",
-"vendorname": "TRC GLOBAL SOLUTIONS, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "1292.5247802734375"
+"prediction": "1.9709975719451904",
+"rank": "2"
 },
 {
-"dunsnumber": "073680126",
-"vendorname": "ELECTRIC MOBILITY CORPORATION",
+"dunsnumber": "021964036",
+"vendorname": "TOTE SERVICES, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1285.8985595703125"
+"prediction": "1.8231151103973389",
+"rank": "3"
 },
 {
-"dunsnumber": "962380833",
-"vendorname": "GPT PROPERTIES TRUST",
+"dunsnumber": "603774142",
+"vendorname": "GLOBAL PCCI (GPC)",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1279.55908203125"
-},
-{
-"dunsnumber": "825054810",
-"vendorname": "EMERALD SERVICES, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1276.3583984375"
-},
-{
-"dunsnumber": "008184749",
-"vendorname": "THE MERCHANTS COMPANY",
-"smb": "S: SMALL BUSINESS",
-"pred": "1269.99267578125"
-},
-{
-"dunsnumber": "627785884",
-"vendorname": "ARROWHEAD GLOBAL SOLUTIONS, IN",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1263.6868896484375"
-},
-{
-"dunsnumber": "062064746",
-"vendorname": "FLAMEMASTER CORPORATION, THE",
-"smb": "S: SMALL BUSINESS",
-"pred": "1254.8419189453125"
-},
-{
-"dunsnumber": "177360039",
-"vendorname": "STERIS CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "1248.1873779296875"
-},
-{
-"dunsnumber": "001826627",
-"vendorname": "JAMAICA BEARINGS CO INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "1245.2354736328125"
-},
-{
-"dunsnumber": "614289957",
-"vendorname": "CANOVA & DELAHAYE LLC",
-"smb": "S: SMALL BUSINESS",
-"pred": "1243.171142578125"
-},
-{
-"dunsnumber": "785809349",
-"vendorname": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1228.6385498046875"
-},
-{
-"dunsnumber": "137354572",
-"vendorname": "ZIMMER US, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1222.960205078125"
-},
-{
-"dunsnumber": "020829396",
-"vendorname": "AVFUEL CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1221.104248046875"
-},
-{
-"dunsnumber": "154773337",
-"vendorname": "SAFETY EQUIPMENT COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1208.8778076171875"
-},
-{
-"dunsnumber": "076256809",
-"vendorname": "ST JOHNS REGIONAL HEALTH CENTER",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1202.023193359375"
-},
-{
-"dunsnumber": "008481103",
-"vendorname": "REHAU INC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1199.69140625"
-},
-{
-"dunsnumber": "024589251",
-"vendorname": "FOSTER-CAVINESS COMPANY, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1199.3568115234375"
-},
-{
-"dunsnumber": "182043083",
-"vendorname": "TIMBER EDGE MACHINE",
-"smb": "S: SMALL BUSINESS",
-"pred": "1185.3062744140625"
-},
-{
-"dunsnumber": "182004838",
-"vendorname": "BLACK GOLD INDUSTRIES",
-"smb": "S: SMALL BUSINESS",
-"pred": "1184.04541015625"
-},
-{
-"dunsnumber": "003918679",
-"vendorname": "STEVEN INDUSTRIES INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "1178.94873046875"
-},
-{
-"dunsnumber": "929079424",
-"vendorname": "DEMATTEI CLAY O MD",
-"smb": "S: SMALL BUSINESS",
-"pred": "1176.671875"
+"prediction": "1.7959792613983154",
+"rank": "4"
 },
 {
-"dunsnumber": "028139517",
-"vendorname": "US FOODSERVICE, INC",
+"dunsnumber": "829108211",
+"vendorname": "CROWLEY TECHNICAL MANAGEMENT, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1170.97412109375"
-},
-{
-"dunsnumber": "781828785",
-"vendorname": "RALRUBE, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "1154.7464599609375"
-},
-{
-"dunsnumber": "072388986",
-"vendorname": "INDEPENDENT METAL STRAP CO INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "1142.086669921875"
+"prediction": "1.7147256135940552",
+"rank": "5"
 },
 {
-"dunsnumber": "008018525",
-"vendorname": "ALCON LABORATORIES, INC.",
+"dunsnumber": "103034559",
+"vendorname": "PESTMASTER SERVICES INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "1131.2623443603516"
+"prediction": "1.6901251077651978",
+"rank": "6"
 },
 {
-"dunsnumber": "967162251",
-"vendorname": "REDSTONE DEFENSE SYSTEMS",
-"smb": "S: SMALL BUSINESS",
-"pred": "1092.7339477539062"
-},
-{
-"dunsnumber": "003176880",
-"vendorname": "SYSCO HAMPTON ROADS, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1055.5380859375"
-},
-{
-"dunsnumber": "147286269",
-"vendorname": "LOCKHEED MARTIN CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1029.9328002929688"
-},
-{
-"dunsnumber": "013550462",
-"vendorname": "PEERLESS AEROSPACE FASTENER CORPORATION",
+"dunsnumber": "157241688",
+"vendorname": "TERMINIX INTERNATIONAL COMPANY",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "946.6822509765625"
+"prediction": "1.679631233215332",
+"rank": "7"
 },
 {
-"dunsnumber": "836116769",
-"vendorname": "ROYAL ADHESIVES & SEALANTS LLC",
+"dunsnumber": "008862315",
+"vendorname": "KEYSTONE SHIPPING SERVICES INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "916.11187744140625"
+"prediction": "1.6793555021286011",
+"rank": "8"
 },
 {
-"dunsnumber": "054537840",
-"vendorname": "APEX FOOT HEALTH INDUSTRIES INCORPORATED",
+"dunsnumber": "081411597",
+"vendorname": "PACIFIC GULF MARINE",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "898.44308471679688"
+"prediction": "1.658014178276062",
+"rank": "9"
 },
 {
-"dunsnumber": "190477153",
-"vendorname": "TRIANGLE INDUSTRIAL ENTERPRISE LIMITED LIABILITY COMPANY",
+"dunsnumber": "101105518",
+"vendorname": "MARINE TRANSPORT LINES, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "876.76313781738281"
-},
-{
-"dunsnumber": "038337523",
-"vendorname": "MERRIMACK ENGRAVING & MARKING CO INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "829.00335693359375"
-},
-{
-"dunsnumber": "968507301",
-"vendorname": "POCONO PRODUCE CO INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "822.43829345703125"
-},
-{
-"dunsnumber": "007977770",
-"vendorname": "Y. HATA & COMPANY, LIMITED",
-"smb": "S: SMALL BUSINESS",
-"pred": "784.93035888671875"
-},
-{
-"dunsnumber": "003856143",
-"vendorname": "KAUFMAN COMPANY INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "776.996826171875"
-},
-{
-"dunsnumber": "006217061",
-"vendorname": "DAKOTA DRUG INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "765.81317138671875"
+"prediction": "1.6486927270889282",
+"rank": "10"
 },
 {
-"dunsnumber": "075957076",
-"vendorname": "BINDLEY WESTERN INDUSTRIES INC",
+"dunsnumber": "040990913",
+"vendorname": "MAERSK LINE, LIMITED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "759.54302978515625"
+"prediction": "1.637584924697876",
+"rank": "11"
 },
 {
-"dunsnumber": "021411467",
-"vendorname": "KLARQUIST SPARKMAN, LLP",
+"dunsnumber": "069156214",
+"vendorname": "CROWLEY LINER SERVICES, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "755.83380126953125"
+"prediction": "1.5892586708068848",
+"rank": "12"
 },
 {
-"dunsnumber": "962900288",
-"vendorname": "BENTCO OFFICE SOLUTIONS",
+"dunsnumber": "033202763",
+"vendorname": "XTERMCO, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "755.78973388671875"
-},
-{
-"dunsnumber": "053945259",
-"vendorname": "SYSCO EASTERN MARYLAND, LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "743.553955078125"
-},
-{
-"dunsnumber": "038009866",
-"vendorname": "EXIDE TECHNOLOGIES",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "731.746826171875"
+"prediction": "1.5870763063430786",
+"rank": "13"
 },
 {
-"dunsnumber": "174716113",
-"vendorname": "INTERNATIONAL PAINT LLC",
+"dunsnumber": "121620850",
+"vendorname": "AMERICAN OVERSEAS MARINE CORPORATION",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "719.52099609375"
+"prediction": "1.5501358509063721",
+"rank": "14"
 },
 {
-"dunsnumber": "032516361",
-"vendorname": "ATK SPACE SYSTEMS INC.",
+"dunsnumber": "041354036",
+"vendorname": "AMERICAN PEST MANAGEMENT INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "710.4205322265625"
+"prediction": "1.5456051826477051",
+"rank": "15"
 },
 {
-"dunsnumber": "080911274",
-"vendorname": "BAE SYSTEMS SAN DIEGO SHIP REPAIR INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "706.75262451171875"
-},
-{
-"dunsnumber": "051944155",
-"vendorname": "ROCKFORD SILK SCREEN PROCESS, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "704.245849609375"
-},
-{
-"dunsnumber": "614163707",
-"vendorname": "AA WHEEL & TRUCK SUPPLY, INC.",
+"dunsnumber": "006154611",
+"vendorname": "ECOLAB INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "677.2215576171875"
-},
-{
-"dunsnumber": "617920475",
-"vendorname": "PYA/MONARCH, LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "670.69921875"
+"prediction": "1.5407301187515259",
+"rank": "16"
 },
 {
-"dunsnumber": "788143316",
-"vendorname": "US SAFETY TAPES, LLC",
+"dunsnumber": "801041922",
+"vendorname": "GLOBAL INVESTMENT RECOVERY INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "639.7344970703125"
+"prediction": "1.5380717515945435",
+"rank": "17"
 },
 {
-"dunsnumber": "009106477",
-"vendorname": "EUREKA CHEMICAL COMPANY",
+"dunsnumber": "945520286",
+"vendorname": "D R RESENDEZ & R SCHAALMAN INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "619.98486328125"
-},
-{
-"dunsnumber": "049365591",
-"vendorname": "DG21 LIMITED LIABILITY COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "601.65411376953125"
-},
-{
-"dunsnumber": "622051969",
-"vendorname": "CNA CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "599.1925048828125"
+"prediction": "1.5229645967483521",
+"rank": "18"
 },
 {
-"dunsnumber": "808576024",
-"vendorname": "ALLIED JOINT VENTURE",
+"dunsnumber": "837881754",
+"vendorname": "TEXAS WRECKER SERVICE",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "581.3895263671875"
+"prediction": "1.516129732131958",
+"rank": "19"
 },
 {
-"dunsnumber": "033907874",
-"vendorname": "JOSEPH FOODSERVICE INC",
+"dunsnumber": "190451104",
+"vendorname": "TEXTAINER EQUIPMENT MANAGEMENT",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "561.933349609375"
-},
-{
-"dunsnumber": "149453610",
-"vendorname": "VISION ASSOCIATES OF ROCHESTER INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "544.855712890625"
-},
-{
-"dunsnumber": "101642353",
-"vendorname": "RALRUBE INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "540.99920654296875"
+"prediction": "1.4994668960571289",
+"rank": "20"
 },
 {
-"dunsnumber": "099002792",
-"vendorname": "F & L COMPANY, INC.",
+"dunsnumber": "364261511",
+"vendorname": "PATRIOT HOLDINGS LIMITED LIABILITY COMPANY",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "539.1939697265625"
+"prediction": "1.4960603713989258",
+"rank": "21"
 },
 {
-"dunsnumber": "804544724",
-"vendorname": "EPIC AVIATION, LLC",
+"dunsnumber": "176765790",
+"vendorname": "MORMAC MARINE ENTERPRISES INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "534.10064697265625"
+"prediction": "1.4709841012954712",
+"rank": "22"
 },
 {
-"dunsnumber": "007992787",
-"vendorname": "SYSCO/LOUISVILLE FOODS SERVICE",
+"dunsnumber": "964009179",
+"vendorname": "PHOENIX INTERNATIONAL INCORPORATED (7593)",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "532.78497314453125"
-},
-{
-"dunsnumber": "113402713",
-"vendorname": "FRANKLIN COVEY COMPANY",
-"smb": "S: SMALL BUSINESS",
-"pred": "514.92669677734375"
-},
-{
-"dunsnumber": "928500933",
-"vendorname": "WORLD CLASS BUSINESS PRODUCTS INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "514.84454345703125"
-},
-{
-"dunsnumber": "779913441",
-"vendorname": "DYNAMIC VENTURES INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "500.0140380859375"
+"prediction": "1.4701957702636719",
+"rank": "23"
 },
 {
-"dunsnumber": "090706516",
-"vendorname": "WHR GROUP, INC",
+"dunsnumber": "624989633",
+"vendorname": "MANU KAI, LLC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "500.00912475585938"
+"prediction": "1.4520593881607056",
+"rank": "24"
 },
 {
 "dunsnumber": "003928173",
 "vendorname": "MAKOOR PRODUCTS MFG COMPANY, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "S: SMALL BUSINESS",
-"pred": "494.92660522460938"
+"prediction": "1.4503611326217651",
+"rank": "25"
 },
 {
-"dunsnumber": "153718502",
-"vendorname": "FEDEX CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "489.25140380859375"
+"dunsnumber": "786892927",
+"vendorname": "RITE-KEM INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.4494839906692505",
+"rank": "26"
 },
 {
-"dunsnumber": "102284080",
-"vendorname": "CLEAN COUNTRY, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "488.556396484375"
+"dunsnumber": "145696071",
+"vendorname": "BEST VALUE SERVICES, LLC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.4477527141571045",
+"rank": "27"
 },
 {
-"dunsnumber": "623353955",
-"vendorname": "SERCO SERVICES INC.",
+"dunsnumber": "009158932",
+"vendorname": "NATIONAL STEEL AND SHIPBUILDING COMPANY",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "486.02737426757812"
+"prediction": "1.4352684020996094",
+"rank": "28"
 },
 {
-"dunsnumber": "878053321",
-"vendorname": "LAND-O-SUN DAIRIES L.L.C.",
+"dunsnumber": "062184010",
+"vendorname": "L.L.ENTERPRISES, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.432313084602356",
+"rank": "29"
+},
+{
+"dunsnumber": "830389404",
+"vendorname": "CCI SOLUTIONS, LLC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.4157601594924927",
+"rank": "30"
+},
+{
+"dunsnumber": "177360039",
+"vendorname": "STERIS CORPORATION",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3822869062423706",
+"rank": "31"
+},
+{
+"dunsnumber": "039203740",
+"vendorname": "MANAGEMENT & TRAINING CORPORATION",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3770629167556763",
+"rank": "32"
+},
+{
+"dunsnumber": "001672120",
+"vendorname": "NATIONAL INDUSTRIES FOR THE BLIND",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "483.12979125976562"
+"prediction": "1.3441071510314941",
+"rank": "33"
+},
+{
+"dunsnumber": "612753681",
+"vendorname": "BENSON FARMS, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3360496759414673",
+"rank": "34"
+},
+{
+"dunsnumber": "178326377",
+"vendorname": "SEALIFT INCORPORATED OF DELAWARE",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3248887062072754",
+"rank": "35"
+},
+{
+"dunsnumber": "778903591",
+"vendorname": "HAGENS INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.318224310874939",
+"rank": "36"
+},
+{
+"dunsnumber": "809982465",
+"vendorname": "OCEAN DUCHESS INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2999613285064697",
+"rank": "37"
+},
+{
+"dunsnumber": "074809377",
+"vendorname": "NISH",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2993952035903931",
+"rank": "38"
+},
+{
+"dunsnumber": "025460908",
+"vendorname": "MEDLINE INDUSTRIES INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2990714311599731",
+"rank": "39"
+},
+{
+"dunsnumber": "006912620",
+"vendorname": "MATSON NAVIGATION COMPANY, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2977590560913086",
+"rank": "40"
+},
+{
+"dunsnumber": "004162038",
+"vendorname": "GOJO INDUSTRIES INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2961145639419556",
+"rank": "41"
+},
+{
+"dunsnumber": "189426802",
+"vendorname": "ANGEL SYSTEMS INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2838526964187622",
+"rank": "42"
+},
+{
+"dunsnumber": "623437951",
+"vendorname": "HOBART CORPORATION",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2677210569381714",
+"rank": "43"
+},
+{
+"dunsnumber": "829715049",
+"vendorname": "KI, LLC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2664148807525635",
+"rank": "44"
+},
+{
+"dunsnumber": "006173082",
+"vendorname": "3M COMPANY",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2627525329589844",
+"rank": "45"
+},
+{
+"dunsnumber": "008198699",
+"vendorname": "WATERMAN STEAMSHIP CORPORATION",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2429990768432617",
+"rank": "46"
+},
+{
+"dunsnumber": "005103494",
+"vendorname": "W W GRAINGER, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2418007850646973",
+"rank": "47"
+},
+{
+"dunsnumber": "051060408",
+"vendorname": "SAFETY KLEEN SYSTEMS INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2372651100158691",
+"rank": "48"
+},
+{
+"dunsnumber": "011115466",
+"vendorname": "HERMAN W YECIES INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2362759113311768",
+"rank": "49"
+},
+{
+"dunsnumber": "847436391",
+"vendorname": "COLOPLAST CORP.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2338992357254028",
+"rank": "50"
+},
+{
+"dunsnumber": "014742014",
+"vendorname": "STEINER INDUSTRIAL, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2126153707504272",
+"rank": "51"
+},
+{
+"dunsnumber": "790238638",
+"vendorname": "DOMESTIC CONTRACTOR (UNDISCLOSED)",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2122757434844971",
+"rank": "52"
+},
+{
+"dunsnumber": "044779387",
+"vendorname": "MC ALLISTER TOWING & TRANSPORTATION CO INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2070366144180298",
+"rank": "53"
+},
+{
+"dunsnumber": "841926277",
+"vendorname": "SUMMER SCENT MFG INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2063806056976318",
+"rank": "54"
+},
+{
+"dunsnumber": "001468255",
+"vendorname": "MURALO COMPANY, INC., THE",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2053641080856323",
+"rank": "55"
+},
+{
+"dunsnumber": "074800160",
+"vendorname": "UNITED STATES GOVERNMENT PRINTING OFFICE",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2026518583297729",
+"rank": "56"
+},
+{
+"dunsnumber": "147160014",
+"vendorname": "OCEAN SHIPS, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2021958827972412",
+"rank": "57"
+},
+{
+"dunsnumber": "112897640",
+"vendorname": "ESCO EXTERMINATING SERVICES INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2015581130981445",
+"rank": "58"
+},
+{
+"dunsnumber": "095013975",
+"vendorname": "GRAYBACK FORESTRY INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.20060133934021",
+"rank": "59"
+},
+{
+"dunsnumber": "098715878",
+"vendorname": "PERRY MANAGEMENT CORPORATION OF SOUTH DAKOTA LIMITED LIABILITY COMPANY",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.200542688369751",
+"rank": "60"
+},
+{
+"dunsnumber": "847316189",
+"vendorname": "PREVENTIVE MAINTENANCE SERVICES COMPANY",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1997746229171753",
+"rank": "61"
+},
+{
+"dunsnumber": "017026758",
+"vendorname": "BROWN STAR PRODUCTS INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1993292570114136",
+"rank": "62"
+},
+{
+"dunsnumber": "037482122",
+"vendorname": "NEWMAN INDUSTRIAL SUPPLY, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.19775390625",
+"rank": "63"
+},
+{
+"dunsnumber": "007941230",
+"vendorname": "OWENS & MINOR DISTRIBUTION, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1917279958724976",
+"rank": "64"
+},
+{
+"dunsnumber": "085866580",
+"vendorname": "TW METALS, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1888542175292969",
+"rank": "65"
+},
+{
+"dunsnumber": "008937922",
+"vendorname": "KEYSTONE SHIPPING CO.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1874819993972778",
+"rank": "66"
+},
+{
+"dunsnumber": "005083209",
+"vendorname": "BAXTER HEALTHCARE CORPORATION",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1853975057601929",
+"rank": "67"
+},
+{
+"dunsnumber": "175177948",
+"vendorname": "ECONOMY PEST CONTROL SERVICES",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1825519800186157",
+"rank": "68"
+},
+{
+"dunsnumber": "010748684",
+"vendorname": "GREAT PLAINS ENTERPRISES, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1823474168777466",
+"rank": "69"
+},
+{
+"dunsnumber": "199920265",
+"vendorname": "GLOBAL STRATEGIES GROUP (NORTH AMERICA) INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1817998886108398",
+"rank": "70"
+},
+{
+"dunsnumber": "961027315",
+"vendorname": "CARDINAL HEALTH 200 INCORPORATED THE MEDICAL PRODUCTS AND SERVICES GROUP OF CAR",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1772668361663818",
+"rank": "71"
+},
+{
+"dunsnumber": "151918125",
+"vendorname": "KENNAMETAL, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1755483150482178",
+"rank": "72"
+},
+{
+"dunsnumber": "182043083",
+"vendorname": "TIMBER EDGE MACHINE",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1705033779144287",
+"rank": "73"
+},
+{
+"dunsnumber": "168461114",
+"vendorname": "EDINA SERVICES, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1702258586883545",
+"rank": "74"
+},
+{
+"dunsnumber": "005957329",
+"vendorname": "SECURITY ENGINEERED MCHY COMPANY",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1651411056518555",
+"rank": "75"
+},
+{
+"dunsnumber": "103505004",
+"vendorname": "E AND S DIVERSIFIED SERVICES INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1642961502075195",
+"rank": "76"
+},
+{
+"dunsnumber": "830135799",
+"vendorname": "HUNTINGTON INGALLS INCORPORATED",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1639578342437744",
+"rank": "77"
+},
+{
+"dunsnumber": "003899655",
+"vendorname": "J.C. EHRLICH CHEMICAL CO., INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1622962951660156",
+"rank": "78"
+},
+{
+"dunsnumber": "198973513",
+"vendorname": "GRANITE SEED COMPANY",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1614044904708862",
+"rank": "79"
+},
+{
+"dunsnumber": "024482296",
+"vendorname": "SCRIPTPRO USA INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1566411256790161",
+"rank": "80"
+},
+{
+"dunsnumber": "019723535",
+"vendorname": "UNIFIRST CORPORATION",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.154942274093628",
+"rank": "81"
+},
+{
+"dunsnumber": "095367897",
+"vendorname": "AMERICAN ROLL-ON ROLL-OFF CARR",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1546385288238525",
+"rank": "82"
+},
+{
+"dunsnumber": "175336544",
+"vendorname": "BEST PEST CONTROL CO",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1517828702926636",
+"rank": "83"
+},
+{
+"dunsnumber": "149975554",
+"vendorname": "WORNICK COMPANY, THE",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1504464149475098",
+"rank": "84"
+},
+{
+"dunsnumber": "867790511",
+"vendorname": "TRACE, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1489849090576172",
+"rank": "85"
+},
+{
+"dunsnumber": "147256197",
+"vendorname": "METSON MARINE SERVICES, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1485084295272827",
+"rank": "86"
+},
+{
+"dunsnumber": "047461306",
+"vendorname": "EGGLESTON CENTER INC, LOUISE W",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1407437324523926",
+"rank": "87"
+},
+{
+"dunsnumber": "556970523",
+"vendorname": "JAL ENTERPRISES, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.137880563735962",
+"rank": "88"
+},
+{
+"dunsnumber": "608261764",
+"vendorname": "SUMMITT FORESTS INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1377155780792236",
+"rank": "89"
+},
+{
+"dunsnumber": "049365591",
+"vendorname": "DG21 LLC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1366164684295654",
+"rank": "90"
+},
+{
+"dunsnumber": "113377659",
+"vendorname": "MANAGEMENT CONSULTING, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.135850429534912",
+"rank": "91"
+},
+{
+"dunsnumber": "159848365",
+"vendorname": "CP SHIPS USA, LLC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1348106861114502",
+"rank": "92"
+},
+{
+"dunsnumber": "782403984",
+"vendorname": "RIVERSIDE MANUFACTURING, LLC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.13151216506958",
+"rank": "93"
+},
+{
+"dunsnumber": "800166969",
+"vendorname": "TL SERVICES, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.130825400352478",
+"rank": "94"
+},
+{
+"dunsnumber": "199076803",
+"vendorname": "ROBERT OCHOA",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1300888061523438",
+"rank": "95"
+},
+{
+"dunsnumber": "006911648",
+"vendorname": "AMERICAN PRESIDENT LINES LTD INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1272858381271362",
+"rank": "96"
+},
+{
+"dunsnumber": "149048006",
+"vendorname": "ASSISTIVE & REHABILITATIVE SERVICES, TEXAS DEPARTMENT OF",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1239887475967407",
+"rank": "97"
+},
+{
+"dunsnumber": "048491153",
+"vendorname": "JET ABRASIVES, INC.",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1226584911346436",
+"rank": "98"
+},
+{
+"dunsnumber": "033094231",
+"vendorname": "MORAN TOWING CORPORATION",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1201536655426025",
+"rank": "99"
+},
+{
+"dunsnumber": "006012801",
+"vendorname": "HERMAN MILLER, INC",
+"productorservicecode": "S201: HOUSEKEEPING- CUSTODIAL JANITORIAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.11945378780365",
+"rank": "100"
 }
 ]

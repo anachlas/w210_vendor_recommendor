@@ -1,602 +1,786 @@
 [
 {
-"dunsnumber": "801423062",
-"vendorname": "CARDINAL HEALTH, INC.",
+"dunsnumber": "054781240",
+"vendorname": "SCIENCE APPLICATIONS INTERNATI",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "3356.626220703125"
+"prediction": "0.47530463337898254",
+"rank": "1"
 },
 {
-"dunsnumber": "080241867",
-"vendorname": "FORD MOTOR COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2383.645751953125"
-},
-{
-"dunsnumber": "006906614",
-"vendorname": "BERGEN BRUNSWIG DRUG COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "2167.665283203125"
-},
-{
-"dunsnumber": "007914906",
-"vendorname": "AMERISOURCEBERGEN DRUG CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "1358.8746337890625"
-},
-{
-"dunsnumber": "007941230",
-"vendorname": "OWENS & MINOR DISTRIBUTION, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "871.1589965820312"
-},
-{
-"dunsnumber": "961027315",
-"vendorname": "CARDINAL HEALTH 200 INCORPORATED THE MEDICAL PRODUCTS AND SERVICES GROUP OF CAR",
+"dunsnumber": "006928857",
+"vendorname": "BOOZ ALLEN HAMILTON INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "S: SMALL BUSINESS",
-"pred": "744.7620849609375"
+"prediction": "0.44664743542671204",
+"rank": "3"
 },
 {
-"dunsnumber": "148983229",
+"dunsnumber": "805258373",
+"vendorname": "LOCKHEED MARTIN SERVICES, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.44656121730804443",
+"rank": "4"
+},
+{
+"dunsnumber": "007901598",
+"vendorname": "BATTELLE MEMORIAL INSTITUTE",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.4402797222137451",
+"rank": "5"
+},
+{
+"dunsnumber": "067641597",
+"vendorname": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.4358454942703247",
+"rank": "6"
+},
+{
+"dunsnumber": "004868105",
+"vendorname": "RESEARCH TRIANGLE INSTITUTE",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.4343494474887848",
+"rank": "7"
+},
+{
+"dunsnumber": "103933453",
+"vendorname": "BAE SYSTEMS TECHNOLOGY SOLUTIONS & SERVICES INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.4307731091976166",
+"rank": "8"
+},
+{
+"dunsnumber": "040549461",
+"vendorname": "JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC, THE",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.4279763400554657",
+"rank": "9"
+},
+{
+"dunsnumber": "148095086",
 "vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "609.6344604492188"
+"prediction": "0.42530760169029236",
+"rank": "10"
 },
 {
-"dunsnumber": "105919864",
-"vendorname": "MCKESSON CORPORATION",
+"dunsnumber": "003403953",
+"vendorname": "PENNSYLVANIA STATE UNIVERSITY, THE",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "603.6860961914062"
+"prediction": "0.4154605269432068",
+"rank": "11"
 },
 {
-"dunsnumber": "076916246",
-"vendorname": "INVACARE CORPORATION",
+"dunsnumber": "149879157",
+"vendorname": "MCDONNELL DOUGLAS CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.41251227259635925",
+"rank": "12"
+},
+{
+"dunsnumber": "049508120",
+"vendorname": "WESTAT, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.40721574425697327",
+"rank": "13"
+},
+{
+"dunsnumber": "041964057",
+"vendorname": "NATIONAL ACADEMY OF SCIENCES",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "S: SMALL BUSINESS",
-"pred": "600.01416015625"
+"prediction": "0.40126264095306396",
+"rank": "14"
 },
 {
-"dunsnumber": "147795132",
-"vendorname": "ALLAN BAKER, INC.",
+"dunsnumber": "039860122",
+"vendorname": "XEROX CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "588.24462890625"
+"prediction": "0.39697036147117615",
+"rank": "15"
 },
 {
-"dunsnumber": "155415078",
-"vendorname": "ALPHA OFFICE SUPPLIES, INC",
+"dunsnumber": "116194192",
+"vendorname": "CANON U.S.A., INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.38817718625068665",
+"rank": "16"
+},
+{
+"dunsnumber": "790238851",
+"vendorname": "FOREIGN CONTRACTOR (UNDISCLOSED)",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3867189884185791",
+"rank": "17"
+},
+{
+"dunsnumber": "043991108",
+"vendorname": "COMPUTER SCIENCES CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3844338655471802",
+"rank": "18"
+},
+{
+"dunsnumber": "004435470",
+"vendorname": "A S R C AEROSPACE CORP",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "S: SMALL BUSINESS",
-"pred": "510.8750915527344"
+"prediction": "0.38280248641967773",
+"rank": "19"
 },
 {
-"dunsnumber": "831587949",
-"vendorname": "CHRYSLER GROUP, LLC, THE",
+"dunsnumber": "790238638",
+"vendorname": "DOMESTIC CONTRACTOR (UNDISCLOSED)",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "468.2355041503906"
+"prediction": "0.38234519958496094",
+"rank": "20"
 },
 {
-"dunsnumber": "005083209",
-"vendorname": "BAXTER HEALTHCARE CORPORATION",
+"dunsnumber": "007923014",
+"vendorname": "JACOBS TECHNOLOGY INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "429.9276428222656"
+"prediction": "0.3778589069843292",
+"rank": "21"
 },
 {
-"dunsnumber": "884194044",
-"vendorname": "S J GAJDOS INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "401.1692810058594"
-},
-{
-"dunsnumber": "010018737",
-"vendorname": "AARCO PRODUCTS INC",
+"dunsnumber": "794598573",
+"vendorname": "RAYTHEON COMPANY",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "390.2961120605469"
+"prediction": "0.37634384632110596",
+"rank": "22"
 },
 {
-"dunsnumber": "025460908",
-"vendorname": "MEDLINE INDUSTRIES INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "362.9286193847656"
-},
-{
-"dunsnumber": "962972159",
+"dunsnumber": "008016958",
 "vendorname": "LOCKHEED MARTIN CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "356.3064270019531"
+"prediction": "0.3710869252681732",
+"rank": "23"
 },
 {
-"dunsnumber": "804514602",
-"vendorname": "CONFIGURATION INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "346.6982421875"
-},
-{
-"dunsnumber": "791451180",
-"vendorname": "CARDINAL HEALTH 100, INC",
-"smb": "S: SMALL BUSINESS",
-"pred": "345.99176025390625"
-},
-{
-"dunsnumber": "142440150",
-"vendorname": "JORDAN RESES SUPPLY COMPANY, LLC",
+"dunsnumber": "010816486",
+"vendorname": "IAP WORLD SERVICES INCORPORATED",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "334.8316650390625"
+"prediction": "0.3688611090183258",
+"rank": "24"
 },
 {
-"dunsnumber": "137361572",
-"vendorname": "MCKESSON HBOC, INC",
+"dunsnumber": "083070925",
+"vendorname": "EG&G TECHNICAL SERVICES, INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "331.7962951660156"
+"prediction": "0.36560019850730896",
+"rank": "25"
 },
 {
-"dunsnumber": "883533879",
-"vendorname": "DMS PHARMACEUTICAL GROUP INC.",
+"dunsnumber": "097779698",
+"vendorname": "SYSTEMS RESEARCH AND APPLICATI",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "310.98114013671875"
+"prediction": "0.3651883006095886",
+"rank": "26"
 },
 {
-"dunsnumber": "077817617",
-"vendorname": "HP ENTERPRISE SERVICES, LLC",
+"dunsnumber": "968904698",
+"vendorname": "CELLCO PARTNERSHIP DBA VERIZON WIRELESS",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "301.800537109375"
+"prediction": "0.3645312488079071",
+"rank": "27"
 },
 {
-"dunsnumber": "001123314",
-"vendorname": "LAMSON AND GOODNOW MANUFACTURING COMPANY",
-"smb": "S: SMALL BUSINESS",
-"pred": "298.0260925292969"
-},
-{
-"dunsnumber": "067943220",
-"vendorname": "LOCKHEED MARTIN AERONAUTICS SERVICE-INTERNATIONAL",
+"dunsnumber": "097967608",
+"vendorname": "APPLIED RESEARCH ASSOCIATES, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "297.10516357421875"
-},
-{
-"dunsnumber": "001667161",
-"vendorname": "MICHELIN NORTH AMERICA, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "287.1924743652344"
-},
-{
-"dunsnumber": "079308359",
-"vendorname": "SEALED AIR CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "286.14544677734375"
-},
-{
-"dunsnumber": "021717889",
-"vendorname": "BOSTON SCIENTIFIC CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "270.5152282714844"
-},
-{
-"dunsnumber": "169601999",
-"vendorname": "COOK MEDICAL INC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "264.031005859375"
-},
-{
-"dunsnumber": "785347691",
-"vendorname": "TRC GLOBAL SOLUTIONS, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "263.05877685546875"
-},
-{
-"dunsnumber": "009255191",
-"vendorname": "J.L. DARLING CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "253.01943969726562"
-},
-{
-"dunsnumber": "966410859",
-"vendorname": "NEXEO SOLUTIONS, LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "247.66815185546875"
-},
-{
-"dunsnumber": "054537840",
-"vendorname": "APEX FOOT HEALTH INDUSTRIES INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "228.60693359375"
-},
-{
-"dunsnumber": "005527098",
-"vendorname": "HOLLISTER INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "226.001220703125"
-},
-{
-"dunsnumber": "828128475",
-"vendorname": "WILLOW ENVIRONMENTAL, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "214.4084930419922"
+"prediction": "0.36292558908462524",
+"rank": "28"
 },
 {
 "dunsnumber": "622051969",
 "vendorname": "CNA CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "204.54637145996094"
+"prediction": "0.36220496892929077",
+"rank": "29"
 },
 {
-"dunsnumber": "044081388",
-"vendorname": "PROCURENET, INC",
+"dunsnumber": "040540304",
+"vendorname": "THE MITRE CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "202.2235107421875"
+"prediction": "0.36191150546073914",
+"rank": "30"
 },
 {
-"dunsnumber": "074809377",
-"vendorname": "NISH",
+"dunsnumber": "833063154",
+"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "188.07347106933594"
+"prediction": "0.3615061640739441",
+"rank": "31"
 },
 {
-"dunsnumber": "793477758",
-"vendorname": "TINKER SUPPORT SERVICES JV",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "179.85739135742188"
-},
-{
-"dunsnumber": "147286269",
-"vendorname": "LOCKHEED MARTIN CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "176.50686645507812"
-},
-{
-"dunsnumber": "158704010",
-"vendorname": "QUANTELL, INC.",
+"dunsnumber": "007507671",
+"vendorname": "ADT SECURITY SERVICES, INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "S: SMALL BUSINESS",
-"pred": "176.28599548339844"
+"prediction": "0.3612840473651886",
+"rank": "32"
 },
 {
-"dunsnumber": "076339782",
-"vendorname": "I-SOLUTIONS DIRECT, INC.",
+"dunsnumber": "007936842",
+"vendorname": "SOUTHWEST RESEARCH INSTITUTE",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "176.11026000976562"
+"prediction": "0.35871201753616333",
+"rank": "33"
 },
 {
-"dunsnumber": "147329176",
+"dunsnumber": "043397520",
+"vendorname": "ABT ASSOCIATES INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.35852330923080444",
+"rank": "34"
+},
+{
+"dunsnumber": "833063055",
+"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3569325804710388",
+"rank": "35"
+},
+{
+"dunsnumber": "072648579",
+"vendorname": "ICF INCORPORATED",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.35499435663223267",
+"rank": "36"
+},
+{
+"dunsnumber": "009232752",
+"vendorname": "SRI INTERNATIONAL",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3521946966648102",
+"rank": "37"
+},
+{
+"dunsnumber": "189737810",
+"vendorname": "CONCURRENT TECHNOLOGIES CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.35103777050971985",
+"rank": "38"
+},
+{
+"dunsnumber": "064683464",
+"vendorname": "NORTHROP GRUMMAN DEFENSE MISSI",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.34806403517723083",
+"rank": "39"
+},
+{
+"dunsnumber": "608461898",
+"vendorname": "DYNCORP INTERNATIONAL LLC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3456180691719055",
+"rank": "40"
+},
+{
+"dunsnumber": "112947395",
+"vendorname": "EASTERN RESEARCH GROUP, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3445463478565216",
+"rank": "41"
+},
+{
+"dunsnumber": "073133571",
+"vendorname": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3437420725822449",
+"rank": "42"
+},
+{
+"dunsnumber": "026157235",
+"vendorname": "CDW GOVERNMENT LLC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.34087491035461426",
+"rank": "43"
+},
+{
+"dunsnumber": "019066810",
+"vendorname": "SCIENCE AND TECHNOLOGY CORPORA",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.3385278880596161",
+"rank": "44"
+},
+{
+"dunsnumber": "001910777",
+"vendorname": "JOHNS HOPKINS UNIVERSITY, THE",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3364955186843872",
+"rank": "45"
+},
+{
+"dunsnumber": "037305646",
+"vendorname": "TYBRIN CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3333956003189087",
+"rank": "46"
+},
+{
+"dunsnumber": "185743655",
+"vendorname": "FEDERAL EXPRESS CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3332589864730835",
+"rank": "47"
+},
+{
+"dunsnumber": "121368299",
+"vendorname": "ASRC MANAGEMENT SERVICES INCORPORATED",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.3326236307621002",
+"rank": "48"
+},
+{
+"dunsnumber": "605799469",
+"vendorname": "UNIVERSITY OF WASHINGTON",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.33105069398880005",
+"rank": "49"
+},
+{
+"dunsnumber": "001447952",
+"vendorname": "UNITED TECHNOLOGIES CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.33000895380973816",
+"rank": "50"
+},
+{
+"dunsnumber": "626578041",
+"vendorname": "KONICA MINOLTA BUSINESS SOLUTIONS USA INCORPORATED",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3289440870285034",
+"rank": "51"
+},
+{
+"dunsnumber": "848028494",
 "vendorname": "LOCKHEED MARTIN CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "174.1988525390625"
+"prediction": "0.32877910137176514",
+"rank": "52"
 },
 {
-"dunsnumber": "831765891",
-"vendorname": "BIMBO FOODS, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "173.0841522216797"
+"dunsnumber": "608253824",
+"vendorname": "CHUGACH SUPPORT SERVICES, INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.3281060755252838",
+"rank": "53"
 },
 {
-"dunsnumber": "071595540",
-"vendorname": "CONMED CORPORATION",
+"dunsnumber": "019121586",
+"vendorname": "DELOITTE CONSULTING LLP",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.32431089878082275",
+"rank": "54"
+},
+{
+"dunsnumber": "064677243",
+"vendorname": "NORTHROP GRUMMAN INFORMATION T",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "170.41561889648438"
+"prediction": "0.3242865800857544",
+"rank": "55"
+},
+{
+"dunsnumber": "086710329",
+"vendorname": "SEVEN CORNERS, INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3228553831577301",
+"rank": "56"
+},
+{
+"dunsnumber": "066783721",
+"vendorname": "MACRO INTERNATIONAL, INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.321306437253952",
+"rank": "57"
+},
+{
+"dunsnumber": "001425594",
+"vendorname": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.32057344913482666",
+"rank": "58"
+},
+{
+"dunsnumber": "006914071",
+"vendorname": "RAND CORPORATION, THE",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.31885191798210144",
+"rank": "59"
+},
+{
+"dunsnumber": "119162332",
+"vendorname": "ALION SCIENCE AND TECHNOLOGY CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3180108368396759",
+"rank": "60"
+},
+{
+"dunsnumber": "094738007",
+"vendorname": "SIMPLEXGRINNELL LP",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3176712989807129",
+"rank": "61"
+},
+{
+"dunsnumber": "196189385",
+"vendorname": "LOCKHEED MARTIN CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3171025216579437",
+"rank": "62"
+},
+{
+"dunsnumber": "061079273",
+"vendorname": "RICOH AMERICAS CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.31656399369239807",
+"rank": "63"
+},
+{
+"dunsnumber": "077817617",
+"vendorname": "HP ENTERPRISE SERVICES, LLC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.31606361269950867",
+"rank": "64"
+},
+{
+"dunsnumber": "055124077",
+"vendorname": "J & J MAINTENANCE, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3156552016735077",
+"rank": "65"
+},
+{
+"dunsnumber": "060605883",
+"vendorname": "ROCKWELL COLLINS, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3151245713233948",
+"rank": "66"
+},
+{
+"dunsnumber": "137488664",
+"vendorname": "GENERAL ELECTRIC COMPANY",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.31468385457992554",
+"rank": "67"
+},
+{
+"dunsnumber": "069341972",
+"vendorname": "TASC, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.31185996532440186",
+"rank": "68"
+},
+{
+"dunsnumber": "001161793",
+"vendorname": "PITNEY BOWES INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3110501766204834",
+"rank": "69"
+},
+{
+"dunsnumber": "136721250",
+"vendorname": "GPC CONSOLIDATED REPORTING",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.3103143274784088",
+"rank": "70"
+},
+{
+"dunsnumber": "127688380",
+"vendorname": "THE UNIVERSITY OF TEXAS AT AUSTIN",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3100350499153137",
+"rank": "71"
+},
+{
+"dunsnumber": "069373090",
+"vendorname": "MOTOROLA INCORPORATED",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.30917608737945557",
+"rank": "72"
+},
+{
+"dunsnumber": "083655498",
+"vendorname": "EXELIS INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3077864348888397",
+"rank": "73"
+},
+{
+"dunsnumber": "053599908",
+"vendorname": "OREGON STATE UNIVERSITY",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.30617955327033997",
+"rank": "74"
+},
+{
+"dunsnumber": "835130485",
+"vendorname": "INTERNATIONAL BUSINESS MACHINE",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.30615827441215515",
+"rank": "75"
+},
+{
+"dunsnumber": "019716729",
+"vendorname": "CHARLES RIVER LABORATORIES, INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.30534908175468445",
+"rank": "76"
+},
+{
+"dunsnumber": "041014242",
+"vendorname": "HONEYWELL TECHNOLOGY SOLUTIONS INC.",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.30507931113243103",
+"rank": "77"
+},
+{
+"dunsnumber": "833063253",
+"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3044818937778473",
+"rank": "78"
+},
+{
+"dunsnumber": "161202122",
+"vendorname": "UNIVERSITY OF WISCONSIN SYSTEM",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.30353453755378723",
+"rank": "79"
+},
+{
+"dunsnumber": "078883327",
+"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.3032682538032532",
+"rank": "80"
+},
+{
+"dunsnumber": "806345617",
+"vendorname": "UNIVERSITY OF ARIZONA",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.30205321311950684",
+"rank": "81"
+},
+{
+"dunsnumber": "556054591",
+"vendorname": "FORCE 3 INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.3012116253376007",
+"rank": "82"
+},
+{
+"dunsnumber": "041733197",
+"vendorname": "AMERICAN INSTITUTES FOR RESEARCH IN THE BEHAVIORAL SCIENCES",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3011912405490875",
+"rank": "83"
+},
+{
+"dunsnumber": "794571448",
+"vendorname": "LOCKHEED MARTIN CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.3007989823818207",
+"rank": "84"
+},
+{
+"dunsnumber": "790934285",
+"vendorname": "UNIVERSITY OF MARYLAND",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.3006199598312378",
+"rank": "85"
 },
 {
 "dunsnumber": "835551474",
 "vendorname": "SIKORSKY AIRCRAFT CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "169.54811096191406"
+"prediction": "0.30056390166282654",
+"rank": "86"
 },
 {
-"dunsnumber": "006217061",
-"vendorname": "DAKOTA DRUG INC",
+"dunsnumber": "044519429",
+"vendorname": "WESTON SOLUTIONS, INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.2993824779987335",
+"rank": "87"
+},
+{
+"dunsnumber": "116211863",
+"vendorname": "TECHLAW INCORPORATED",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "S: SMALL BUSINESS",
-"pred": "163.11874389648438"
+"prediction": "0.2988135516643524",
+"rank": "88"
 },
 {
-"dunsnumber": "090706516",
-"vendorname": "WHR GROUP, INC",
+"dunsnumber": "001818012",
+"vendorname": "SHARP ELECTRONICS CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "163.03726196289062"
+"prediction": "0.29850247502326965",
+"rank": "89"
 },
 {
-"dunsnumber": "075957076",
-"vendorname": "BINDLEY WESTERN INDUSTRIES INC",
+"dunsnumber": "932902364",
+"vendorname": "NOBLIS INCORPORATED",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "161.78318786621094"
+"prediction": "0.2978842556476593",
+"rank": "90"
 },
 {
-"dunsnumber": "785809349",
-"vendorname": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+"dunsnumber": "131067282",
+"vendorname": "EXPRESS SERVICES, INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "161.7221221923828"
+"prediction": "0.2975921034812927",
+"rank": "91"
 },
 {
-"dunsnumber": "808576024",
-"vendorname": "ALLIED JOINT VENTURE",
-"smb": "S: SMALL BUSINESS",
-"pred": "158.02911376953125"
-},
-{
-"dunsnumber": "049365591",
-"vendorname": "DG21 LIMITED LIABILITY COMPANY",
+"dunsnumber": "083662916",
+"vendorname": "DCS CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "157.79498291015625"
+"prediction": "0.29752328991889954",
+"rank": "92"
 },
 {
-"dunsnumber": "781457148",
-"vendorname": "TRI STATE GOVERNMENT SERVICES",
-"smb": "S: SMALL BUSINESS",
-"pred": "157.43536376953125"
-},
-{
-"dunsnumber": "967162251",
-"vendorname": "REDSTONE DEFENSE SYSTEMS",
-"smb": "S: SMALL BUSINESS",
-"pred": "152.19747924804688"
-},
-{
-"dunsnumber": "088162420",
-"vendorname": "U.S. FOODSERVICE, INC.",
+"dunsnumber": "066183039",
+"vendorname": "SRS TECHNOLOGIES",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "151.3970947265625"
+"prediction": "0.2974589467048645",
+"rank": "93"
 },
 {
-"dunsnumber": "016290632",
-"vendorname": "AMERICAN BUSINESS FORMS",
-"smb": "S: SMALL BUSINESS",
-"pred": "144.37237548828125"
-},
-{
-"dunsnumber": "152791091",
-"vendorname": "NORTHROP GRUMMAN SPACE & MISSI",
+"dunsnumber": "128729373",
+"vendorname": "UNITED PARCEL SERVICE INCORPORATED (OH) (2075)",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "143.98471069335938"
+"prediction": "0.2971455156803131",
+"rank": "94"
 },
 {
-"dunsnumber": "962900288",
-"vendorname": "BENTCO OFFICE SOLUTIONS",
-"smb": "S: SMALL BUSINESS",
-"pred": "143.4481201171875"
-},
-{
-"dunsnumber": "008018525",
-"vendorname": "ALCON LABORATORIES, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "140.57763671875"
-},
-{
-"dunsnumber": "041477449",
-"vendorname": "PRIDE MOBILITY PRODUCTS CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "140.24717712402344"
-},
-{
-"dunsnumber": "623191194",
-"vendorname": "DENTAL HEALTH PRODUCTS INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "133.04977416992188"
-},
-{
-"dunsnumber": "827861662",
-"vendorname": "JOHNSON CONTROLS BUILDING AUTOMATION SYSTEMS LLC",
+"dunsnumber": "877936518",
+"vendorname": "DELL MARKETING LIMITED PARTNERSHIP",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "131.3360137939453"
+"prediction": "0.29693660140037537",
+"rank": "95"
 },
 {
-"dunsnumber": "780456294",
-"vendorname": "L 3 COMMUNICATIONS FLIGHT INTERNATIONAL AVIATION LIMITED LIABILITY COMPANY",
+"dunsnumber": "002232973",
+"vendorname": "LOCKHEED MARTIN CORPORATION",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "131.14035034179688"
+"prediction": "0.2963387370109558",
+"rank": "96"
 },
 {
-"dunsnumber": "154773337",
-"vendorname": "SAFETY EQUIPMENT COMPANY",
+"dunsnumber": "132075388",
+"vendorname": "JONES LANG LASALLE AMERICAS INCORPORATED",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "130.71177673339844"
+"prediction": "0.29588592052459717",
+"rank": "97"
 },
 {
-"dunsnumber": "159868624",
-"vendorname": "SYSCO FOOD SERVICES OF RALEIGH, LLC",
+"dunsnumber": "176019107",
+"vendorname": "HONEYWELL INTERNATIONAL INC",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "129.28408813476562"
+"prediction": "0.2956770062446594",
+"rank": "98"
 },
 {
-"dunsnumber": "859395428",
-"vendorname": "DEPUY ORTHOPAEDICS, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "129.18728637695312"
-},
-{
-"dunsnumber": "031576887",
-"vendorname": "HOLLAND OPTICAL INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "126.71310424804688"
-},
-{
-"dunsnumber": "039309179",
-"vendorname": "NORTH AMERICAN AIRLINES",
+"dunsnumber": "044387793",
+"vendorname": "DUKE UNIVERSITY",
+"productorservicecode": "B507: ECONOMIC STUDIES",
 "smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "125.39591217041016"
-},
-{
-"dunsnumber": "782053516",
-"vendorname": "JOHNSON & JOHNSON HEALTH CARE SYSTEMS INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "123.71781158447266"
-},
-{
-"dunsnumber": "021411467",
-"vendorname": "KLARQUIST SPARKMAN, LLP",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "123.4643783569336"
-},
-{
-"dunsnumber": "155104938",
-"vendorname": "COASTAL PACIFIC FOOD DISTRIBUT",
-"smb": "S: SMALL BUSINESS",
-"pred": "122.02177429199219"
-},
-{
-"dunsnumber": "012430880",
-"vendorname": "HENRY SCHEIN INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "120.35990905761719"
-},
-{
-"dunsnumber": "007258460",
-"vendorname": "BARNETT & RAMEL OPTICAL CO OF NEBRASKA",
-"smb": "S: SMALL BUSINESS",
-"pred": "120.19290924072266"
-},
-{
-"dunsnumber": "062722038",
-"vendorname": "AMERICAN PURCHASING SERVICES, INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "117.52751159667969"
-},
-{
-"dunsnumber": "013550462",
-"vendorname": "PEERLESS AEROSPACE FASTENER CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "116.45281219482422"
-},
-{
-"dunsnumber": "004323481",
-"vendorname": "HOMER LAUGHLIN CHINA CO, THE",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "114.78314971923828"
-},
-{
-"dunsnumber": "080911274",
-"vendorname": "BAE SYSTEMS SAN DIEGO SHIP REPAIR INC.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "114.21493530273438"
-},
-{
-"dunsnumber": "115369472",
-"vendorname": "LS&S LIMITED LIABILITY COMPANY",
-"smb": "S: SMALL BUSINESS",
-"pred": "113.6221923828125"
-},
-{
-"dunsnumber": "006261481",
-"vendorname": "MEDTRONIC, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "112.70620727539062"
-},
-{
-"dunsnumber": "093115632",
-"vendorname": "BALLARD MEDICAL PRODUCTS",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "111.8760986328125"
-},
-{
-"dunsnumber": "142877732",
-"vendorname": "EVERGREEN INTERNATIONAL AIRLINES INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "109.8218002319336"
-},
-{
-"dunsnumber": "878053321",
-"vendorname": "LAND-O-SUN DAIRIES L.L.C.",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "109.0887222290039"
-},
-{
-"dunsnumber": "182043083",
-"vendorname": "TIMBER EDGE MACHINE",
-"smb": "S: SMALL BUSINESS",
-"pred": "108.11986541748047"
-},
-{
-"dunsnumber": "120808360",
-"vendorname": "OTO TECH LIMITED LIABILITY COMPANY",
-"smb": "S: SMALL BUSINESS",
-"pred": "107.28429412841797"
-},
-{
-"dunsnumber": "153718502",
-"vendorname": "FEDEX CORPORATION",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "106.68555450439453"
-},
-{
-"dunsnumber": "085737968",
-"vendorname": "AUTOMATED SCIENCES GROUP, INC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "105.04965209960938"
-},
-{
-"dunsnumber": "361267339",
-"vendorname": "TETRA TECH EM INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "102.6902847290039"
-},
-{
-"dunsnumber": "835568965",
-"vendorname": "SYSCO FOOD SERVICES OF SEATTLE",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "100.62554931640625"
-},
-{
-"dunsnumber": "825054810",
-"vendorname": "EMERALD SERVICES, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "100.02181243896484"
-},
-{
-"dunsnumber": "177360039",
-"vendorname": "STERIS CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "99.47901916503906"
-},
-{
-"dunsnumber": "096372255",
-"vendorname": "DEROYAL INDUSTRIES INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "98.89778900146484"
-},
-{
-"dunsnumber": "010712461",
-"vendorname": "TRI ANIM HEALTH SERVICES INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "98.4460678100586"
-},
-{
-"dunsnumber": "155505485",
-"vendorname": "RAYTHEON TECHNICAL SERVICES COMPANY LLC",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "98.36760711669922"
-},
-{
-"dunsnumber": "614163707",
-"vendorname": "AA WHEEL & TRUCK SUPPLY, INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "97.78736877441406"
-},
-{
-"dunsnumber": "072831415",
-"vendorname": "ARROW INTERNATIONAL INCORPORATED",
-"smb": "S: SMALL BUSINESS",
-"pred": "96.96053314208984"
-},
-{
-"dunsnumber": "049765910",
-"vendorname": "SAFE-LITE OPTICAL CO., INC.",
-"smb": "S: SMALL BUSINESS",
-"pred": "96.6936264038086"
-},
-{
-"dunsnumber": "627785884",
-"vendorname": "ARROWHEAD GLOBAL SOLUTIONS, IN",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "96.19483184814453"
-},
-{
-"dunsnumber": "043683515",
-"vendorname": "TRENDWAY CORPORATION",
-"smb": "S: SMALL BUSINESS",
-"pred": "95.93412017822266"
-},
-{
-"dunsnumber": "001292192",
-"vendorname": "BECTON DICKINSON AND COMPANY",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "95.8083724975586"
-},
-{
-"dunsnumber": "604483321",
-"vendorname": "BREG INCORPORATED",
-"smb": "O: OTHER THAN SMALL BUSINESS",
-"pred": "95.04473876953125"
+"prediction": "0.29466405510902405",
+"rank": "99"
 }
 ]

@@ -1,602 +1,794 @@
 [
 {
-"vendorname": "ALLIED WIRE & CABLE, INC.",
-"dunsnumber": "186579173",
-"pred": "597.2240728625",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "790889711",
+"vendorname": "COMPLETE PACKAGING & SHIPPING",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.2328674793243408",
+"rank": "1"
 },
 {
-"vendorname": "F & R SALES, INC.",
-"dunsnumber": "604357087",
-"pred": "483.871134",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "077257715",
+"vendorname": "WEST COAST BUSINESS PRODUCTS I",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1319743394851685",
+"rank": "3"
 },
 {
-"vendorname": "C.N.S. COMMUNICATIONS, LLC",
-"dunsnumber": "029521239",
-"pred": "279.0947",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "LOCKHEED MARTIN CORPORATION",
-"dunsnumber": "848028494",
-"pred": "278.06102125",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "POTOMAC ELECTRIC POWER COMPANY",
-"dunsnumber": "006920284",
-"pred": "257.9785",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "PRTC",
-"dunsnumber": "108532727",
-"pred": "256.70508",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "OFFICE DEPOT INCORPORATED",
-"dunsnumber": "153531108",
-"pred": "206.2815",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "DOCUMENT IMAGING DIMENSIONS INC.",
-"dunsnumber": "038062712",
-"pred": "189.97202",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "HAMBY CORPORATION",
-"dunsnumber": "050816297",
-"pred": "162.21057",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MANTECH SYSTEMS ENGINEERING CORPORATION",
-"dunsnumber": "174245993",
-"pred": "156.8747",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SCIENCE APPLICATIONS INTERNATI",
-"dunsnumber": "148983229",
-"pred": "154.82915533333332",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "BJG ELECTRONICS INCORPORATED",
-"dunsnumber": "038157756",
-"pred": "141.320302",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "LOCKHEED MARTIN SERVICES, INC",
-"dunsnumber": "805258373",
-"pred": "136.10294",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "RYAN ELECTRONICS CORPORATION",
-"dunsnumber": "363807280",
-"pred": "127.42933085",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "POWERS INDUSTRIAL EQUIPMENT, LTD.",
-"dunsnumber": "093738722",
-"pred": "127.13338",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MONROE CABLE COMPANY INC",
-"dunsnumber": "093832483",
-"pred": "123.48954300000003",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "HERNDON PRODUCTS, INC.",
-"dunsnumber": "134345169",
-"pred": "117.74359371428571",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "B. BRAUN MEDICAL INC",
-"dunsnumber": "002397347",
-"pred": "113.99111",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ELECTRO ENTERPRISES, INC.",
-"dunsnumber": "051645935",
-"pred": "113.710884",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "WIREMASTERS, INC.",
-"dunsnumber": "168159825",
-"pred": "109.9578706",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MCI COMMUNICATIONS SERVICES INCORPORATED",
-"dunsnumber": "020751082",
-"pred": "109.670845",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "AMERICAN DEVICES, INC",
-"dunsnumber": "145791435",
-"pred": "105.13235424999999",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "QUALIFIED FASTENERS INC.",
-"dunsnumber": "613251024",
-"pred": "104.16892125",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "WECSYS LIMITED LIABILITY COMPANY (6769)",
-"dunsnumber": "836284091",
-"pred": "103.793724",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "GEORGE W ALLEN CO INC",
-"dunsnumber": "024212375",
-"pred": "101.66507",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "RFI CORPORATION",
-"dunsnumber": "002041556",
-"pred": "98.835434",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WELLS GLOBAL, PLLC",
-"dunsnumber": "048953074",
-"pred": "97.51646566666666",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SIKORSKY AIRCRAFT CORPORATION",
-"dunsnumber": "835551474",
-"pred": "94.69205323333334",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CATERPILLAR INC.",
-"dunsnumber": "944204924",
-"pred": "94.44138275",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "IDSC HOLDING LIMITED LIABILITY COMPANY",
-"dunsnumber": "806095217",
-"pred": "93.995899",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ROGUE APPLIED SCIENCES CORP",
-"dunsnumber": "079911610",
-"pred": "92.540634",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "STAPLES, INC.",
-"dunsnumber": "942603358",
-"pred": "89.96219212",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ENCOMPASS ELECTRICAL TECHNOLOG",
-"dunsnumber": "030184675",
-"pred": "89.54778",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ABM OFFICE SUPPLY CO, INC",
-"dunsnumber": "064632888",
-"pred": "85.54869066666667",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MMG TECHNOLOGY GROUP INC",
-"dunsnumber": "081722436",
-"pred": "84.82387",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "AMERICAN MEDICAL DEPOT",
-"dunsnumber": "062722038",
-"pred": "81.98502",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PEERLESS CHAIN COMPANY",
-"dunsnumber": "006158588",
-"pred": "81.72919",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "AM GENERAL LIMITED LIABILITY COMPANY (8255)",
-"dunsnumber": "612020933",
-"pred": "80.44459979999999",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MURRAY-BENJAMIN ELECTRIC CO LL",
-"dunsnumber": "041512542",
-"pred": "79.42382179999998",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "REV-CAP COMPANY, INC",
-"dunsnumber": "606837698",
-"pred": "78.6189355",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SCIENTIFIC RESEARCH CORPORATION",
-"dunsnumber": "197138274",
-"pred": "76.77846",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SYZYGY",
-"dunsnumber": "828611603",
-"pred": "76.335434",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "PELICAN PRODUCTS, INC.",
-"dunsnumber": "082193277",
-"pred": "76.03696",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CONMED CORPORATION",
-"dunsnumber": "071595540",
-"pred": "74.839245",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PHILLIP CABLE MANUFACTURING, INC",
-"dunsnumber": "079142887",
-"pred": "74.11936",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "L-3 SERVICES, INC.",
-"dunsnumber": "020278375",
-"pred": "70.40235000000001",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "HUNTINGTON INGALLS INCORPORATED",
-"dunsnumber": "001307495",
-"pred": "70.33133333333333",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "LONGHORN REGIONAL SERVICE CENTER, LLC",
-"dunsnumber": "783146454",
-"pred": "69.24714511428571",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "FEDERAL DATA CORPORATION",
-"dunsnumber": "177155645",
-"pred": "69.212296",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "KIPPER TOOL COMPANY",
-"dunsnumber": "828953166",
-"pred": "68.62748500000001",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ALMO WIRE & CABLE, INC.",
-"dunsnumber": "789620069",
-"pred": "66.73834818181818",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
+"dunsnumber": "006173082",
 "vendorname": "3M COMPANY",
-"dunsnumber": "793206962",
-"pred": "66.09777",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.11838960647583",
+"rank": "4"
 },
 {
-"vendorname": "LOOS & CO INC",
-"dunsnumber": "004534657",
-"pred": "65.89995363636363",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "001288364",
+"vendorname": "SCHNEIDER ELECTRIC USA, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.115805983543396",
+"rank": "5"
 },
 {
-"vendorname": "VACCO INDUSTRIES",
-"dunsnumber": "008263857",
-"pred": "64.59308",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "096628409",
+"vendorname": "GIGA, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.115005373954773",
+"rank": "6"
 },
 {
-"vendorname": "EATON CORPORATION",
-"dunsnumber": "016377926",
-"pred": "64.12266",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "878559772",
+"vendorname": "EATON ELECTRICAL INCORPORATED",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1131219863891602",
+"rank": "7"
 },
 {
-"vendorname": "URS FEDERAL SERVICES, INC.",
-"dunsnumber": "961530545",
-"pred": "63.49649",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "LOCKHEED MARTIN CORPORATION",
-"dunsnumber": "078669280",
-"pred": "63.276567666666665",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PIMA VALVE, INC",
-"dunsnumber": "043016773",
-"pred": "63.1662",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ANIXTER, INC",
-"dunsnumber": "040804945",
-"pred": "62.6307138",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MAROTTA CONTROLS INCORPORATED",
-"dunsnumber": "002136877",
-"pred": "62.520061",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "STERN LEACH COMPANY",
-"dunsnumber": "602017709",
-"pred": "61.619167",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "FEDERAL PRISON INDUSTRIES, INC",
-"dunsnumber": "626627459",
-"pred": "61.56386352",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "TRITON ALLOYS CORP.",
-"dunsnumber": "783544427",
-"pred": "61.2459425",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "HMS SYSTEMS LLC",
-"dunsnumber": "037187080",
-"pred": "60.431771999999995",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "JANOR WIRE AND CABLE CORPORATION",
-"dunsnumber": "080800816",
-"pred": "60.226852",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "A E PETSCHE COMPANY INCORPORATED",
-"dunsnumber": "169881935",
-"pred": "60.129703808333325",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "WILSON GROUP, INC., THE",
-"dunsnumber": "145795139",
-"pred": "59.155895",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CAMILO SALES",
-"dunsnumber": "965087067",
-"pred": "58.344063",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "RAYTHEON TECHNICAL SERVICES COMPANY LLC",
-"dunsnumber": "058621996",
-"pred": "57.93783766666667",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "HONEYWELL INTERNATIONAL INC",
-"dunsnumber": "176019107",
-"pred": "57.86395675",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SUPPLYCORE, INC",
-"dunsnumber": "116057019",
-"pred": "57.500589999999995",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WATEC, INC",
-"dunsnumber": "032844149",
-"pred": "57.278938000000004",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "L-3 SERVICES, INC.",
-"dunsnumber": "114568400",
-"pred": "56.80884",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MISCELLANEOUS FOREIGN AWARDEES",
-"dunsnumber": "123456787",
-"pred": "56.75439197741934",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "OSHKOSH DEFENSE, LLC",
-"dunsnumber": "079467211",
-"pred": "56.75384419999999",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
-"dunsnumber": "833063055",
-"pred": "55.1208995",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PEERLESS CHAIN COMPANY",
-"dunsnumber": "153110379",
-"pred": "55.021168",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "COLUMBIA NUT & BOLT LLC",
-"dunsnumber": "001825736",
-"pred": "54.716663",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MMC METROLOGY LAB, INC",
-"dunsnumber": "809293020",
-"pred": "54.64178",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "UNITED OFFICE SOLUTIONS INCORPORATED",
-"dunsnumber": "137469768",
-"pred": "52.864521249999996",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "OSHKOSH TRUCK CORPORATION",
-"dunsnumber": "006070445",
-"pred": "52.743579090909094",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SUPPORT OF MICROCOMPUTERS ASSOCIATES, INC.",
-"dunsnumber": "150921625",
-"pred": "52.2815048",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "WILLIAMS,BARRY ELECTRIC INC",
-"dunsnumber": "086853322",
-"pred": "51.184483",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CRAIG DEFENSE GROUP",
-"dunsnumber": "965039675",
-"pred": "50.24106999999999",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "PRECISION CABLE OF TENNESSEE I",
-"dunsnumber": "055258347",
-"pred": "49.861433999999996",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DAVE SCHICK ENTERPRISES",
-"dunsnumber": "093525798",
-"pred": "49.624421133333335",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "GROVE U S L L C",
-"dunsnumber": "086735487",
-"pred": "49.601166",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "GRAYBAR ELECTRIC COMPANY, INC.",
 "dunsnumber": "001903137",
-"pred": "49.39994946666666",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"vendorname": "GRAYBAR ELECTRIC COMPANY INCORPORATED (4380)",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1117894649505615",
+"rank": "8"
 },
 {
-"vendorname": "COILING TECHNOLOGIES, INC.",
-"dunsnumber": "082678780",
-"pred": "48.908936",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "804443349",
+"vendorname": "GOVERNMENT & INDUSTRIAL SUPPLY, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1097452640533447",
+"rank": "9"
 },
 {
-"vendorname": "YALE ELECTRIC SUPPLY CO",
-"dunsnumber": "003404308",
-"pred": "48.8067594",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "041929378",
+"vendorname": "ACCUSOURCE OPERATIONS, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1078765392303467",
+"rank": "10"
 },
 {
-"vendorname": "PREMIER & COMPANIES INC.",
+"dunsnumber": "011744471",
+"vendorname": "ELECTRICAL PRODUCTS SALES CORP",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1055773496627808",
+"rank": "11"
+},
+{
+"dunsnumber": "001163294",
+"vendorname": "L.C.DOANE COMPANY,THE",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1043004989624023",
+"rank": "12"
+},
+{
+"dunsnumber": "042256222",
+"vendorname": "TECHNI-TOOL INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1010160446166992",
+"rank": "13"
+},
+{
+"dunsnumber": "007070055",
+"vendorname": "WOODWARD GOVERNOR COMPANY",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0913081169128418",
+"rank": "14"
+},
+{
+"dunsnumber": "107910259",
+"vendorname": "NOBLE SALES CO INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0899014472961426",
+"rank": "15"
+},
+{
+"dunsnumber": "040076262",
+"vendorname": "B & H INTERNATIONAL",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0800986289978027",
+"rank": "16"
+},
+{
+"dunsnumber": "027079776",
+"vendorname": "ATLANTIC DIVING SUPPLY, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0671242475509644",
+"rank": "17"
+},
+{
+"dunsnumber": "119963973",
+"vendorname": "INSULATION SOURCES, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0663948059082031",
+"rank": "18"
+},
+{
+"dunsnumber": "178140935",
+"vendorname": "LUMINESCENT SYSTEMS INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0654643774032593",
+"rank": "19"
+},
+{
+"dunsnumber": "144521890",
+"vendorname": "TEAC AEROSPACE TECHNOLOGIES, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.065005898475647",
+"rank": "20"
+},
+{
+"dunsnumber": "077493513",
+"vendorname": "FILTRATION SERVICES LLC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0640798807144165",
+"rank": "21"
+},
+{
+"dunsnumber": "050693852",
+"vendorname": "DAYTON-GRANGER INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0600626468658447",
+"rank": "22"
+},
+{
+"dunsnumber": "050516509",
+"vendorname": "JOHNSON CONTROLS INCORPORATED (0010)",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0581761598587036",
+"rank": "23"
+},
+{
+"dunsnumber": "148983229",
+"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0553598403930664",
+"rank": "24"
+},
+{
+"dunsnumber": "785308797",
+"vendorname": "KPAUL PROPERTIES, LLC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0538572072982788",
+"rank": "25"
+},
+{
+"dunsnumber": "136950180",
+"vendorname": "NATIONWIDE SUPPLIES, L.P.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0456899404525757",
+"rank": "26"
+},
+{
+"dunsnumber": "003258043",
+"vendorname": "PHILLIPS CORPORATION",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0448274612426758",
+"rank": "27"
+},
+{
+"dunsnumber": "091296244",
+"vendorname": "FLIR SYSTEMS, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0423030853271484",
+"rank": "28"
+},
+{
+"dunsnumber": "003854619",
+"vendorname": "FROST ELECTRIC SUPPLY COMPANY",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0320264101028442",
+"rank": "29"
+},
+{
+"dunsnumber": "008213162",
+"vendorname": "DBKB TECHNOLOGIES, LLC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0317140817642212",
+"rank": "30"
+},
+{
+"dunsnumber": "011788002",
+"vendorname": "B & P CONSORT, INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0301016569137573",
+"rank": "31"
+},
+{
+"dunsnumber": "085172005",
+"vendorname": "J.G.B. ENTERPRISES, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0273027420043945",
+"rank": "32"
+},
+{
+"dunsnumber": "038006110",
+"vendorname": "EATON CORPORATION",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0267373323440552",
+"rank": "33"
+},
+{
+"dunsnumber": "001903202",
+"vendorname": "GRAYBAR ELECTRIC COMPANY, INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0266081094741821",
+"rank": "34"
+},
+{
+"dunsnumber": "041512542",
+"vendorname": "MURRAY BENJAMIN ELECTRIC COMPANY, LIMITED PARTNERSHIP",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0262408256530762",
+"rank": "35"
+},
+{
+"dunsnumber": "013184957",
+"vendorname": "ADIRONDACK ELECTRONICS, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0250478982925415",
+"rank": "36"
+},
+{
+"dunsnumber": "002387603",
+"vendorname": "LYNN ELECTRONICS CORP.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.023694396018982",
+"rank": "37"
+},
+{
+"dunsnumber": "038361853",
+"vendorname": "S I T CORPORATION",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0226277112960815",
+"rank": "38"
+},
+{
+"dunsnumber": "124602793",
+"vendorname": "JGILS, LLC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0214285850524902",
+"rank": "39"
+},
+{
+"dunsnumber": "004189262",
+"vendorname": "GRIMES AEROSPACE COMPANY",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0195997953414917",
+"rank": "40"
+},
+{
+"dunsnumber": "005103494",
+"vendorname": "W W GRAINGER, INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0194599628448486",
+"rank": "41"
+},
+{
+"dunsnumber": "010944650",
+"vendorname": "SIEMENS INDUSTRY, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.018933892250061",
+"rank": "42"
+},
+{
+"dunsnumber": "043175926",
+"vendorname": "PIONEER INDUSTRIES, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.017518401145935",
+"rank": "43"
+},
+{
+"dunsnumber": "024249146",
+"vendorname": "JENKS, INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0158389806747437",
+"rank": "44"
+},
+{
+"dunsnumber": "082193277",
+"vendorname": "PELICAN PRODUCTS INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.013988971710205",
+"rank": "45"
+},
+{
+"dunsnumber": "877259648",
+"vendorname": "SUPERSONIC SERVICES INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.011599063873291",
+"rank": "46"
+},
+{
+"dunsnumber": "196778419",
+"vendorname": "NEW ERA CONTRACT SALES, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.010204792022705",
+"rank": "47"
+},
+{
+"dunsnumber": "147372960",
+"vendorname": "SZY HOLDINGS, LLC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.009647011756897",
+"rank": "48"
+},
+{
+"dunsnumber": "122679228",
+"vendorname": "KAMPI COMPONENTS CO., INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0091158151626587",
+"rank": "49"
+},
+{
+"dunsnumber": "883466872",
+"vendorname": "MANAGEMENT SOLUTIONS, L.C.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0075385570526123",
+"rank": "50"
+},
+{
+"dunsnumber": "056488588",
+"vendorname": "WESCO DISTRIBUTION, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0050461292266846",
+"rank": "51"
+},
+{
+"dunsnumber": "116057019",
+"vendorname": "SUPPLYCORE INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0050030946731567",
+"rank": "52"
+},
+{
+"dunsnumber": "056410640",
+"vendorname": "RUTA SUPPLIES INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0040782690048218",
+"rank": "53"
+},
+{
+"dunsnumber": "021591623",
+"vendorname": "MBM BOSS CORP.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0033236742019653",
+"rank": "54"
+},
+{
+"dunsnumber": "806095217",
+"vendorname": "IDSC HOLDINGS LLC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0024583339691162",
+"rank": "55"
+},
+{
 "dunsnumber": "784141384",
-"pred": "48.04004804444445",
-"smb": "S: SMALL BUSINESS"
+"vendorname": "PREMIER & COMPANIES INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0012463331222534",
+"rank": "56"
 },
 {
-"vendorname": "OFFICE GROUP, INC., THE",
-"dunsnumber": "119079903",
-"pred": "47.516653",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "944204924",
+"vendorname": "CATERPILLAR INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0009212493896484",
+"rank": "57"
 },
 {
-"vendorname": "CORPORATE EXPRESS OFFICE PRODU",
-"dunsnumber": "933457251",
-"pred": "47.50949",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "787857551",
+"vendorname": "PHOENIX TRADING INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.000510811805725",
+"rank": "58"
 },
 {
-"vendorname": "MILLENNIUM SOLUTIONS INCORPORATED (8487)",
-"dunsnumber": "048673698",
-"pred": "46.33768224999999",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "001307594",
+"vendorname": "SIMMONDS PRECISION PRODUCTS, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9994989633560181",
+"rank": "59"
 },
 {
-"vendorname": "GATE INDUSTRIES",
-"dunsnumber": "828270970",
-"pred": "46.210121",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "001339936",
+"vendorname": "HOSE-MCCANN TELEPHONE CO., INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9985378384590149",
+"rank": "60"
 },
 {
-"vendorname": "R L C ELECTRONICS, INC.",
-"dunsnumber": "069295228",
-"pred": "45.95407",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "004961678",
+"vendorname": "PEERLESS ELECTRONICS, INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9982088208198547",
+"rank": "61"
 },
 {
-"vendorname": "ASSOCIATED INDUSTRIES FOR THE BLIND",
-"dunsnumber": "047157701",
-"pred": "45.526066",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "616194916",
+"vendorname": "HOWCO DISTRIBUTING CO.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9976810812950134",
+"rank": "62"
 },
 {
-"vendorname": "PLATT & SONS, INC",
-"dunsnumber": "050509819",
-"pred": "45.16413500000001",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "800166969",
+"vendorname": "TL SERVICES, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9975848197937012",
+"rank": "63"
 },
 {
-"vendorname": "HAWKER PACIFIC AEROSPACE",
-"dunsnumber": "615235454",
-"pred": "44.833157",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "361517212",
+"vendorname": "ALLIED DEFENSE INDUSTRIES INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9974108934402466",
+"rank": "64"
 },
 {
-"vendorname": "CARAHSOFT TECHNOLOGY CORPORATION",
-"dunsnumber": "088365767",
-"pred": "44.593483",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "019241129",
+"vendorname": "NEWARK ELECTRONICS CORP",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9968979358673096",
+"rank": "65"
+},
+{
+"dunsnumber": "041401910",
+"vendorname": "CONTROL PRODUCTS CORPORATION",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9966621398925781",
+"rank": "66"
+},
+{
+"dunsnumber": "012165536",
+"vendorname": "NEW YORKER ELECTRONICS CO. INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9965878129005432",
+"rank": "67"
+},
+{
+"dunsnumber": "605104512",
+"vendorname": "GE AVIATION SYSTEMS LLC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9953403472900391",
+"rank": "68"
+},
+{
+"dunsnumber": "003259405",
+"vendorname": "ASSOCIATED AIRCRAFT MANUFACTURING AND SALES, INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9952799081802368",
+"rank": "69"
+},
+{
+"dunsnumber": "081722436",
+"vendorname": "M M G TECHNOLOGY GROUP, INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9948257803916931",
+"rank": "70"
+},
+{
+"dunsnumber": "043316046",
+"vendorname": "TABET MANUFACTURING COMPANY, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9944127798080444",
+"rank": "71"
+},
+{
+"dunsnumber": "135023567",
+"vendorname": "NETKOMP, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9941205978393555",
+"rank": "72"
+},
+{
+"dunsnumber": "024719812",
+"vendorname": "REVERE ELECTRIC SUPPLY CO.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9923686981201172",
+"rank": "73"
+},
+{
+"dunsnumber": "001128537",
+"vendorname": "DAVID CLARK COMPANY INCORPORATED",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9920012354850769",
+"rank": "74"
+},
+{
+"dunsnumber": "828953166",
+"vendorname": "KIPPER TOOL COMPANY",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9919484257698059",
+"rank": "75"
+},
+{
+"dunsnumber": "066345877",
+"vendorname": "SPECIALIZED PRODUCTS COMPANY",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9912691116333008",
+"rank": "76"
+},
+{
+"dunsnumber": "790238638",
+"vendorname": "DOMESTIC CONTRACTOR (UNDISCLOSED)",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9905457496643066",
+"rank": "77"
+},
+{
+"dunsnumber": "082056602",
+"vendorname": "U.S. PIONEER, L.L.C.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9901792407035828",
+"rank": "78"
+},
+{
+"dunsnumber": "059513879",
+"vendorname": "MOOG INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9893821477890015",
+"rank": "79"
+},
+{
+"dunsnumber": "798069175",
+"vendorname": "AM-MAC INCORPORATED",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9879783987998962",
+"rank": "80"
+},
+{
+"dunsnumber": "035261049",
+"vendorname": "TECHNOLOGY RESEARCH CORPORATION",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9878827929496765",
+"rank": "81"
+},
+{
+"dunsnumber": "786130583",
+"vendorname": "JLG INDUSTRIES, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9870188236236572",
+"rank": "82"
+},
+{
+"dunsnumber": "118952159",
+"vendorname": "SCHWEITZER ENGINEERING LABORAT",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9869157671928406",
+"rank": "83"
+},
+{
+"dunsnumber": "078372376",
+"vendorname": "LARKOS PACKING AND DISTRIBUTION INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9867817759513855",
+"rank": "84"
+},
+{
+"dunsnumber": "132080123",
+"vendorname": "DIVINE IMAGING COMMODITIES",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9857825636863708",
+"rank": "85"
+},
+{
+"dunsnumber": "085505951",
+"vendorname": "BRIGHTON CROMWELL LLC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9847631454467773",
+"rank": "86"
+},
+{
+"dunsnumber": "806647801",
+"vendorname": "FEDERAL RESOURCES SUPPLY COMPANY",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9839702844619751",
+"rank": "87"
+},
+{
+"dunsnumber": "034971713",
+"vendorname": "GRIMES AEROSPACE COMPANY",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9838783144950867",
+"rank": "88"
+},
+{
+"dunsnumber": "002212710",
+"vendorname": "DYNALEC CORPORATION",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.983544111251831",
+"rank": "89"
+},
+{
+"dunsnumber": "116012659",
+"vendorname": "B & H FOTO & ELECTRONICS CORP.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9833101630210876",
+"rank": "90"
+},
+{
+"dunsnumber": "002041556",
+"vendorname": "RFI CORPORATION",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9831553101539612",
+"rank": "91"
+},
+{
+"dunsnumber": "007998933",
+"vendorname": "GRANITE CITY ELECTRIC SUPPLY CO.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9829495549201965",
+"rank": "92"
+},
+{
+"dunsnumber": "136721250",
+"vendorname": "GPC CONSOLIDATED REPORTING",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9828985929489136",
+"rank": "93"
+},
+{
+"dunsnumber": "101905318",
+"vendorname": "MARTIN MILITARY INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9823569655418396",
+"rank": "94"
+},
+{
+"dunsnumber": "809919038",
+"vendorname": "STAG ENTERPRISE, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.98201584815979",
+"rank": "95"
+},
+{
+"dunsnumber": "073164733",
+"vendorname": "APACHE ENTERPRISES, INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9813465476036072",
+"rank": "96"
+},
+{
+"dunsnumber": "093906097",
+"vendorname": "CARVER SUPPLY INC",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.980508029460907",
+"rank": "97"
+},
+{
+"dunsnumber": "193879046",
+"vendorname": "VEHICLE MAINTENANCE PROGRAM, INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9796423316001892",
+"rank": "98"
+},
+{
+"dunsnumber": "008285165",
+"vendorname": "SODERBERG MFG.CO.INC.",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.978107213973999",
+"rank": "99"
+},
+{
+"dunsnumber": "833926728",
+"vendorname": "MARY HELEN PARKEY",
+"productorservicecode": "6145: WIRE AND CABLE, ELECTRICAL",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9779520034790039",
+"rank": "100"
 }
 ]

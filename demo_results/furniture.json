@@ -1,602 +1,802 @@
 [
 {
-"vendorname": "ALPHA OFFICE SUPPLIES INCORPORATED",
-"dunsnumber": "155415078",
-"pred": "7809.6422766666665",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "051577294",
+"vendorname": "SPINNEYBECK ENTERPRISES, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.341545581817627",
+"rank": "1"
 },
 {
-"vendorname": "AARCO PRODUCTS, INC.",
-"dunsnumber": "010018737",
-"pred": "6244.443573333334",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "131857331",
+"vendorname": "CORNERSTONE EQUIPMENT AND SUPPLY INCORPORATED",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.3391491174697876",
+"rank": "2"
 },
 {
-"vendorname": "SOURCEAMERICA",
-"dunsnumber": "074809377",
-"pred": "5870.689596124999",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "807040258",
+"vendorname": "GOVERNMENT SALES, LLC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.2114781141281128",
+"rank": "3"
 },
 {
-"vendorname": "CONFIGURATION INCORPORATED",
-"dunsnumber": "804514602",
-"pred": "5337.040484928334",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "057272486",
+"vendorname": "FEDERAL PRISON INDUSTRIES INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1896991729736328",
+"rank": "4"
 },
 {
-"vendorname": "NORTH AMERICAN RESCUE, LLC",
-"dunsnumber": "832426782",
-"pred": "3924.9575",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "185930542",
+"vendorname": "UNICOR FEDERAL PRISON INDUSTRIES INCORPORATED (5705) 1182724",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.163647174835205",
+"rank": "5"
 },
 {
-"vendorname": "NATIONAL INDUSTRIES FOR THE BLIND",
-"dunsnumber": "001672120",
-"pred": "3621.7063372222215",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "082193277",
+"vendorname": "PELICAN PRODUCTS INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1539416313171387",
+"rank": "6"
 },
 {
-"vendorname": "AIR PRODUCTS AND CHEMICALS INCORPORATED",
-"dunsnumber": "099109766",
-"pred": "3384.5632",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "006247126",
+"vendorname": "TENNANT COMPANY",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1379584074020386",
+"rank": "7"
 },
 {
-"vendorname": "ABBOTT LABORATORIES INC",
-"dunsnumber": "967474896",
-"pred": "2784.0176",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "045107349",
+"vendorname": "THOMAS W. RAFTERY, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1378774642944336",
+"rank": "8"
 },
 {
-"vendorname": "INVACARE CORPORATION",
-"dunsnumber": "076916246",
-"pred": "2726.6083716666667",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SUPPLYCORE, INC",
-"dunsnumber": "116057019",
-"pred": "2627.928428",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ARTHREX, INC",
-"dunsnumber": "131747628",
-"pred": "2052.2928072500004",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SUNRISE MEDICAL HHG INC.",
-"dunsnumber": "019666098",
-"pred": "1780.9564714285714",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "PRIDE MOBILITY PRODUCTS CORPORATION",
-"dunsnumber": "041477449",
-"pred": "1667.8596",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "JORDAN RESES SUPPLY COMPANY, LLC",
-"dunsnumber": "142440150",
-"pred": "1646.6114666666665",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "IMPLANT INNOVATIONS INCORPORATED",
-"dunsnumber": "186127825",
-"pred": "1331.3710575",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CLARKE HEALTH CARE PRODUCTS, INC.",
-"dunsnumber": "174205013",
-"pred": "1202.4493133333333",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "PROAIM AMERICAS, LLC",
-"dunsnumber": "962568338",
-"pred": "1129.15933",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "TULSA DENTAL PRODUCTS, INC",
-"dunsnumber": "197425523",
-"pred": "1094.9030885",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "HOLLISTER INCORPORATED",
-"dunsnumber": "005527098",
-"pred": "1092.67",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ELECTRIC MOBILITY CORPORATION",
-"dunsnumber": "073680126",
-"pred": "1065.69038",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ROHO GROUP INCORPORATED THE",
-"dunsnumber": "071985816",
-"pred": "1061.6755",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "TIMM MEDICAL TECHNOLOGIES, INC.",
-"dunsnumber": "031693195",
-"pred": "904.00916",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MECO CORPORATION",
-"dunsnumber": "003391661",
-"pred": "878.9882156666667",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MARATHON, INC.",
-"dunsnumber": "119312671",
-"pred": "773.727712",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "KALMAR RT CENTER LLC",
-"dunsnumber": "123343027",
-"pred": "771.9795",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CUSTOM PRODUCTION MFG., INC.",
-"dunsnumber": "187635792",
-"pred": "766.9073875",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "HERMAN MILLER INC",
-"dunsnumber": "053618807",
-"pred": "721.7685561249999",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "CATERPILLAR INC.",
-"dunsnumber": "944204924",
-"pred": "719.84645",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "BOSTON SCIENTIFIC CORPORATION",
-"dunsnumber": "021717889",
-"pred": "707.583195075",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "OSHKOSH DEFENSE, LLC",
-"dunsnumber": "079467211",
-"pred": "699.44293",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ATLANTIC DIVING SUPPLY, INC.",
-"dunsnumber": "027079776",
-"pred": "697.3392046249999",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "SOFTCHOICE CORPORATION",
-"dunsnumber": "929022028",
-"pred": "692.19262",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MEDLINE INDUSTRIES INC.",
-"dunsnumber": "025460908",
-"pred": "677.0292113333331",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "HERMAN MILLER INCORPORATED",
-"dunsnumber": "006012801",
-"pred": "663.8832689108697",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "BIOMEDICAL LIFE SYSTEMS INCORPORATED",
-"dunsnumber": "118289172",
-"pred": "654.9447",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "BENTCO OFFICE SOLUTIONS",
-"dunsnumber": "962900288",
-"pred": "646.5204055666667",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "GOLDEN BROTHERS, INC.",
-"dunsnumber": "150742401",
-"pred": "631.5215871428571",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "FLA ORTHOPEDICS INCORPORATED",
-"dunsnumber": "030764260",
-"pred": "630.9891",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "JOFCO INC",
-"dunsnumber": "006366116",
-"pred": "630.9694052",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "ARACENT HEALTHCARE, LLC",
-"dunsnumber": "143635477",
-"pred": "614.5985360000001",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DIEBOLD INCORPORATED",
-"dunsnumber": "939061057",
-"pred": "602.1150866666666",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "LSL INDUSTRIES INCORPORATED",
-"dunsnumber": "046703096",
-"pred": "600.2716",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CROWN THERAPEUTICS INCORPORATED",
-"dunsnumber": "807175559",
-"pred": "569.3756",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "GRAYBAR ELECTRIC COMPANY INCORPORATED (4380)",
-"dunsnumber": "001903137",
-"pred": "556.73064",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "ALCON LABORATORIES INC",
-"dunsnumber": "008018525",
-"pred": "550.1017199999999",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "HAWORTH, INC.",
-"dunsnumber": "072595457",
-"pred": "547.7187833759259",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MERCER COUNTY REHAB SUPPLY INC",
-"dunsnumber": "603822693",
-"pred": "544.1543668",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "CARDINAL HEALTH 200, INC",
-"dunsnumber": "961027315",
-"pred": "538.7862320000002",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "NORTH COAST MEDICAL, INC.",
-"dunsnumber": "060121928",
-"pred": "530.884845",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "XEROX CORPORATION",
-"dunsnumber": "039860122",
-"pred": "507.1045778333333",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "DELL FEDERAL SYSTEMS LIMITED PARTNERSHIP",
-"dunsnumber": "149530219",
-"pred": "499.5413922000001",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "BIRD & CRONIN, INC",
-"dunsnumber": "045975349",
-"pred": "498.28235",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "STAR MORNING INDUSTRIES INC",
-"dunsnumber": "025189338",
-"pred": "485.98804",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SAMMONS PRESTON",
-"dunsnumber": "791006828",
-"pred": "475.21641600000004",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "STERIS CORPORATION",
-"dunsnumber": "177360039",
-"pred": "458.5651522",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MEGHAN BLAKE INDUSTRIES, INC.",
-"dunsnumber": "003062380",
-"pred": "435.75845",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "KNOLL INC",
-"dunsnumber": "781316096",
-"pred": "432.8811684156096",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "APPTIS TECHNOLOGY SOLUTIONS, LLC",
-"dunsnumber": "827714507",
-"pred": "429.930747",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "MARK V OFFICE FURNITURE CO",
-"dunsnumber": "091639047",
-"pred": "417.8243779333333",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "HUMANSCALE CO",
-"dunsnumber": "808198196",
-"pred": "405.24106",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "INDIANA CHAIR FRAME COMPANY",
-"dunsnumber": "138096602",
-"pred": "404.55853",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "JOHNSON & JOHNSON HEALTH CARE SYSTEMS INC.",
-"dunsnumber": "782053516",
-"pred": "401.50647527692314",
-"smb": "O: OTHER THAN SMALL BUSINESS"
-},
-{
-"vendorname": "TRENDWAY CORPORATION",
-"dunsnumber": "043683515",
-"pred": "400.6982050000001",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "MILLER DESK INC",
-"dunsnumber": "003215621",
-"pred": "399.08488151666666",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
 "dunsnumber": "148983229",
-"pred": "388.8513",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"vendorname": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1332271099090576",
+"rank": "9"
 },
 {
-"vendorname": "DENTAL HEALTH PRODUCTS INCORPORATED",
-"dunsnumber": "623191194",
-"pred": "387.7479825",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "784641057",
+"vendorname": "BOH ENVIRONMENTAL",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1275509595870972",
+"rank": "10"
 },
 {
-"vendorname": "ALLIED 100 LIMITED LIABILITY COMPANY",
-"dunsnumber": "121306984",
-"pred": "385.16231999999997",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "150777738",
+"vendorname": "HDT EXPEDITIONARY SYSTEMS, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1245797872543335",
+"rank": "11"
 },
 {
-"vendorname": "PRECISION DYNAMICS CORPORATION",
-"dunsnumber": "008486367",
-"pred": "373.6845",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "621823371",
+"vendorname": "360 TENTS, L.L.C.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1243451833724976",
+"rank": "12"
 },
 {
-"vendorname": "CINCINNATI ASSOCIATION FOR THE BLIND",
-"dunsnumber": "074705559",
-"pred": "372.9676143333333",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "003197803",
+"vendorname": "L C IND INCORPORATED (6307)",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.123813509941101",
+"rank": "13"
 },
 {
-"vendorname": "VARIDESK, LLC",
-"dunsnumber": "079464963",
-"pred": "368.82553",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "131695629",
+"vendorname": "DHS SYSTEMS LLC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.122964859008789",
+"rank": "14"
 },
 {
-"vendorname": "KIMBERLY-CLARK CORPORATION",
-"dunsnumber": "006072136",
-"pred": "366.92764",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "796050516",
+"vendorname": "R-VAN MARKETING",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.1192033290863037",
+"rank": "15"
 },
 {
-"vendorname": "MEDICAL PLACE",
-"dunsnumber": "112651336",
-"pred": "364.113505",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "003100542",
+"vendorname": "WILLIAMS SCOTSMAN INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1086323261260986",
+"rank": "16"
 },
 {
-"vendorname": "AMERICAN PURCHASING SERVICE IN",
-"dunsnumber": "062722038",
-"pred": "363.7934552307692",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "606673937",
+"vendorname": "PROMAXIMA MANUFACTURING, LTD",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.105157732963562",
+"rank": "17"
 },
 {
-"vendorname": "HAMILTON PRODUCTS GROUP INCORPORATED",
-"dunsnumber": "175296391",
-"pred": "345.1920315",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "808414531",
+"vendorname": "A2Z SUPPLY CORP",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.1033647060394287",
+"rank": "18"
 },
 {
-"vendorname": "AT&T CORP.",
-"dunsnumber": "621599893",
-"pred": "344.61725",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "628036345",
+"vendorname": "UNITED PROCUREMENT, L.P.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0999161005020142",
+"rank": "19"
 },
 {
-"vendorname": "GLOBAL DISTRIBUTORS, INC",
-"dunsnumber": "969270065",
-"pred": "343.4880102909091",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "043979665",
+"vendorname": "ALASKA INDUSTRIAL RESOURCES IN",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0974295139312744",
+"rank": "20"
 },
 {
-"vendorname": "CARAHSOFT TECHNOLOGY CORPORATION",
-"dunsnumber": "088365767",
-"pred": "337.45211",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "007280647",
+"vendorname": "THOMAS, R J MANUFACTURING CO I",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0955865383148193",
+"rank": "21"
 },
 {
-"vendorname": "COOK MEDICAL INC",
-"dunsnumber": "169601999",
-"pred": "332.928575",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "024291544",
+"vendorname": "WASHINGTON MUSIC SALES CENTER INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0946407318115234",
+"rank": "22"
 },
 {
-"vendorname": "IMAGINATIVE CONCEPTS INC.",
-"dunsnumber": "121823640",
-"pred": "332.5916",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "053618807",
+"vendorname": "HERMAN MILLER INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0944929122924805",
+"rank": "23"
 },
 {
-"vendorname": "RUTA SUPPLIES, INC",
-"dunsnumber": "056410640",
-"pred": "325.3423",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "073203820",
+"vendorname": "R.M. WAITE CO., LLC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0917335748672485",
+"rank": "24"
 },
 {
-"vendorname": "INTERNATIONAL PROMOTIONAL IDEAS INC",
+"dunsnumber": "071078786",
+"vendorname": "CORT BUSINESS SERVICES CORPORATION",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0879868268966675",
+"rank": "25"
+},
+{
+"dunsnumber": "794034553",
+"vendorname": "FEDERAL PRISON INDUSTRIES INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0835145711898804",
+"rank": "26"
+},
+{
+"dunsnumber": "049505902",
+"vendorname": "FABRICARE DRAPERIES, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.082873821258545",
+"rank": "27"
+},
+{
+"dunsnumber": "011670346",
+"vendorname": "DOUGLASS INDUSTRIES INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0823211669921875",
+"rank": "28"
+},
+{
+"dunsnumber": "621407980",
+"vendorname": "MONTGOMERY MARKETING INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.081850528717041",
+"rank": "29"
+},
+{
+"dunsnumber": "016434201",
+"vendorname": "MAYER PAETZ, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0793144702911377",
+"rank": "30"
+},
+{
+"dunsnumber": "804514602",
+"vendorname": "CONFIGURATION INCORPORATED",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.072121500968933",
+"rank": "31"
+},
+{
+"dunsnumber": "074809377",
+"vendorname": "NISH",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0670068264007568",
+"rank": "32"
+},
+{
+"dunsnumber": "036601433",
+"vendorname": "SOUTHEASTERN SOLUTIONS, INC. (",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0650442838668823",
+"rank": "33"
+},
+{
+"dunsnumber": "107158412",
+"vendorname": "SPECIALMADE GOODS & SERVICES I",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0625431537628174",
+"rank": "34"
+},
+{
+"dunsnumber": "018575493",
+"vendorname": "ALLIANCE LAUNDRY SYSTEMS LLC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0621404647827148",
+"rank": "35"
+},
+{
+"dunsnumber": "013400721",
+"vendorname": "TBP SERVICES, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.059007167816162",
+"rank": "36"
+},
+{
+"dunsnumber": "032606642",
+"vendorname": "APOPKA BEAUTY & BARBER SUPPLY, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0584561824798584",
+"rank": "37"
+},
+{
+"dunsnumber": "120852520",
+"vendorname": "LIFE FITNESS, A DIVISION OF BRUNSWICK",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0569899082183838",
+"rank": "38"
+},
+{
+"dunsnumber": "788075703",
+"vendorname": "OFUS INTERNATIONAL CORP",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0536423921585083",
+"rank": "39"
+},
+{
+"dunsnumber": "835887738",
+"vendorname": "ALLIED CONTRACT, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0526642799377441",
+"rank": "40"
+},
+{
+"dunsnumber": "074800160",
+"vendorname": "UNITED STATES GOVERNMENT PRINTING OFFICE",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.05106782913208",
+"rank": "41"
+},
+{
+"dunsnumber": "097098479",
+"vendorname": "TOYOTA LIFT OF MINNESOTA INCORPORATED",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0495225191116333",
+"rank": "42"
+},
+{
+"dunsnumber": "005058920",
+"vendorname": "BLOCK AND COMPANY, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0490285158157349",
+"rank": "43"
+},
+{
+"dunsnumber": "001695568",
+"vendorname": "ARMY AND AIR FORCE EXCHANGE SERVICE (2789) 1497",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0483607053756714",
+"rank": "44"
+},
+{
+"dunsnumber": "001926955",
+"vendorname": "WIN HOLT EQUIPMENT CORPORATION (5819)",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0471279621124268",
+"rank": "45"
+},
+{
+"dunsnumber": "024249146",
+"vendorname": "JENKS, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0459532737731934",
+"rank": "46"
+},
+{
+"dunsnumber": "024042079",
+"vendorname": "MBA OFFICE SUPPLY INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0456751585006714",
+"rank": "47"
+},
+{
+"dunsnumber": "006090500",
+"vendorname": "C&H DISTRIBUTORS LLC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.043110966682434",
+"rank": "48"
+},
+{
+"dunsnumber": "858452147",
+"vendorname": "JSI STORE FIXTURES INCORPORATED",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0429896116256714",
+"rank": "49"
+},
+{
+"dunsnumber": "005153168",
+"vendorname": "A & A SHEET METAL PRODUCTS INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0425132513046265",
+"rank": "50"
+},
+{
+"dunsnumber": "926082520",
+"vendorname": "BIKE TRACK, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0412150621414185",
+"rank": "51"
+},
+{
+"dunsnumber": "091708230",
+"vendorname": "CONTRACT DECOR INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0404136180877686",
+"rank": "52"
+},
+{
+"dunsnumber": "169513108",
+"vendorname": "MODULAR SPACE CORPORATION",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0402402877807617",
+"rank": "53"
+},
+{
+"dunsnumber": "043274968",
+"vendorname": "TREEN BOX & PALLET CORP.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0393855571746826",
+"rank": "54"
+},
+{
+"dunsnumber": "928500933",
+"vendorname": "WORLD CLASS BUSINESS PRODUCTS INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0387511253356934",
+"rank": "55"
+},
+{
 "dunsnumber": "842296782",
-"pred": "324.76562",
-"smb": "S: SMALL BUSINESS"
+"vendorname": "INTERNATIONAL PROMOTIONAL IDEAS INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0386028289794922",
+"rank": "56"
 },
 {
-"vendorname": "PAIN MANAGEMENT TECHNOLOGIES INC",
-"dunsnumber": "788689797",
-"pred": "324.2099",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "103385519",
+"vendorname": "FEDERAL PRISON INDUSTRIES INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0378170013427734",
+"rank": "57"
 },
 {
-"vendorname": "BALLARD MEDICAL PRODUCTS",
-"dunsnumber": "093115632",
-"pred": "322.3481",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "075949644",
+"vendorname": "EARLE KINLAW ASSOCIATES, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0365980863571167",
+"rank": "58"
 },
 {
-"vendorname": "DLT SOLUTIONS INCORPORATED",
-"dunsnumber": "786468199",
-"pred": "319.7439253333334",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "002067155",
+"vendorname": "CRANE & CO., INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0360099077224731",
+"rank": "59"
 },
 {
-"vendorname": "HEALTHMARK INDUSTRIES COMPANY INCORPORATED",
-"dunsnumber": "057680480",
-"pred": "315.007388",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "033054784",
+"vendorname": "FRANKLIN FABRIC CO INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0353244543075562",
+"rank": "60"
 },
 {
-"vendorname": "GOVERNMENT SCIENTIFIC SOURCE, INC.",
-"dunsnumber": "785807611",
-"pred": "313.29884672699984",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "607800927",
+"vendorname": "LODGING KIT COMPANY",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0352516174316406",
+"rank": "61"
 },
 {
-"vendorname": "S S MEDICAL INCORPORATED",
-"dunsnumber": "796962876",
-"pred": "311.9098425",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "085119121",
+"vendorname": "UNICOR, FEDERAL PRISON INDUSTR",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0348217487335205",
+"rank": "62"
 },
 {
-"vendorname": "HOMECARE PRODUCTS, INC",
-"dunsnumber": "144405214",
-"pred": "308.68873679999996",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "005084835",
+"vendorname": "AMERICAN HOTEL REGISTER COMPANY",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0343728065490723",
+"rank": "63"
 },
 {
-"vendorname": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
-"dunsnumber": "835130485",
-"pred": "301.98825",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "003473345",
+"vendorname": "STAN SCHWARTZ ASSOCIATES INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0335848331451416",
+"rank": "64"
 },
 {
-"vendorname": "DJO, LLC",
-"dunsnumber": "081840873",
-"pred": "297.93426733333337",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "964253686",
+"vendorname": "GSA, HEARTLAND FINANCE CENTER 6BC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.032383680343628",
+"rank": "65"
 },
 {
-"vendorname": "CDW GOVERNMENT INCORPORATED",
-"dunsnumber": "026157235",
-"pred": "296.7304694999999",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "006096200",
+"vendorname": "INDUSTRIES FOR THE BLIND, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0284632444381714",
+"rank": "66"
 },
 {
-"vendorname": "AQUA-CHEM, INC.",
-"dunsnumber": "621088843",
-"pred": "296.4935",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "TUFFCARE, INC",
-"dunsnumber": "943489062",
-"pred": "295.7024",
-"smb": "S: SMALL BUSINESS"
-},
-{
-"vendorname": "KRUEGER INTERNATIONAL INCORPORATED",
 "dunsnumber": "032672651",
-"pred": "294.4166531",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"vendorname": "KRUEGER INTERNATIONAL INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0265846252441406",
+"rank": "67"
 },
 {
-"vendorname": "FORCE PROTECTION INDUSTRIES (INC)",
-"dunsnumber": "003268989",
-"pred": "293.93506",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "047611900",
+"vendorname": "BARLOWORLD HANDLING L.P.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0262196063995361",
+"rank": "68"
 },
 {
-"vendorname": "JORDAN RESES",
-"dunsnumber": "118075878",
-"pred": "291.3121",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "622534865",
+"vendorname": "PARADISE PILLOW INCORPORATED",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0241121053695679",
+"rank": "69"
 },
 {
-"vendorname": "TRI-ANIM HEALTH SERVICES, INC.",
-"dunsnumber": "010712461",
-"pred": "289.5644052",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "107910259",
+"vendorname": "NOBLE SALES CO INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0206596851348877",
+"rank": "70"
 },
 {
-"vendorname": "CORDIS CORPORATION",
-"dunsnumber": "004121059",
-"pred": "281.75096",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "115457215",
+"vendorname": "BOH ENVIRONMENTAL, L.L.C.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0195789337158203",
+"rank": "71"
 },
 {
-"vendorname": "VETERANS IMAGING PRODUCTS, INC",
-"dunsnumber": "938054723",
-"pred": "275.16187971428565",
-"smb": "S: SMALL BUSINESS"
+"dunsnumber": "176333961",
+"vendorname": "UNITED RENTALS, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0193054676055908",
+"rank": "72"
 },
 {
-"vendorname": "INTERNATIONAL MILITARY AND GOVERMENT LIMITED LIABILITY COMPANY",
-"dunsnumber": "170944768",
-"pred": "272.876",
-"smb": "O: OTHER THAN SMALL BUSINESS"
+"dunsnumber": "803690247",
+"vendorname": "BASIC CONCEPTS INCORPORATED",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0177106857299805",
+"rank": "73"
+},
+{
+"dunsnumber": "790364199",
+"vendorname": "PRO BUY SOLUTIONS, LLC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0164880752563477",
+"rank": "74"
+},
+{
+"dunsnumber": "189048163",
+"vendorname": "FLAGSHIP LOGISTICS, LLC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0158636569976807",
+"rank": "75"
+},
+{
+"dunsnumber": "007991748",
+"vendorname": "ARMAG CORPORATION",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0148365497589111",
+"rank": "76"
+},
+{
+"dunsnumber": "199951401",
+"vendorname": "INTIRION CORP",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.012514591217041",
+"rank": "77"
+},
+{
+"dunsnumber": "620726955",
+"vendorname": "ALLE DESIGNS",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0122848749160767",
+"rank": "78"
+},
+{
+"dunsnumber": "101253227",
+"vendorname": "SEA BOX INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.010962724685669",
+"rank": "79"
+},
+{
+"dunsnumber": "178452384",
+"vendorname": "COMMERCIAL MARKETING CORPORATION",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0107673406600952",
+"rank": "80"
+},
+{
+"dunsnumber": "600809656",
+"vendorname": "SOLUTION DYNAMICS, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.010631799697876",
+"rank": "81"
+},
+{
+"dunsnumber": "005040480",
+"vendorname": "CROWN EQUIPMENT CORPORATION",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0072894096374512",
+"rank": "82"
+},
+{
+"dunsnumber": "073983215",
+"vendorname": "DCI INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0063035488128662",
+"rank": "83"
+},
+{
+"dunsnumber": "088057158",
+"vendorname": "BSE PERFORMANCE LLC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0054534673690796",
+"rank": "84"
+},
+{
+"dunsnumber": "022595490",
+"vendorname": "GAITHERSBURG FARMERS SUPPLY INCORPORATED",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0052703619003296",
+"rank": "85"
+},
+{
+"dunsnumber": "131781643",
+"vendorname": "CAPITOL SUPPLY INCORPORATED",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.005134105682373",
+"rank": "86"
+},
+{
+"dunsnumber": "116912028",
+"vendorname": "STANLEY WORKS THE",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0050681829452515",
+"rank": "87"
+},
+{
+"dunsnumber": "025248451",
+"vendorname": "ADM INTERNATIONAL, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0040109157562256",
+"rank": "88"
+},
+{
+"dunsnumber": "128605771",
+"vendorname": "MADIX INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0035761594772339",
+"rank": "89"
+},
+{
+"dunsnumber": "783266950",
+"vendorname": "HOME DEPOT U.S.A., INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0023185014724731",
+"rank": "90"
+},
+{
+"dunsnumber": "007923014",
+"vendorname": "JACOBS TECHNOLOGY INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0014636516571045",
+"rank": "91"
+},
+{
+"dunsnumber": "006012801",
+"vendorname": "HERMAN MILLER, INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0011632442474365",
+"rank": "92"
+},
+{
+"dunsnumber": "087403499",
+"vendorname": "ADORAMA INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.000747799873352",
+"rank": "93"
+},
+{
+"dunsnumber": "048855423",
+"vendorname": "WASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0006850957870483",
+"rank": "94"
+},
+{
+"dunsnumber": "782571574",
+"vendorname": "AMERICAN MATERIAL HANDLING, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "1.0000783205032349",
+"rank": "95"
+},
+{
+"dunsnumber": "176332310",
+"vendorname": "SPORT SUPPLY GROUP, INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "1.0000717639923096",
+"rank": "96"
+},
+{
+"dunsnumber": "121540723",
+"vendorname": "S&Y TRADING CORP",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9998401999473572",
+"rank": "97"
+},
+{
+"dunsnumber": "001992338",
+"vendorname": "ATD AMERICAN COMPANY",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9992398023605347",
+"rank": "98"
+},
+{
+"dunsnumber": "606552065",
+"vendorname": "GLOBAL EQUIPMENT COMPANY INC.",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "O: OTHER THAN SMALL BUSINESS",
+"prediction": "0.9988292455673218",
+"rank": "99"
+},
+{
+"dunsnumber": "087637286",
+"vendorname": "SKYLAND EQUIPMENT CO., INC",
+"productorservicecode": "7105: HOUSEHOLD FURNITURE",
+"smb": "S: SMALL BUSINESS",
+"prediction": "0.9976641535758972",
+"rank": "100"
 }
 ]
