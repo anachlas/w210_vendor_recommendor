@@ -49,10 +49,10 @@
                         <th>Score</th>
                     </tr>
                     {% for vendor in vendors %}
-                    <tr {% if vendor.f2_ == "S: SMALL BUSINESS" %} class="success" {% endif %}>
-                        <td> {{ vendor.f0_ }}</td>
+                    <tr {% if vendor.smb == "S: SMALL BUSINESS" %} class="success" {% endif %}>
+                        <td> {{ vendor.vendorname }}</td>
                         <td> {{ vendor.dunsnumber }}</td>
-                        <td> {{ vendor.f1_|float|round(1) }}</td>
+                        <td> {{ vendor.pred|float|round(1) }}</td>
                     </tr>
                     {% endfor %}
                 </table>
