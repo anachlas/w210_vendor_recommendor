@@ -6,7 +6,7 @@ Federal Vendor Recommender is a tool to leverage the power of data science to he
 - Exploratory Data Analysis
 - ETL (Extract Transform Load)
 - Collaborative Filtering using Spark and MLLib
-- [Flask application](https://fiery-set-171213.appspot.com)
+- [Flask application](http://www.federalvendorrecommender.com)
 
 ### License
 
