@@ -165,7 +165,7 @@
                     <h4 class="description" align="left"> Imagine for a moment that you are a buyer for a government agency and you’re responsible for procuring 500 lbs. of meat. Where do you start? How do you find a vendor that can supply meat in bulk? And once you do, how do you know you've found the <i>best</i> possible vendor, in terms of quality? (After all, you don't want to be the person who bought the bad meat!) 
                     <br><br>
 
-                    As private citizens, we are inundated with online tools that help us search for and discover the best stuff: Yelp. Amazon. Angie’s List. TripAdvisor. Zillow. CarMax… the list goes on. Unfortunately, however, government buyers don’t have the same luxury of resources; there is no Yelp for federal procurement.<sup><span style="color:black" title="Federal agencies do use the Past Performance Information Retrieval System (PPIRS) to share and review past performance information for contracts above a certain dollar threshold; however, vendors can only be considered one at a time, and there is no feature that sorts or compares vendors by rating.">[1]</span></sup>
+                    As private citizens, we are inundated with online tools that help us search for and discover the best stuff: Yelp. Amazon. Angie’s List. TripAdvisor. Zillow. CarMax… the list goes on. Unfortunately, however, government buyers don’t have the same luxury of resources; there is no Yelp for federal procurement.    <sup><span style="color:black" class="bottom" title="Federal agencies do use the Past Performance Information Retrieval System (PPIRS) to share and review past performance information for contracts above a certain dollar threshold; however, vendors can only be considered one at a time, and there is no feature that sorts or compares vendors by rating.">[1]</span></sup>
                     
                     <br><br>
                     <h4 class="description" align="left">There are about <b>44,000 federal employees</b> whose job is to satisfy the government’s procurement needs by contracting with commercial and other organizations, but the market research tools available to them are fragmented, inefficient, and &mdash;  crucially &mdash; they are <i>not data-driven</i>. With nearly <b>$500 billion taxpayer dollars at stake</b> every year, it’s time for federal procurement to catch up to the rest of the world by incorporating data science into their business practices.</h4>
@@ -523,5 +523,16 @@
 
     });
 
+    $(".bottom").tooltip({
+        placement: "bottom"
+    });
+
 </script>
+
+<style>
+.tooltip-inner {
+    max-width: 400px;
+    width: 400px;
+}
+</style>
 </html>
