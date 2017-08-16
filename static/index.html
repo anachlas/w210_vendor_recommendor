@@ -116,39 +116,8 @@
                     <h2 class="title">Federal Contract Spending at a Glance</h2>
 
                     <h4 class="description" align="left">Even at $861 million, meat expenditure constitutes just 0.18% of the government's annual procurement spending. In fact, almost <b>$500 billion</b> is awarded in federal contracts every year, making the U.S. government the <b>largest purchaser of goods and services in the world.</b> The tree map below shows how much the government spent on each product or service category in 2016. The second chart displays the Top N spend categories; you can move the slider to increase or decrease the total number N.</h4>
-                    
-                    <div class='tableauPlaceholder' id='viz1502764132903' style='position: relative;'>
-                        <noscript><a href='#'><img alt='FY 2016 Government Spending'
-                                                   src='https://public.tableau.com/static/images/21/210Visualizations/FY2016GovernmentSpending/1_rss.png'
-                                                   style='border: none'></a>
-                        </noscript>
-                        <object class='tableauViz' style='display:none; align:center'>
-                            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
-                            <param name='site_root' value=''/>
-                            <param name='name' value='210Visualizations&#47;FY2016GovernmentSpending'/>
-                            <param name='tabs' value='no'/>
-                            <param name='toolbar' value='yes'/>
-                            <param name='static_image'
-                                   value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;21&#47;210Visualizations&#47;FY2016GovernmentSpending&#47;1.png'/>
-                            <param name='animate_transition' value='yes'/>
-                            <param name='display_static_image' value='yes'/>
-                            <param name='display_spinner' value='yes'/>
-                            <param name='display_overlay' value='yes'/>
-                            <param name='display_count' value='yes'/>
-                            <param name='filter' value='publish=yes'/>
-                        </object>
-                    </div>
-                    <script type='text/javascript'>
-                        var divElement = document.getElementById('viz1502764132903');
-                        var vizElement = divElement.getElementsByTagName('object')[0];
-                        vizElement.style.width='1173px';vizElement.style.height='896px';
-                        var scriptElement = document.createElement('script');
-                        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-                        vizElement.parentNode.insertBefore(scriptElement, vizElement);
-                    </script>
 
-                
-
+                    <iframe frameborder="0" marginheight="0" marginwidth="0" title="data visualization" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="width: 800px; height: 675px; margin: 0 auto; padding: 0px; border: none; display: block;" src="http://public.tableau.com/views/210Visualizations/FY2016GovernmentSpending?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;publish=yes&amp;:loadOrderID=0"></iframe>
                 </div>
             </div>
         </div>
@@ -166,7 +135,7 @@
                     <h4 class="description" align="left"> Imagine for a moment that you are a buyer for a government agency and you’re responsible for procuring 500 lbs. of meat. Where do you start? How do you find a vendor that can supply meat in bulk? And once you do, how do you know you've found the <i>best</i> possible vendor, in terms of quality? (After all, you don't want to be the person who bought the bad meat!) 
                     <br><br>
 
-                    As private citizens, we are inundated with online tools that help us search for and discover the best stuff: Yelp. Amazon. Angie’s List. TripAdvisor. Zillow. CarMax… the list goes on. Unfortunately, however, government buyers don’t have the same luxury of resources; there is no Yelp for federal procurement.<sup><span style="color:black" title="Federal agencies do use the Past Performance Information Retrieval System (PPIRS) to share and review past performance information for contracts above a certain dollar threshold; however, vendors can only be considered one at a time, and there is no feature that sorts or compares vendors by rating.">[1]</span></sup>
+                    As private citizens, we are inundated with online tools that help us search for and discover the best stuff: Yelp. Amazon. Angie’s List. TripAdvisor. Zillow. CarMax… the list goes on. Unfortunately, however, government buyers don’t have the same luxury of resources; there is no Yelp for federal procurement.<sup><span style="color:black" class="bottom" title="Federal agencies do use the Past Performance Information Retrieval System (PPIRS) to share and review past performance information for contracts above a certain dollar threshold; however, vendors can only be considered one at a time, and there is no feature that sorts or compares vendors by rating.">[1]</span></sup>
                     
                     <br><br>
                     <h4 class="description" align="left">There are about <b>44,000 federal employees</b> whose job is to satisfy the government’s procurement needs by contracting with commercial and other organizations, but the market research tools available to them are fragmented, inefficient, and &mdash;  crucially &mdash; they are <i>not data-driven</i>. With nearly <b>$500 billion taxpayer dollars at stake</b> every year, it’s time for federal procurement to catch up to the rest of the world by incorporating data science into their decision-making.</h4>
@@ -533,5 +502,17 @@
 
     });
 
+    $(".bottom").tooltip({
+        placement: "bottom"
+    });
+
 </script>
+
+<style>
+.tooltip-inner {
+    max-width: 400px;
+    width: 400px;
+}
+</style>
+
 </html>
