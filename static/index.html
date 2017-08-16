@@ -141,7 +141,7 @@
                     <script type='text/javascript'>
                         var divElement = document.getElementById('viz1502764132903');
                         var vizElement = divElement.getElementsByTagName('object')[0];
-                        vizElement.style.width='100%';vizElement.style.height='800px';
+                        vizElement.style.width='1173px';vizElement.style.height='896px';
                         var scriptElement = document.createElement('script');
                         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
                         vizElement.parentNode.insertBefore(scriptElement, vizElement);
@@ -162,13 +162,13 @@
 
                 <div class="col-md-8 col-md-offset-2">                                        
                     <img src="assets/img/theproblem.png" height="230" align="right"><br>
-                    <h4 class="description" align="left"> Imagine for a moment that you are a buyer for a government agency and you’re responsible for procuring 500 lbs. of meat. Where do you start? How do you find a vendor that can supply meat in bulk? And once you do, how do you know you've found the <i>best</i> possible vendor, in terms of quality? (After all, you don't want to be the person who bought the bad meat!)
+                    <h4 class="description" align="left"> Imagine for a moment that you are a buyer for a government agency and you’re responsible for procuring 500 lbs. of meat. Where do you start? How do you find a vendor that can supply meat in bulk? And once you do, how do you know you've found the <i>best</i> possible vendor, in terms of quality? (After all, you don't want to be the person who bought the bad meat!) 
                     <br><br>
 
-                    As private citizens, we are inundated with online tools that help us search for and discover the best stuff: Yelp. Amazon. Angie’s List. TripAdvisor. Zillow. CarMax… the list goes on. Unfortunately, however, government buyers don’t have the same luxury of resources; there is no Yelp for federal procurement.
-                        <sup><span style="color:black" class="bottom" data-original-title="Tooltip on right" title="Federal agencies do use the Past Performance Information Retrieval System (PPIRS) to share and review past performance information for contracts above a certain dollar threshold; however, vendors can only be considered one at a time, and there is no feature that sorts or compares vendors by rating.">[1]</span></sup>
+                    As private citizens, we are inundated with online tools that help us search for and discover the best stuff: Yelp. Amazon. Angie’s List. TripAdvisor. Zillow. CarMax… the list goes on. Unfortunately, however, government buyers don’t have the same luxury of resources; there is no Yelp for federal procurement.<sup><span style="color:black" title="Federal agencies do use the Past Performance Information Retrieval System (PPIRS) to share and review past performance information for contracts above a certain dollar threshold; however, vendors can only be considered one at a time, and there is no feature that sorts or compares vendors by rating.">[1]</span></sup>
+                    
                     <br><br>
-                    There are about <b>44,000 federal employees</b> whose job is to satisfy the government’s procurement needs by contracting with commercial and other organizations, but the market research tools available to them are fragmented, inefficient, and &mdash;  crucially &mdash; they are <i>not data-driven</i>. With nearly <b>$500 billion taxpayer dollars at stake</b> every year, it’s time for federal procurement to catch up to the rest of the world by incorporating data science into their business practices.</h4>
+                    <h4 class="description" align="left">There are about <b>44,000 federal employees</b> whose job is to satisfy the government’s procurement needs by contracting with commercial and other organizations, but the market research tools available to them are fragmented, inefficient, and &mdash;  crucially &mdash; they are <i>not data-driven</i>. With nearly <b>$500 billion taxpayer dollars at stake</b> every year, it’s time for federal procurement to catch up to the rest of the world by incorporating data science into their business practices.</h4>
                 </div>
             </div>
         </div>
@@ -177,10 +177,10 @@
         <div class="section text-center">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2 class="title">Putting Data Science into Federal Procurement</h2>
+                    <h2 class="title">The Solution</h2>
                     
                     <img src="assets/img/thesolution.png" height="200" align="right"><br>
-                    <h4 class="description" align="left">Government procurement data is large, noisy, incomplete, and not fully accessible to the public. We’ve found a way to overcome these challenges with an <a href="#how">end-to-end pipeline</a> that enables federal employees to more effectively find the best vendors to fulfill their procurement needs. When a buyer needs a supplier of high quality meat in bulk, Federal Vendor Recommender generates a list of vendors ranked in order of best match using the <a href="#collab">same recommendation algorithm</a> used by Amazon, YouTube, Netflix, and others. 
+                    <h4 class="description" align="left">Government procurement data is large, noisy, incomplete, and not fully accessible to the public. We’ve found a way to overcome these challenges with an <a href="#how">end-to-end pipeline</a> that enables federal employees to more effectively find the best vendors to fulfill their procurement needs. When a buyer needs a supplier of high quality meat in bulk, Federal Vendor Recommender generates a list of vendors ranked in order of best match using the <a href="#collab">same recommendation algorithm</a> widely used by social media, retail, and streaming services. 
                     <br><br>
                     We are <b>empowering government buyers</b> with the ability to conduct <b>smarter market research</b> using actionable insights to inform data-driven business decisions.</h4>
                 </div>
@@ -189,11 +189,46 @@
     
         
 
+    
+        <div class="section text-center" >
+            <div class="row" id="how">
+                <div class="col-md-8 col-md-offset-2" >
+                    <h2 class="title">Scalable End-to-End Solution</h2>
+                    
+                   <img src="assets/img/architecture.png" height="180">
+
+                    <h4 class="description">We’ve architected an end-to-end data pipeline that begins by importing federal contract data from <a href="https://www.usaspending.gov" target="_blank">USAspending.gov</a> and vendor data from the <a href="https://www.sam.gov" target="_blank">System for Award Management (SAM)</a> into Google BigQuery. We apply a recommendation algorithm called collaborative filtering which we run on distributed Spark clusters due to the immense scale of the dataset. We store the results in a separate table which the web client can then query via an API to present relevant results to our users.</h4>
+
+                    <h4 class="description">This architecture permits us to host a massive amount of data &mdash; up to 49 million historical transactions covering the last 10 years. We can train our model at scale to optimize results and provide agnostic recommendations across <i>all</i> federal agencies and <i>all</i> products and services.</h4>
+
+                    <h4 class="description">The output is easily accessible on a user-friendly front-end UI where the data can be called promptly through a massive pre-computed table (2.5B rows / 4 TB) stored on BigQuery. This allows for fast and easy market research so that buyers can make decisions quickly and efficiently.</h4>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="section text-center" >
+            <div class="row" id="collab">
+                <div class="col-md-8 col-md-offset-2" >
+                    <h2 class="title">Serendipitous Recommendations</h2>
+                   <img src="assets/img/collab.png" height="180">
+
+                    <h4 class="description">Collaborative filtering is the machine learning algorithm that fuels our recommendation engine. It’s based on the idea that people who share a preference for certain items probably have similar tastes in other items as well. By deploying the algorithm on distributed clusters, we can tackle the problem of flexibly ranking all 500,000+ vendors for any given search in order of their predicted fit for that particular requirement.</h4>
+                    
+                    <h4 class="description">For federal buyers, collaborative filtering enriches their awareness of the vendor pool by providing them with diverse and novel recommendations, allowing them to discover new vendors with whom they have never worked in the past. To that end, we believe our recommendations are <i>serendipitous</i>.</h4>
+
+                    <h4 class="description">Another advantage of collaborative filtering is that it can uncover high performing companies regardless of their size and socioeconomic status. This helps to promote compliance with <a href="https://www.sba.gov/sites/default/files/aboutsbaarticle/Small_Business_Act.pdf" target="_blank">legal</a> and <a href="https://www.acquisition.gov/sites/default/files/current/far/html/FARTOCP19.html" target="_blank">regulatory</a> requirements for the government to maximize contracting opportunities for small and disadvantaged businesses, which often presents a real challenge for buyers due to the lack of visibility of such vendors.</h4>
+
+                </div>
+            </div>
+        </div>
+
         <div class="section text-center">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2 class="title">Why Federal Vendor Recommender?</h2>
-                    <h3>We are contributing to more efficient use of taxpayer dollars.</h3>
+                    <h2 class="title">Why Federal Vendor Recommender</h2>
+                    <h3>Putting Data Science into Federal Procurement</h3>
                 
                 <div class="row features">
                     <div class="col-md-4 col-sm-4">
@@ -223,33 +258,6 @@
                 </div>
             </div>
 
-        </div>
-
-
-        <div class="section text-center" >
-            <div class="row" id="how">
-                <div class="col-md-8 col-md-offset-2" >
-                    <h2 class="title">Data Pipeline and Architecture</h2>
-                    <h3></h3>
-                   <img src="assets/img/architecture.png" height="180">
-
-                    <h4 class="description">First we import federal contract data from <a href="https://www.usaspending.gov" target="_blank">USAspending.gov</a> and vendor data from the <a href="https://www.sam.gov" target="_blank">System for Award Management (SAM)</a> into Google BigQuery. Then we run <a href="#collab">collaborative filtering</a> offline and store the results in a separate table. The web client can then query this table via an API to present relevant results to our users.</h4>
-                    <h4 class="description">Scroll down to learn more about the collaborative filtering algorithm.</h4>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="section text-center" >
-            <div class="row" id="collab">
-                <div class="col-md-8 col-md-offset-2" >
-                    <h2 class="title">Collaborative Filtering</h2>
-                    <h3></h3>
-                   <img src="assets/img/collab.png" height="180">
-
-                    <h4 class="description">Collaborative filtering is the machine learning algorithm that fuels our recommendation engine. With user-based filtering (left diagram above), the model uses one user's purchasing behavior to predict what a similarly behaving user might want to buy. Similarly, item-based filtering (right diagram) works by creating associations between items that tend to be purchased together. Federal Vendor Recommender utilizes both types of collaborative filtering models to generate its recommendations. </h4>
-                </div>
-            </div>
         </div>
 
         <div class="section" id="external">
@@ -297,6 +305,16 @@
 
         </div>
 
+
+        <div class="section text-center" >
+            <div class="row" id="collab">
+                <div class="col-md-8 col-md-offset-2" >
+                    <h2 class="title">Roadmap</h2>
+
+                    <h4 class="description">help them do their due diligence re: checking for SAM exclusions.</h4>
+                </div>
+            </div>
+        </div>
 
 
         <div class="team-1 section" id="team-1">
@@ -505,14 +523,5 @@
 
     });
 
-    $(".bottom").tooltip({
-    placement: "bottom"
-});
 </script>
-<style>
-.tooltip-inner {
-    max-width: 400px;
-    width: 400px;
-}
-</style>
 </html>
